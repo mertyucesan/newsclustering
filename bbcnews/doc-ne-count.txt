@@ -1,0 +1,5056 @@
+ea_21544926.txt	Songwriters Hall of Fame	2
+ea_21544926.txt	Tony Hatch	3
+ea_21544926.txt	JD Souther	2
+ea_21544926.txt	Tina Turner	2
+ea_21544926.txt	Rock and Roll Hall of Fame	1
+ea_21544926.txt	Joe Perry	3
+ea_21544926.txt	Aerosmith	2
+ea_21544926.txt	Steven Tyler	2
+ea_21544926.txt	Eagles	2
+ea_21544926.txt	Lou Gramm	1
+ea_21544926.txt	Mick Jones	1
+ea_21544926.txt	New York	1
+ea_21544926.txt	Petula Clark	1
+ea_21544926.txt	Holly Knight	1
+ea_21544926.txt	rock band	1
+ea_21544926.txt	Pat Benatar	1
+ea_21544926.txt	40 years	1
+ea_22307030.txt	Zachary Quinto	6
+ea_22307030.txt	Spock	3
+ea_22307030.txt	Cherry Jones	3
+ea_22307030.txt	JJ Abrams	1
+ea_22307030.txt	New York	1
+ea_22307030.txt	Williams	2
+ea_22307030.txt	Tennessee	1
+ea_22307030.txt	Ben Brantley	1
+ea_22307030.txt	Amanda Wingfield	1
+ea_22307030.txt	American Repertory Theatre	1
+ea_22307030.txt	Celia Keenan-Bolger	1
+ea_22307030.txt	John Tiffany	1
+ea_22307030.txt	Christian Slater	1
+ea_22307030.txt	Southern belle	1
+ea_22307030.txt	Jessica Lange	1
+ea_22307030.txt	Cambridge	1
+ea_22307030.txt	Tom	1
+ea_22307030.txt	America	1
+ea_22307030.txt	Laura	1
+ea_22307030.txt	Chicago	1
+ea_22307030.txt	The New York Times	1
+ea_22307030.txt	17 weeks	1
+ea_22335650.txt	US	3
+ea_22335650.txt	Pain	3
+ea_22335650.txt	Robert Downey Jr	1
+ea_22335650.txt	NORTH AMERICAN	2
+ea_22335650.txt	Iron Man	1
+ea_22335650.txt	Pepper Potts	2
+ea_22335650.txt	Downey Jr	1
+ea_22335650.txt	Gwyneth Paltrow	1
+ea_22335650.txt	Canada	2
+ea_22335650.txt	Robert De Niro	1
+ea_22335650.txt	Pearl Harbour	1
+ea_22335650.txt	Mark Wahlberg	1
+ea_22335650.txt	New York Times	1
+ea_22335650.txt	CEO	1
+ea_22335650.txt	The Avengers	1
+ea_22335650.txt	Tom Cruise	1
+ea_22335650.txt	Dwayne	1
+ea_22335650.txt	Michael Bay	1
+ea_22335650.txt	Susan Sarandon	1
+ea_22335650.txt	Captain America	1
+ea_22335650.txt	Scott	1
+ea_22335650.txt	Diane Keaton	1
+ea_22335650.txt	director	1
+ea_22335650.txt	UK	1
+ea_22335650.txt	10.7m	2
+ea_22335650.txt	17.4m	2
+ea_22335650.txt	7.5m	2
+ea_22335650.txt	20m	2
+ea_22335650.txt	$195.3 million	1
+ea_22335650.txt	12 months	1
+ea_22335650.txt	one week	1
+ea_22335650.txt	125.7m	1
+ea_22335650.txt	185.1m	1
+ea_22335650.txt	11.2m	1
+ea_22335650.txt	12.8m	1
+ea_22335650.txt	119m	1
+ea_22335650.txt	4.8m	1
+ea_22335650.txt	6.6m	1
+ea_22335650.txt	6.9m	1
+ea_22364608.txt	JJ Abrams	7
+ea_22364608.txt	Benedict Cumberbatch	3
+ea_22364608.txt	John Harrison	6
+ea_22364608.txt	director	2
+ea_22364608.txt	Spock	2
+ea_22364608.txt	UK	2
+ea_22364608.txt	Total Film	1
+ea_22364608.txt	Britain	1
+ea_22364608.txt	Chris Pine	1
+ea_22364608.txt	Kylie Minogue	1
+ea_22364608.txt	Dave Calhoun	1
+ea_22364608.txt	Ian Freer	1
+ea_22364608.txt	Christopher Nolan	1
+ea_22364608.txt	London	1
+ea_22364608.txt	Andrew Pulver	1
+ea_22364608.txt	Zachary Quinto	1
+ea_22364608.txt	Simon Pegg	2
+ea_22364608.txt	Ireland	1
+ea_22364608.txt	mint	1
+ea_22364608.txt	Matthew Leyland	1
+ea_22364608.txt	Kirk	1
+ea_22364608.txt	Scotty	1
+ea_22364608.txt	man of the match	1
+ea_22364608.txt	two-hours	1
+ea_22367170.txt	Ireland	4
+ea_22367170.txt	Marvel	1
+ea_22367170.txt	Olympus	2
+ea_22367170.txt	Steve Coogan	1
+ea_22367170.txt	Robert Downey Jr	1
+ea_22367170.txt	Oblivion	1
+ea_22367170.txt	Les Miserables	1
+ea_22367170.txt	Gwyneth Paltrow	1
+ea_22367170.txt	Shane Black	1
+ea_22367170.txt	Gerard Butler	1
+ea_22367170.txt	Tom Cruise	1
+ea_22367170.txt	Paul Raymond	1
+ea_22367170.txt	US	1
+ea_22367170.txt	Canada	1
+ea_22367170.txt	13.7m	2
+ea_22367170.txt	three weeks	1
+ea_22367170.txt	five days	1
+ea_22367170.txt	125.7m	1
+ea_22367170.txt	195.3m	1
+ea_22367170.txt	0.54m	1
+ea_22367170.txt	0.61m	1
+ea_22367170.txt	0.68m	1
+ea_22367170.txt	0.91m	1
+ea_22367170.txt	15.8m	1
+ea_22367170.txt	24.5m	1
+ea_22367170.txt	8.1m	1
+ea_22367170.txt	9.5m	1
+ea_22538260.txt	Ireland	6
+ea_22538260.txt	UK	2
+ea_22538260.txt	Zachary Quinto	1
+ea_22538260.txt	JJ Abrams	1
+ea_22538260.txt	US	3
+ea_22538260.txt	Matthew McConaughey	1
+ea_22538260.txt	Chris Pine	1
+ea_22538260.txt	Olympus	1
+ea_22538260.txt	Disney	1
+ea_22538260.txt	Mississippi	1
+ea_22538260.txt	Kirk	1
+ea_22538260.txt	Ralph	1
+ea_22538260.txt	13 weeks	1
+ea_22538260.txt	0.38m	1
+ea_22538260.txt	0.49m	1
+ea_22538260.txt	0.58m	1
+ea_22538260.txt	23.5m	1
+ea_22538260.txt	3.18m	1
+ea_22538260.txt	8.43m	1
+ea_22538260.txt	3.2m	1
+ea_22538260.txt	25m	1
+ea_22538260.txt	31m	1
+ea_22538260.txt	6m	1
+ea_22902463.txt	Steven Tyler	6
+ea_22902463.txt	Joe Perry	6
+ea_22902463.txt	Tony Hatch	3
+ea_22902463.txt	Sir Elton John	3
+ea_22902463.txt	Petula Clark	2
+ea_22902463.txt	Bernie Taupin	2
+ea_22902463.txt	Aerosmith	2
+ea_22902463.txt	Berry Gordy	2
+ea_22902463.txt	New York	2
+ea_22902463.txt	Songwriters Hall of Fame	1
+ea_22902463.txt	Smokey Robinson	4
+ea_22902463.txt	Ivor Novello	1
+ea_22902463.txt	Sting	1
+ea_22902463.txt	Phil Ramone	1
+ea_22902463.txt	Motown	2
+ea_22902463.txt	Hal David	1
+ea_22902463.txt	Times Square	1
+ea_22902463.txt	Johnny Mercer	1
+ea_22902463.txt	Lou Gramm	1
+ea_22902463.txt	JD Souther	1
+ea_22902463.txt	Mick Jones	1
+ea_22902463.txt	Holly Knight	1
+ea_22902463.txt	Emmerdale Farm	1
+ea_22902463.txt	UK	1
+ea_22902463.txt	Britain	1
+ea_22902463.txt	two-month	1
+ea_25945690.txt	Leonard Simon Nimoy	18
+ea_25945690.txt	Mr Spock	10
+ea_25945690.txt	William Shatner	3
+ea_25945690.txt	NBC	4
+ea_25945690.txt	US	3
+ea_25945690.txt	Peyton Place	2
+ea_25945690.txt	Gene Roddenberry	2
+ea_25945690.txt	US Army	1
+ea_25945690.txt	Soviet Union	1
+ea_25945690.txt	Massachusetts	1
+ea_25945690.txt	Ukraine	1
+ea_25945690.txt	Dr William Bell	1
+ea_25945690.txt	Boston	1
+ea_25945690.txt	Monk Baroni	1
+ea_25945690.txt	Los Angeles	1
+ea_25945690.txt	Desilu Productions	1
+ea_25945690.txt	Sandy	1
+ea_25945690.txt	America	1
+ea_25945690.txt	Steven Cord	1
+ea_25945690.txt	Martin Landau	1
+ea_25945690.txt	officer	1
+ea_25945690.txt	engineer	1
+ea_25945690.txt	James Doohan	1
+ea_25945690.txt	Scott	1
+ea_25945690.txt	Captain Kirk	1
+ea_25945690.txt	two weeks	2
+ea_25945690.txt	Two years	1
+ea_29503943.txt	Holocaust	4
+ea_29503943.txt	BBC	6
+ea_29503943.txt	Adolf Eichmann	3
+ea_29503943.txt	Martin Freeman	4
+ea_29503943.txt	Auschwitz	4
+ea_29503943.txt	Anthony LaPaglia	3
+ea_29503943.txt	US	5
+ea_29503943.txt	BBC One	1
+ea_29503943.txt	Memorial Day	1
+ea_29503943.txt	Memorial Day Trust	1
+ea_29503943.txt	Freddie Knoller	2
+ea_29503943.txt	director	2
+ea_29503943.txt	Leo Hurwitz	1
+ea_29503943.txt	Danny Cohen	1
+ea_29503943.txt	Olivia Marks-Woldman	1
+ea_29503943.txt	chief executive	1
+ea_29503943.txt	officer	1
+ea_29503943.txt	Milton Fruchtman	1
+ea_29503943.txt	Sherlock	1
+ea_29503943.txt	The Hobbit	1
+ea_29503943.txt	93-year	1
+ea_31016868.txt	Paul Feig	6
+ea_31016868.txt	Kate McKinnon	3
+ea_31016868.txt	Melissa McCarthy	3
+ea_31016868.txt	Leslie Jones	3
+ea_31016868.txt	Ivan Reitman	2
+ea_31016868.txt	Harold Ramis	3
+ea_31016868.txt	Bill Murray	2
+ea_31016868.txt	Kristen Wiig	2
+ea_31016868.txt	director	3
+ea_31016868.txt	Bridesmaids	1
+ea_31016868.txt	Twitter	1
+ea_31016868.txt	Ernie Hudson	1
+ea_31016868.txt	Emmy	1
+ea_31016868.txt	Chris Rock	1
+ea_31016868.txt	Dan Aykroyd	1
+ea_31016868.txt	Entertainment Weekly	1
+ea_31016868.txt	SNL	1
+ea_31016868.txt	writer	1
+ea_31016868.txt	five years	1
+ea_31016868.txt	198m	1
+ea_31016868.txt	300m	1
+ea_31662024.txt	Leonard Nimoy	28
+ea_31662024.txt	Mr Spock	13
+ea_31662024.txt	Twitter	4
+ea_31662024.txt	COPD	4
+ea_31662024.txt	George Takei	6
+ea_31662024.txt	Los Angeles	2
+ea_31662024.txt	William Shatner	2
+ea_31662024.txt	chronic lung disease	1
+ea_31662024.txt	US	1
+ea_31662024.txt	Adam	3
+ea_31662024.txt	COPD foundation	1
+ea_31662024.txt	Paris	2
+ea_31662024.txt	director	1
+ea_31662024.txt	Emmy award	1
+ea_31662024.txt	JJ Abrams	1
+ea_31662024.txt	Wil Wheaton	1
+ea_31662024.txt	MSNBC	1
+ea_31662024.txt	California	1
+ea_31662024.txt	Boston	1
+ea_31662024.txt	Grandpa	1
+ea_31662024.txt	Sandra Zober	1
+ea_31662024.txt	bronchiectasis	1
+ea_31662024.txt	Sufferers	1
+ea_31662024.txt	emphysema	1
+ea_31662024.txt	Massachusetts	1
+ea_31662024.txt	Hikaru Sulu	1
+ea_31662024.txt	Hollywood	1
+ea_31662024.txt	Wesley Crusher	1
+ea_31662024.txt	Julie	1
+ea_31662024.txt	lung diseases	1
+ea_31662024.txt	Captain Kirk	1
+ea_31662024.txt	30 years	2
+ea_31662024.txt	two decades	1
+ea_31662024.txt	two years	1
+ea_31662024.txt	1951 Bit	1
+ea_32605985.txt	Martin Freeman	7
+ea_32605985.txt	Marvel	3
+ea_32605985.txt	Marvel	2
+ea_32605985.txt	Captain America	3
+ea_32605985.txt	Sherlock	3
+ea_32605985.txt	Emmy Award	3
+ea_32605985.txt	Dr John Watson	3
+ea_32605985.txt	Bilbo Baggins	2
+ea_32605985.txt	Benedict Cumberbatch	2
+ea_32605985.txt	Captain America	1
+ea_32605985.txt	Bafta	2
+ea_32605985.txt	Civil War	2
+ea_32605985.txt	Kevin Feige	1
+ea_32605985.txt	Robert Downey Jr	1
+ea_32605985.txt	Ricky Gervais	1
+ea_32605985.txt	Doctor Strange	1
+ea_32605985.txt	Lester Nygaard	2
+ea_32605985.txt	Ultron	1
+ea_32605985.txt	Fargo	1
+ea_32605985.txt	president	1
+ea_32605985.txt	salesman	1
+ea_32605985.txt	Tim	1
+ea_33095684.txt	Chris Hemsworth	4
+ea_33095684.txt	Melissa McCarthy	4
+ea_33095684.txt	Kristen Wiig	3
+ea_33095684.txt	Kate McKinnon	2
+ea_33095684.txt	Paul Feig	3
+ea_33095684.txt	Janine Melnitz	2
+ea_33095684.txt	Leslie Jones	2
+ea_33095684.txt	Ivan Reitman	1
+ea_33095684.txt	Annie Potts	1
+ea_33095684.txt	Bill Murray	1
+ea_33095684.txt	REUTERS	1
+ea_33095684.txt	Twitter	1
+ea_33095684.txt	Sigourney Weaver	1
+ea_33095684.txt	Director	1
+ea_33095684.txt	Ernie Hudson	1
+ea_33095684.txt	Sony	1
+ea_33095684.txt	Harold Ramis	1
+ea_33095684.txt	Dan Akroyd	1
+ea_33095684.txt	Variety	1
+ea_33095684.txt	UK	1
+ea_33095684.txt	US	1
+ea_33095684.txt	Dana	1
+ea_33095684.txt	#whoyougonnacall	1
+ea_33095684.txt	five years	1
+ea_33095684.txt	198m	1
+ea_33095684.txt	300m	1
+ea_34704082.txt	CBS	4
+ea_34704082.txt	Alex Kurtzman	2
+ea_34704082.txt	CBS Studios International	1
+ea_34704082.txt	David Stapf	2
+ea_34704082.txt	Television Network	2
+ea_34704082.txt	social media	1
+ea_34704082.txt	executive producer	1
+ea_34704082.txt	president	1
+ea_35584308.txt	Taylor Swift	7
+ea_35584308.txt	Grammy	6
+ea_35584308.txt	Kendrick Lamar	5
+ea_35584308.txt	Ed Sheeran	4
+ea_35584308.txt	Lady Gaga	2
+ea_35584308.txt	Stevie Wonder	2
+ea_35584308.txt	Adele	3
+ea_35584308.txt	David Bowie	2
+ea_35584308.txt	Los Angeles	1
+ea_35584308.txt	Asif Kapadia	1
+ea_35584308.txt	Wiz Khalifa	1
+ea_35584308.txt	Rihanna	1
+ea_35584308.txt	Justin Bieber	1
+ea_35584308.txt	Alabama	1
+ea_35584308.txt	BBC	1
+ea_35584308.txt	Amy Winehouse	1
+ea_35584308.txt	captionStars	1
+ea_35584308.txt	Eagles	1
+ea_35584308.txt	Mark Ronson	1
+ea_35584308.txt	Tony Bennett	1
+ea_35584308.txt	Maurice White	1
+ea_35584308.txt	rock band	1
+ea_35584308.txt	Glenn Frey	1
+ea_35584308.txt	Meghan Trainor	2
+ea_35584308.txt	Alice Cooper	1
+ea_35584308.txt	Little Big	1
+ea_35584308.txt	Hollywood	1
+ea_35584308.txt	Jackson Browne	1
+ea_35584308.txt	Bruno Mars	1
+ea_35584308.txt	Johnny Depp	1
+ea_35584308.txt	Ellie Goulding	1
+ea_35584308.txt	Joe Perry	1
+ea_35584308.txt	Woods	1
+ea_35584308.txt	James Bay	1
+ea_35584308.txt	four years	1
+ea_35584308.txt	11-year	1
+ea_36191146.txt	Melissa McCarthy	2
+ea_36191146.txt	YouTube	2
+ea_36191146.txt	Kristen Wiig	2
+ea_36191146.txt	Paul Feig	2
+ea_36191146.txt	Justin Bieber	1
+ea_36191146.txt	Kate McKinnon	1
+ea_36191146.txt	Rebecca Black	1
+ea_36191146.txt	Leslie Jones	1
+ea_36191146.txt	director	1
+ea_36191146.txt	The Guardian	1
+ea_36246775.txt	Captain America	7
+ea_36246775.txt	Civil War	2
+ea_36246775.txt	United States	2
+ea_36246775.txt	Marvel	1
+ea_36246775.txt	Chadwick Boseman	1
+ea_36246775.txt	Scarlett Johansson	1
+ea_36246775.txt	Chris Evans	1
+ea_36246775.txt	Robert Downey Jr	1
+ea_36246775.txt	Tom Holland	1
+ea_36246775.txt	Disney	1
+ea_36246775.txt	NORTH AMERICAN	1
+ea_36246775.txt	Ultron	1
+ea_36246775.txt	Zootopia	1
+ea_36246775.txt	The Avengers	1
+ea_36246775.txt	181.8m	2
+ea_36246775.txt	122.2m	1
+ea_36246775.txt	125.8m	1
+ea_36246775.txt	132.4m	1
+ea_36246775.txt	176.6m	1
+ea_36246775.txt	179.2m	1
+ea_36246775.txt	191.3m	1
+ea_36246775.txt	207.4m	1
+ea_36246775.txt	208.8m	1
+ea_36246775.txt	21.9m	1
+ea_36246775.txt	144m	1
+ea_36246775.txt	145m	1
+ea_36246775.txt	172m	1
+ea_36246775.txt	197m	1
+ea_36246775.txt	248m	1
+ea_36246775.txt	259m	1
+ea_36246775.txt	285m	1
+ea_36246775.txt	3.1m	1
+ea_36246775.txt	3.6m	1
+ea_36246775.txt	648m	1
+ea_36246775.txt	936m	1
+ea_36246775.txt	30%	1
+ea_36246775.txt	9m	1
+ea_36357838.txt	Captain America	4
+ea_36357838.txt	Ryan Gosling	2
+ea_36357838.txt	Disney	2
+ea_36357838.txt	Russell Crowe	2
+ea_36357838.txt	North American	2
+ea_36357838.txt	Civil War	2
+ea_36357838.txt	Sony	2
+ea_36357838.txt	Josh Gad	2
+ea_36357838.txt	Danny McBride	2
+ea_36357838.txt	Paul Dergarabedian	2
+ea_36357838.txt	Josh Greenstein	1
+ea_36357838.txt	Jason Sudeikis	2
+ea_36357838.txt	president of worldwide marketing and distribution	1
+ea_36357838.txt	Seth Rogen	1
+ea_36357838.txt	analyst	1
+ea_36357838.txt	Zac Efron	1
+ea_36357838.txt	bird Red	1
+ea_36357838.txt	Zootopia	1
+ea_36357838.txt	Rose Byrne	1
+ea_36357838.txt	LA	1
+ea_36357838.txt	Chuck	1
+ea_36357838.txt	11m	3
+ea_36357838.txt	39m	2
+ea_36357838.txt	8m	2
+ea_36357838.txt	four weeks	1
+ea_36357838.txt	347.4m	1
+ea_36357838.txt	11.3m	1
+ea_36357838.txt	21.8M	1
+ea_36357838.txt	21.8m	1
+ea_36357838.txt	33.1m	1
+ea_36357838.txt	104m	1
+ea_36357838.txt	150m	1
+ea_36357838.txt	240m	1
+ea_36357838.txt	15m	1
+ea_36357838.txt	23m	1
+ea_36357838.txt	27m	1
+ea_36357838.txt	31m	1
+ea_36357838.txt	34m	1
+ea_36357838.txt	49m	1
+ea_36357838.txt	50m	1
+ea_36357838.txt	73m	1
+ea_36357838.txt	90%	1
+ea_36412028.txt	Alice	5
+ea_36412028.txt	Johnny Depp	3
+ea_36412028.txt	Heard	3
+ea_36412028.txt	Captain America	2
+ea_36412028.txt	Disney	2
+ea_36412028.txt	North American	2
+ea_36412028.txt	Olivia Munn	1
+ea_36412028.txt	Civil War	2
+ea_36412028.txt	US	2
+ea_36412028.txt	Psylocke	2
+ea_36412028.txt	James Bobin	1
+ea_36412028.txt	Paul Dergarabedian	2
+ea_36412028.txt	Tim Burton	1
+ea_36412028.txt	Dave Hollis	1
+ea_36412028.txt	media analyst	1
+ea_36412028.txt	comScore	1
+ea_36412028.txt	Wonderland	1
+ea_36412028.txt	12.7m	2
+ea_36412028.txt	18.7m	2
+ea_36412028.txt	19.2m	2
+ea_36412028.txt	28.1m	2
+ea_36412028.txt	44.4m	2
+ea_36412028.txt	116m	2
+ea_36412028.txt	65m	2
+ea_36412028.txt	132.4m	1
+ea_36412028.txt	10.3m	1
+ea_36412028.txt	15.1m	1
+ea_36412028.txt	90.5m	1
+ea_36412028.txt	90.8m	1
+ea_36412028.txt	170m	1
+ea_36412028.txt	6.2m	1
+ea_36412028.txt	9.1m	1
+ea_36412028.txt	60m	1
+ea_36415912.txt	Dan Aykroyd	7
+ea_36415912.txt	Kristen Wiig	4
+ea_36415912.txt	Melissa McCarthy	3
+ea_36415912.txt	executive producer	2
+ea_36415912.txt	Bill Murray	2
+ea_36415912.txt	Ray Stantz	2
+ea_36415912.txt	Paul Feig	2
+ea_36415912.txt	Kate McKinnon	2
+ea_36415912.txt	Ivan Reitman	1
+ea_36415912.txt	Rick Moranis	1
+ea_36415912.txt	Leslie Jones	2
+ea_36415912.txt	YouTube	1
+ea_36415912.txt	Facebook	1
+ea_36415912.txt	social media	1
+ea_36415912.txt	US	1
+ea_36415912.txt	Ernie Hudson	1
+ea_36415912.txt	Harold Ramis	1
+ea_36415912.txt	UK	1
+ea_36415912.txt	five years	1
+ea_36415912.txt	198m	1
+ea_36415912.txt	300m	1
+ea_36458509.txt	Jason Bateman	2
+ea_36458509.txt	Ginnifer Goodwin	2
+ea_36458509.txt	Shakira	2
+ea_36458509.txt	Zootopia	2
+ea_36458509.txt	Jojo Moyes	1
+ea_36458509.txt	Emilia Clarke	1
+ea_36458509.txt	Idris Elba	1
+ea_36458509.txt	Sam Claflin	1
+ea_36458509.txt	Johnny Depp	1
+ea_36458509.txt	US	1
+ea_36458509.txt	Octavia Spencer	1
+ea_36458509.txt	Marvel	1
+ea_36458509.txt	Civil War	1
+ea_36458509.txt	Alice	1
+ea_36458509.txt	Disney	1
+ea_36458509.txt	UK	1
+ea_36458509.txt	Zootopia	1
+ea_36458509.txt	Zootropolis	1
+ea_36458509.txt	billion-dollar	1
+ea_36458509.txt	two years	1
+ea_36458509.txt	10.7m	1
+ea_36458509.txt	15.5m	1
+ea_36458509.txt	22.3m	1
+ea_36458509.txt	24.2m	1
+ea_36458509.txt	35.3m	1
+ea_36458509.txt	45.4m	1
+ea_36458509.txt	65.6m	1
+ea_36458509.txt	6.8m	1
+ea_36458509.txt	693m	1
+ea_36458509.txt	7.4m	1
+ea_36458509.txt	9.8m	1
+ea_36516057.txt	Vera Farmiga	2
+ea_36516057.txt	Patrick Wilson	2
+ea_36516057.txt	North American	2
+ea_36516057.txt	Jesse Eisenberg	1
+ea_36516057.txt	Pixar	1
+ea_36516057.txt	US	1
+ea_36516057.txt	Comscore	1
+ea_36516057.txt	Paul Dergarabedian	1
+ea_36516057.txt	media analyst	1
+ea_36516057.txt	Woody Harrelson	1
+ea_36516057.txt	China	1
+ea_36516057.txt	Ultron	1
+ea_36516057.txt	Mark Ruffalo	1
+ea_36516057.txt	23m	3
+ea_36516057.txt	14.8m	2
+ea_36516057.txt	16.2m	2
+ea_36516057.txt	24.4m	2
+ea_36516057.txt	40.4m	2
+ea_36516057.txt	10m	2
+ea_36516057.txt	five days	1
+ea_36516057.txt	112.8m	1
+ea_36516057.txt	10.4m	1
+ea_36516057.txt	17.2m	1
+ea_36516057.txt	28.5m	1
+ea_36516057.txt	29.4m	1
+ea_36516057.txt	110m	1
+ea_36516057.txt	156m	1
+ea_36516057.txt	160m	1
+ea_36516057.txt	7m	1
+ea_36649506.txt	Kevin Hart	2
+ea_36649506.txt	UK	2
+ea_36649506.txt	Roland Emmerich	1
+ea_36649506.txt	Johnson	2
+ea_36649506.txt	Louis CK	1
+ea_36649506.txt	Steve Coogan	1
+ea_36649506.txt	Ireland	1
+ea_36649506.txt	Dwayne	1
+ea_36649506.txt	Central Intelligence	1
+ea_36649506.txt	IRELAND	1
+ea_36649506.txt	5.06m	2
+ea_36649506.txt	9.58m	2
+ea_36649506.txt	20 years	1
+ea_36649506.txt	0.20m	1
+ea_36649506.txt	0.66m	1
+ea_36649506.txt	1.56m	1
+ea_36649506.txt	3.6m	1
+ea_36670501.txt	Joanna Lumley	11
+ea_36670501.txt	Jennifer Saunders	6
+ea_36670501.txt	Empire film magazine	1
+ea_36670501.txt	Edina	3
+ea_36670501.txt	Ab Fab	1
+ea_36670501.txt	Leslie Felperin	2
+ea_36670501.txt	Julia Sawalha	2
+ea_36670501.txt	Libby Purves	1
+ea_36670501.txt	London	1
+ea_36670501.txt	Helen O'hara	1
+ea_36670501.txt	Robbie Collin	1
+ea_36670501.txt	Botox	1
+ea_36670501.txt	Peter Bradshaw	1
+ea_36670501.txt	Celia Imrie	1
+ea_36670501.txt	Dan Wootton	1
+ea_36670501.txt	Kylie Minogue	2
+ea_36670501.txt	Daily Mirror	1
+ea_36670501.txt	Tinie Tempah	1
+ea_36670501.txt	Bolly	1
+ea_36670501.txt	Kate Moss	1
+ea_36670501.txt	Mandie Fletcher	1
+ea_36670501.txt	Patsy	1
+ea_36670501.txt	David Edwards	1
+ea_36670501.txt	Jane Horrocks	1
+ea_36670501.txt	Judith Chalmers	1
+ea_36670501.txt	Cannes	1
+ea_36670501.txt	Charles Gant	1
+ea_36670501.txt	Joan Collins	1
+ea_36670501.txt	Guy Lodge	1
+ea_36670501.txt	Director	1
+ea_36670501.txt	editor	1
+ea_36670501.txt	Britain	1
+ea_36670501.txt	Variety	1
+ea_36670501.txt	Eddy	1
+ea_36670501.txt	Saffy	1
+ea_36670501.txt	The Hollywood Reporter	1
+ea_36670501.txt	the Queen	1
+ea_36670501.txt	Twenty-five years	1
+ea_36670501.txt	news@bbc.co.uk	1
+ea_36670501.txt	90 minutes	1
+ea_36670501.txt	five years	1
+ea_36670501.txt	91-minute	1
+ea_36682609.txt	Sir John	5
+ea_36682609.txt	Sir John Hurt	1
+ea_36682609.txt	Sir Kenneth Branagh	1
+ea_36682609.txt	Sir Kenneth	2
+ea_36682609.txt	John Osborne	1
+ea_36682609.txt	Rob Ashford	2
+ea_36682609.txt	pancreatic cancer	1
+ea_36682609.txt	Garrick Theatre	1
+ea_36682609.txt	Billy Rice	1
+ea_36682609.txt	director	1
+ea_36682609.txt	Archie	1
+ea_36682609.txt	news@bbc.co.uk	1
+ea_36682609.txt	@BBCNewsEnts	1
+ea_36682609.txt	76-year	1
+ea_36686616.txt	Drake ft Wizkid	4
+ea_36686616.txt	Adele	5
+ea_36686616.txt	Justin Timberlake	3
+ea_36686616.txt	Coldplay	3
+ea_36686616.txt	Rihanna	3
+ea_36686616.txt	Rick Astley	2
+ea_36686616.txt	Glastonbury Festival	2
+ea_36686616.txt	Calvin Harris	2
+ea_36686616.txt	Kungs	3
+ea_36686616.txt	singles chart	1
+ea_36686616.txt	Official Charts Company	2
+ea_36686616.txt	Bryan Adams	2
+ea_36686616.txt	UK	1
+ea_36686616.txt	Rihanna	1
+ea_36686616.txt	Beyonce	1
+ea_36686616.txt	ELO	1
+ea_36686616.txt	Jeff Lynne	1
+ea_36686616.txt	producer	1
+ea_36686616.txt	Neil Young	1
+ea_36686616.txt	15-week	1
+ea_36686616.txt	231%	1
+ea_36715924.txt	UK	5
+ea_36715924.txt	Jennifer Saunders	3
+ea_36715924.txt	Joanna Lumley	3
+ea_36715924.txt	Cameron Saunders	2
+ea_36715924.txt	UK managing director	1
+ea_36715924.txt	Edina	2
+ea_36715924.txt	Kevin Hart	1
+ea_36715924.txt	Twentieth Century Fox	1
+ea_36715924.txt	France	1
+ea_36715924.txt	Patsy	1
+ea_36715924.txt	Spectre	1
+ea_36715924.txt	Dwayne	1
+ea_36715924.txt	IRELAND	1
+ea_36715924.txt	Johnson	1
+ea_36715924.txt	0.82m	2
+ea_36715924.txt	2.02m	2
+ea_36715924.txt	3.05m	2
+ea_36715924.txt	4.04m	2
+ea_36715924.txt	4.73m	2
+ea_36715924.txt	news@bbc.co.uk	1
+ea_36715924.txt	16.61m	1
+ea_36722392.txt	Captain America	7
+ea_36722392.txt	Lower East Side	3
+ea_36722392.txt	Brooklyn	6
+ea_36722392.txt	Marvel	3
+ea_36722392.txt	Jack Kirby	3
+ea_36722392.txt	Prospect Park	2
+ea_36722392.txt	Civil War	2
+ea_36722392.txt	US	2
+ea_36722392.txt	New York park	1
+ea_36722392.txt	San Diego	1
+ea_36722392.txt	Cap	2
+ea_36722392.txt	Manhattan	1
+ea_36722392.txt	Nicholas Slayton	1
+ea_36722392.txt	senior vice-president	1
+ea_36722392.txt	co-creator	1
+ea_36722392.txt	Ronald Pollock	1
+ea_36722392.txt	Paul Gitter	1
+ea_36722392.txt	USA Today	1
+ea_36722392.txt	Mary Sue	1
+ea_36722392.txt	Austrian-Jewish	1
+ea_36722392.txt	Teresa Jusino	1
+ea_36722392.txt	news@bbc.co.uk	1
+ea_36722392.txt	139.9m	1
+ea_36722392.txt	181.8m	1
+ea_36722392.txt	13-ft	1
+ea_36722392.txt	3.96m	1
+ea_36736006.txt	Star Trek	3
+ea_36736006.txt	John Cho	4
+ea_36736006.txt	George Takei	5
+ea_36736006.txt	Hikaru Sulu	2
+ea_36736006.txt	Simon Pegg	1
+ea_36736006.txt	partner	1
+ea_36736006.txt	US	1
+ea_36736006.txt	news@bbc.co.uk	1
+ea_36744328.txt	George Takei	20
+ea_36744328.txt	Sulu	7
+ea_36744328.txt	Simon Pegg	8
+ea_36744328.txt	Gene Roddenberry	9
+ea_36744328.txt	John Cho	6
+ea_36744328.txt	Justin Lin	3
+ea_36744328.txt	Lt Uhura	6
+ea_36744328.txt	US	1
+ea_36744328.txt	The Hollywood Reporter	1
+ea_36744328.txt	partner	1
+ea_36744328.txt	director	1
+ea_36744328.txt	Reporter	1
+ea_36744328.txt	Hollywood	1
+ea_36744328.txt	Captain Kirk	1
+ea_36744328.txt	writer	1
+ea_36744328.txt	Doug Jung	1
+ea_36744328.txt	news@bbc.co.uk	1
+ea_36744328.txt	79-year	1
+ea_36762581.txt	Joe Perry	11
+ea_36762581.txt	Alice Cooper	2
+ea_36762581.txt	Twitter	2
+ea_36762581.txt	Brooklyn	2
+ea_36762581.txt	Ford Amphitheatre	1
+ea_36762581.txt	Coney Island	1
+ea_36762581.txt	Johnny Depp	1
+ea_36762581.txt	New York	1
+ea_36762581.txt	Hollywood	1
+ea_36762581.txt	Kettering	1
+ea_36762581.txt	NBC News	1
+ea_36762581.txt	Kevin Phalon	1
+ea_36762581.txt	Ohio	1
+ea_36762581.txt	US	1
+ea_36762581.txt	news@bbc.co.uk	1
+ea_36762581.txt	@JoePerry	1
+ea_36763112.txt	Paul Feig	3
+ea_36763112.txt	Richard Lawson	3
+ea_36763112.txt	Helen O'Hara	2
+ea_36763112.txt	YouTube	1
+ea_36763112.txt	US	1
+ea_36763112.txt	Manohla Dargis	1
+ea_36763112.txt	Robbie Collin	1
+ea_36763112.txt	Peter Debruge	2
+ea_36763112.txt	Nigel M Smith	1
+ea_36763112.txt	Waterloo Station	1
+ea_36763112.txt	Empire magazine	1
+ea_36763112.txt	Jonathan Pile	1
+ea_36763112.txt	Tim Grierson	1
+ea_36763112.txt	David Rooney	1
+ea_36763112.txt	Hollywood	1
+ea_36763112.txt	GQ	1
+ea_36763112.txt	Jamie East	1
+ea_36763112.txt	Melissa McCarthy	1
+ea_36763112.txt	social media	1
+ea_36763112.txt	London	1
+ea_36763112.txt	Screen International	1
+ea_36763112.txt	Reddit	1
+ea_36763112.txt	Los Angeles	1
+ea_36763112.txt	editor	1
+ea_36763112.txt	Kristen Wiig	1
+ea_36763112.txt	director	1
+ea_36763112.txt	Reporter	1
+ea_36763112.txt	UK	1
+ea_36763112.txt	community site	1
+ea_36763112.txt	Kate McKinnon	1
+ea_36763112.txt	Leslie Jones	1
+ea_36763112.txt	The New York Times	1
+ea_36763112.txt	The Telegraph	1
+ea_36763112.txt	news@bbc.co.uk	1
+ea_36763112.txt	#Ghostbusters	1
+ea_36763112.txt	32 years	1
+ea_36772249.txt	Queen Latifah	6
+ea_36772249.txt	Missy Elliott	3
+ea_36772249.txt	Alicia Garza	1
+ea_36772249.txt	VH1	1
+ea_36772249.txt	US	1
+ea_36772249.txt	Dallas	1
+ea_36772249.txt	co-founder	1
+ea_36772249.txt	P Diddy	1
+ea_36772249.txt	Kim	1
+ea_36772251.txt	UK	5
+ea_36772251.txt	Eric Stonestreet	1
+ea_36772251.txt	Kevin Hart	1
+ea_36772251.txt	2.96m	2
+ea_36772251.txt	3.57m	2
+ea_36772251.txt	3.62m	2
+ea_36772251.txt	22.26m	1
+ea_36772251.txt	1.34m	1
+ea_36772251.txt	2.31m	1
+ea_36772251.txt	22m	1
+ea_36772253.txt	Vincent Van Gogh	8
+ea_36772253.txt	Dr Felix Rey	6
+ea_36772253.txt	Van Gogh Museum	1
+ea_36772253.txt	Bernadette Murphy	2
+ea_36772253.txt	Rachel	3
+ea_36772253.txt	Bancroft Library	1
+ea_36772253.txt	Irving Stone	1
+ea_36772253.txt	Netherlands	1
+ea_36772253.txt	Arles	1
+ea_36772253.txt	Amsterdam	1
+ea_36772253.txt	University of California	1
+ea_36772253.txt	two years	1
+ea_36772329.txt	Ryan Phillippe	3
+ea_36772329.txt	Omar Epps	2
+ea_36772329.txt	Mark Wahlberg	2
+ea_36772329.txt	USA Network	2
+ea_36772329.txt	Dallas	2
+ea_36772329.txt	Executive Vice President of Original Programming	1
+ea_36772329.txt	US	2
+ea_36772329.txt	executive producer	1
+ea_36772329.txt	Bob Lee Swagger	1
+ea_36772329.txt	Stephen Hunter	1
+ea_36772329.txt	Hollywood Reporter	1
+ea_36772329.txt	president	1
+ea_36772329.txt	Jackie de Crinis	1
+ea_36772329.txt	producer	1
+ea_36772329.txt	Texas	1
+ea_36772329.txt	EddieMcClintock	1
+ea_36772329.txt	officer	1
+ea_36772336.txt	BBC	21
+ea_36772336.txt	BBC News	4
+ea_36772336.txt	BBC Online	3
+ea_36772336.txt	General Lord Tony Hall	5
+ea_36772336.txt	BBC Radio	2
+ea_36772336.txt	Sir Cliff	5
+ea_36772336.txt	director general	3
+ea_36772336.txt	South Yorkshire Police	7
+ea_36772336.txt	Chris Evans	10
+ea_36772336.txt	Jimmy Savile	2
+ea_36772336.txt	UK	2
+ea_36772336.txt	AI	1
+ea_36772336.txt	Top Gear	2
+ea_36772336.txt	Conservative Party	1
+ea_36772336.txt	Dame Janet Smith	1
+ea_36772336.txt	Boris Johnson	2
+ea_36772336.txt	Britain	1
+ea_36772336.txt	David Sillito	1
+ea_36772336.txt	harassment	1
+ea_36772336.txt	other services	1
+ea_36772336.txt	Dame Janet	1
+ea_36772336.txt	Director	1
+ea_36772336.txt	Stuart Hall	1
+ea_36772336.txt	six hours	3
+ea_36772336.txt	96%	2
+ea_36772336.txt	nine minutes	1
+ea_36772336.txt	eight hours	1
+ea_36772336.txt	11 minutes	1
+ea_36772336.txt	21 minutes	1
+ea_36772336.txt	23 minutes	1
+ea_36772336.txt	37 minutes	1
+ea_36772336.txt	38 minutes	1
+ea_36772336.txt	59 minutes	1
+ea_36772336.txt	five hours	1
+ea_36772336.txt	nine hours	1
+ea_36772336.txt	10 days	1
+ea_36772336.txt	24-hour	1
+ea_36772336.txt	50.2%	1
+ea_36772336.txt	51.4%	1
+ea_36772336.txt	80.3%	1
+ea_36772336.txt	82.0%	1
+ea_36772336.txt	2.3m	1
+ea_36772336.txt	200m	1
+ea_36772336.txt	3.8%	1
+ea_36772336.txt	4.0%	1
+ea_36772336.txt	6.6m	1
+ea_36772336.txt	8.9m	1
+ea_36772336.txt	47m	1
+ea_36772336.txt	97%	1
+ea_36772336.txt	2m	1
+ea_36775055.txt	Hiroshima	7
+ea_36775055.txt	Michael Stevenson	6
+ea_36775055.txt	Methodist Girls	5
+ea_36775055.txt	High School	3
+ea_36775055.txt	Hiroshima Genbaku Dome	1
+ea_36775055.txt	Hiroshima school	1
+ea_36775055.txt	Manchester	2
+ea_36775055.txt	Miss Wallis-Myers	2
+ea_36775055.txt	World War	1
+ea_36775055.txt	House of Lords	1
+ea_36775055.txt	Dr Takuo Matsumoto	1
+ea_36775055.txt	North West	1
+ea_36775055.txt	Carl Austin-Behan	1
+ea_36775055.txt	supervisor	1
+ea_36775055.txt	US	1
+ea_36775055.txt	principal	1
+ea_36775055.txt	UK	1
+ea_36775055.txt	three months	1
+ea_36775055.txt	five years	1
+ea_36775312.txt	Rufus Norris	10
+ea_36775312.txt	National Theatre	5
+ea_36775312.txt	National Theatre	1
+ea_36775312.txt	Brexit	3
+ea_36775312.txt	EU	4
+ea_36775312.txt	Chiwetel Ejiofor	2
+ea_36775312.txt	Moira Buffini	1
+ea_36775312.txt	Carol Ann Duffy	1
+ea_36775312.txt	Damon Albarn	1
+ea_36775312.txt	BBC Arts Editor	1
+ea_36775312.txt	Sir Nicholas Hytner	1
+ea_36775312.txt	Paris	1
+ea_36775312.txt	Lewis Carroll	1
+ea_36775312.txt	Jeremy Deller	1
+ea_36775312.txt	Scotland	2
+ea_36775312.txt	director	1
+ea_36775312.txt	UK	1
+ea_36775312.txt	World War	1
+ea_36775312.txt	news@bbc.co.uk	1
+ea_36775312.txt	four weeks	1
+ea_36775312.txt	14 months	1
+ea_36781831.txt	Hikaru Sulu	16
+ea_36781831.txt	George Takei	9
+ea_36781831.txt	Chris Pine	5
+ea_36781831.txt	Simon Pegg	5
+ea_36781831.txt	Zachary Quinto	3
+ea_36781831.txt	Roddenberry	5
+ea_36781831.txt	Anton Yelchin	6
+ea_36781831.txt	BBC	3
+ea_36781831.txt	Justin Lin	3
+ea_36781831.txt	John Cho	2
+ea_36781831.txt	UK	2
+ea_36781831.txt	Mr Spock	2
+ea_36781831.txt	partner	2
+ea_36781831.txt	director	2
+ea_36781831.txt	Hollywood	1
+ea_36781831.txt	Partner	1
+ea_36781831.txt	Zoe Saldana	1
+ea_36781831.txt	Captain Kirk	1
+ea_36781831.txt	Pavel Chekov	2
+ea_36781831.txt	Reporter	1
+ea_36781831.txt	Associated Press	1
+ea_36781831.txt	Doug Jung	1
+ea_36781831.txt	car accident	1
+ea_36781831.txt	Ireland	2
+ea_36781831.txt	Leonard Nimoy	1
+ea_36781831.txt	Idris Elba	1
+ea_36781831.txt	Cherokee	1
+ea_36781831.txt	IMDB	1
+ea_36781831.txt	Ben	2
+ea_36781831.txt	Krall	1
+ea_36781831.txt	Rod	1
+ea_36781831.txt	Uhura	1
+ea_36781831.txt	news@bbc.co.uk	1
+ea_36781831.txt	50 years	1
+ea_36781831.txt	27-year	1
+ea_36781831.txt	79-year	1
+ea_36781831.txt	100%	1
+ea_36781990.txt	Bruce Banner	10
+ea_36781990.txt	Marvel	5
+ea_36781990.txt	The Hulk	3
+ea_36781990.txt	Amadeus Cho	2
+ea_36781990.txt	Hawkeye	2
+ea_36781990.txt	Civil War	2
+ea_36781990.txt	Avengers	1
+ea_36781990.txt	Riri Williams	2
+ea_36781990.txt	New York Daily News	1
+ea_36781990.txt	Axel Alonso	1
+ea_36781990.txt	editor in chief	1
+ea_36781990.txt	Spider-Man	1
+ea_36781990.txt	Captain America	1
+ea_36781990.txt	15-year	1
+ea_36782964.txt	Danny Dyer	3
+ea_36782964.txt	Amanda Holden	3
+ea_36782964.txt	BBC	3
+ea_36782964.txt	Colette Flight	2
+ea_36782964.txt	BBC	1
+ea_36782964.txt	Cheryl	2
+ea_36782964.txt	Britain	2
+ea_36782964.txt	Sophie Raworth	1
+ea_36782964.txt	Sir Ian McKellen	1
+ea_36782964.txt	Executive producer	1
+ea_36782964.txt	Ricky Tomlinson	1
+ea_36782964.txt	Sunetra Sarker	1
+ea_36782964.txt	Warwick Davis	1
+ea_36782964.txt	World War	1
+ea_36782964.txt	Tommy	1
+ea_36782964.txt	news@bbc.co.uk	1
+ea_36783983.txt	Len Goodman	25
+ea_36783983.txt	BBC	5
+ea_36783983.txt	Bruno Tonioli	4
+ea_36783983.txt	Craig Revel Horwood	2
+ea_36783983.txt	US	3
+ea_36783983.txt	Lizo Mzimba	1
+ea_36783983.txt	Anton Du Beke	1
+ea_36783983.txt	Tess Daly	1
+ea_36783983.txt	Darcey Bussell	1
+ea_36783983.txt	Claudia Winkleman	1
+ea_36783983.txt	Bookmaker Coral	1
+ea_36783983.txt	Charlotte Moore	1
+ea_36783983.txt	Georgia	1
+ea_36783983.txt	Sir Bruce Forsyth	1
+ea_36783983.txt	director	1
+ea_36783983.txt	Arlene Phillips	1
+ea_36783983.txt	Alesha Dixon	1
+ea_36783983.txt	news@bbc.co.uk	1
+ea_36783983.txt	three months	1
+ea_36783983.txt	10 years	1
+ea_36783983.txt	12 years	1
+ea_36783983.txt	72-year	1
+ea_36786882.txt	TalkSport	7
+ea_36786882.txt	Colin Murray	9
+ea_36786882.txt	News Corp	3
+ea_36786882.txt	Twitter	2
+ea_36786882.txt	Stan Collymore	2
+ea_36786882.txt	Liverpool	1
+ea_36786882.txt	BBC	1
+ea_36786882.txt	Wireless Group	1
+ea_36786882.txt	news@bbc.co.uk	1
+ea_36786882.txt	39-year	1
+ea_36786882.txt	#JFT96	1
+ea_36786882.txt	2019	1
+ea_36786882.txt	220m	1
+se_13506289.txt	European Space Agency	6
+se_13506289.txt	Skylon	4
+se_13506289.txt	Reaction Engines	3
+se_13506289.txt	Skylon	3
+se_13506289.txt	UK	2
+se_13506289.txt	Sabre	2
+se_13506289.txt	Dr Mark Ford	2
+se_13506289.txt	UK Space Agency	1
+se_13506289.txt	British Aerospace	1
+se_13506289.txt	Alan Bond	1
+se_13506289.txt	Hotol	1
+se_13506289.txt	Rolls Royce	1
+se_13506289.txt	managing director	1
+se_13506289.txt	telecoms	1
+se_13506289.txt	UKSA	1
+se_13506289.txt	Amos-INTERNET@bbc.co.uk	1
+se_13506289.txt	1,000-degree	1
+se_13506289.txt	30 years	1
+se_13506289.txt	$15,000	1
+se_13506289.txt	$1,000	1
+se_13506289.txt	220m	1
+se_13506289.txt	350m	1
+se_13506289.txt	84m	1
+se_13506289.txt	$9	1
+se_14412988.txt	Juno	6
+se_14412988.txt	Jupiter	5
+se_14412988.txt	Cape Canaveral Air Force Station	2
+se_14412988.txt	Solar System	3
+se_14412988.txt	helium leak	2
+se_14412988.txt	Nasa	2
+se_14412988.txt	solar cells	1
+se_14412988.txt	solar panels	1
+se_14412988.txt	Florida	1
+se_14412988.txt	New Horizons	1
+se_14412988.txt	Charles Bolden	1
+se_14412988.txt	Scott Bolton	1
+se_14412988.txt	administrator	1
+se_14412988.txt	BBC News	1
+se_14412988.txt	scientist	1
+se_14728389.txt	Juno	5
+se_14728389.txt	Nasa	1
+se_14728389.txt	solar energy	1
+se_14728389.txt	9.5 million km	2
+se_14728389.txt	Amos-INTERNET@bbc.co.uk	1
+se_14728389.txt	three years	1
+se_17864782.txt	Sabre	4
+se_17864782.txt	REL	4
+se_17864782.txt	Reaction Engines Limited	3
+se_17864782.txt	Alan Bond	3
+se_17864782.txt	Helium	3
+se_17864782.txt	Skylon	2
+se_17864782.txt	European Space Agency	4
+se_17864782.txt	Culham	2
+se_17864782.txt	Dr Mark Ford	2
+se_17864782.txt	managing director	2
+se_17864782.txt	Farnborough International Air	1
+se_17864782.txt	UK	1
+se_17864782.txt	Skylon	1
+se_17864782.txt	UK Space Agency	1
+se_17864782.txt	Britain	1
+se_17864782.txt	Oxfordshire	1
+se_17864782.txt	Avanti	1
+se_17864782.txt	David Shukman	1
+se_17864782.txt	Viper	1
+se_17864782.txt	BBC	1
+se_17864782.txt	editor	1
+se_17864782.txt	250m	2
+se_17864782.txt	hundred degrees	1
+se_17864782.txt	1,000-degree	1
+se_17864782.txt	four hours	1
+se_17864782.txt	20m	1
+se_17864782.txt	40m	1
+se_17864782.txt	85%	1
+se_18784866.txt	David Willetts	5
+se_18784866.txt	REL	3
+se_18784866.txt	Sabre	3
+se_18784866.txt	Alan Bond	2
+se_18784866.txt	UK	2
+se_18784866.txt	Reaction Engines Limited	1
+se_18784866.txt	Tim Hayter	2
+se_18784866.txt	Skylon	2
+se_18784866.txt	BBC News	2
+se_18784866.txt	European Space Agency	2
+se_18784866.txt	Oxfordshire	1
+se_18784866.txt	UK Space Agency	1
+se_18784866.txt	Farnborough International Airshow	1
+se_18784866.txt	Skylon	1
+se_18784866.txt	spaceplanes	1
+se_18784866.txt	Culham	1
+se_18784866.txt	Jean-Jacques Dordain	1
+se_18784866.txt	Skylon	1
+se_18784866.txt	UK Department of Transport	1
+se_18784866.txt	chief executive	1
+se_18784866.txt	European Commission	1
+se_18784866.txt	Oxfordshire	1
+se_18784866.txt	engineer	1
+se_18784866.txt	director-general	1
+se_18784866.txt	1,000-degree	1
+se_18784866.txt	six minutes	1
+se_18784866.txt	250m	1
+se_18784866.txt	15%	1
+se_20510112.txt	REL	9
+se_20510112.txt	European Space Agency	4
+se_20510112.txt	Sabre	1
+se_20510112.txt	Alan Bond	3
+se_20510112.txt	UK Space Agency	2
+se_20510112.txt	Reaction Engines Ltd	2
+se_20510112.txt	Sabre	2
+se_20510112.txt	UK	3
+se_20510112.txt	Skylon	2
+se_20510112.txt	Skylon	2
+se_20510112.txt	Skylon spaceplane	1
+se_20510112.txt	Culham	1
+se_20510112.txt	spaceplane	1
+se_20510112.txt	UK	1
+se_20510112.txt	Reaction Engines	1
+se_20510112.txt	Esa	1
+se_20510112.txt	Oxfordshire	1
+se_20510112.txt	British government	1
+se_20510112.txt	Twitter	1
+se_20510112.txt	David Shukman	1
+se_20510112.txt	Tim Hayter	1
+se_20510112.txt	David Willetts	1
+se_20510112.txt	Dr Mark Ford	1
+se_20510112.txt	CEO	1
+se_20510112.txt	editor	1
+se_20510112.txt	other applications	1
+se_20510112.txt	Amos-INTERNET@bbc.co.uk	1
+se_20510112.txt	10 minutes	1
+se_20510112.txt	@BBCAmos	1
+se_20510112.txt	one day	1
+se_20510112.txt	250m	1
+se_20510112.txt	84m	1
+se_20510112.txt	90%	1
+se_27591432.txt	Skylon	7
+se_27591432.txt	Skylons	8
+se_27591432.txt	telecoms	3
+se_27591432.txt	Europe	4
+se_27591432.txt	European Space Agency	3
+se_27591432.txt	rockets	2
+se_27591432.txt	Skylon	2
+se_27591432.txt	Skylon manufacturing	1
+se_27591432.txt	Reaction Engines Limited	1
+se_27591432.txt	UK	2
+se_27591432.txt	Airbus	1
+se_27591432.txt	Thales Alenia Space	1
+se_27591432.txt	Esa	1
+se_27591432.txt	TAS	2
+se_27591432.txt	French Guiana	1
+se_27591432.txt	Ariane	1
+se_27591432.txt	Kourou	1
+se_27591432.txt	Oxfordshire	1
+se_27591432.txt	SpaceX	1
+se_27591432.txt	Boeing	1
+se_27591432.txt	Europe	1
+se_27591432.txt	London Economics	1
+se_27591432.txt	solar power	1
+se_27591432.txt	George Osborne	1
+se_27591432.txt	Air France	1
+se_27591432.txt	Lufthansa	1
+se_27591432.txt	Chancellor	1
+se_27591432.txt	eight tonnes	2
+se_27591432.txt	hundred km	2
+se_27591432.txt	41.5m	2
+se_27591432.txt	70m	2
+se_27591432.txt	seven tonnes	1
+se_27591432.txt	four tonnes	1
+se_27591432.txt	6.4 tonnes	1
+se_27591432.txt	two tonnes	1
+se_27591432.txt	11-tonne	1
+se_27591432.txt	20 years	1
+se_27591432.txt	30 years	1
+se_27591432.txt	36,000km	1
+se_27591432.txt	800km	1
+se_27591432.txt	100m	1
+se_27591432.txt	60m	1
+se_27591432.txt	80m	1
+se_28881015.txt	Rosetta	3
+se_28881015.txt	Rosetta	3
+se_28881015.txt	Comet 67P/Churyumov-Gerasimenko	2
+se_28881015.txt	Gareth Collins	3
+se_28881015.txt	Rosetta	2
+se_28881015.txt	Solar System	2
+se_28881015.txt	Matt Taylor	2
+se_28881015.txt	London	2
+se_28881015.txt	Esa	2
+se_28881015.txt	Max Planck Institute for Solar System Research	1
+se_28881015.txt	Europe	1
+se_28881015.txt	Osiris science	1
+se_28881015.txt	67P	1
+se_28881015.txt	European Space Agency	1
+se_28881015.txt	UK	1
+se_28881015.txt	Imperial College London	1
+se_28881015.txt	Philae	1
+se_28881015.txt	Kent University	1
+se_28881015.txt	Stephen Lowry	1
+se_28881015.txt	project scientist	1
+se_28881015.txt	BBC	1
+se_28881015.txt	researcher	1
+se_28881015.txt	80km	2
+se_28881015.txt	4km	2
+se_28881015.txt	Ten billion tonnes	1
+se_28881015.txt	10 billion tonnes	1
+se_28881015.txt	billion-tonne	1
+se_28881015.txt	10-year	1
+se_28881015.txt	300kg	1
+se_28881015.txt	40km	1
+se_28881015.txt	50km	1
+se_29341850.txt	India	9
+se_29341850.txt	Mangalyaan	6
+se_29341850.txt	Prime Minister Narendra Modi	2
+se_29341850.txt	Mars	1
+se_29341850.txt	Mangalyaan	1
+se_29341850.txt	Prof Andrew Coates	2
+se_29341850.txt	Europe	2
+se_29341850.txt	Nasa	1
+se_29341850.txt	UK	2
+se_29341850.txt	Chennai	1
+se_29341850.txt	principal investigator	1
+se_29341850.txt	Britain	1
+se_29341850.txt	74m	2
+se_29341850.txt	1,350kg	1
+se_29341850.txt	366km	1
+se_29341850.txt	15kg	1
+se_29341850.txt	671m	1
+se_29380448.txt	Philae	7
+se_29380448.txt	European Space Agency	6
+se_29380448.txt	Rosetta	4
+se_29380448.txt	Philae lander	1
+se_29380448.txt	Rosetta	1
+se_29380448.txt	Europe	1
+se_29380448.txt	Regent's Park	1
+se_29380448.txt	London	1
+se_29380448.txt	67P	1
+se_29380448.txt	Darmstadt	1
+se_29380448.txt	Germany	1
+se_29380448.txt	20km	2
+se_29380448.txt	509 million km	1
+se_29380448.txt	seven hours	1
+se_29380448.txt	20 seconds	1
+se_29380448.txt	28 minutes	1
+se_29380448.txt	22.5km	1
+se_29380448.txt	100kg	1
+se_29380448.txt	1km	1
+se_29380448.txt	4km	1
+se_29525156.txt	George Whitesides	8
+se_29525156.txt	Virgin Galactic	3
+se_29525156.txt	Virgin	3
+se_29525156.txt	CEO	2
+se_29525156.txt	Karman Line	2
+se_29525156.txt	SpaceShipTwo	2
+se_29525156.txt	Virgin	1
+se_29525156.txt	Richard Branson	1
+se_29525156.txt	Mojave Desert	1
+se_29525156.txt	US Federal Aviation Authority	1
+se_29525156.txt	California	1
+se_29525156.txt	Sir Richard	1
+se_29525156.txt	London	1
+se_29525156.txt	Scaled Composites	1
+se_29525156.txt	10 years	2
+se_29525156.txt	Seven years	1
+se_29525156.txt	71,000ft	1
+se_29525156.txt	100km	1
+se_29525156.txt	21km	1
+se_29525157.txt	Rosetta	5
+se_29525157.txt	Solar System	3
+se_29525157.txt	Rosetta	2
+se_29525157.txt	Prof Jessica Sunshine	2
+se_29525157.txt	Philae	2
+se_29525157.txt	Nasa	2
+se_29525157.txt	European Space Agency	1
+se_29525157.txt	Ptolemy	2
+se_29525157.txt	Philae	1
+se_29525157.txt	Dr Stephen Lowry	2
+se_29525157.txt	Arctic	1
+se_29525157.txt	Klim Ivanovych Churyumov	1
+se_29525157.txt	Prof Ian Wright	1
+se_29525157.txt	Kent University	1
+se_29525157.txt	investigator	1
+se_29525157.txt	principal investigator	1
+se_29525157.txt	Open University	1
+se_29525157.txt	image processing	1
+se_29525157.txt	Svetlana Ivanovna Gerasimenko	1
+se_29525157.txt	boulder	1
+se_29525157.txt	scientist	1
+se_29525157.txt	6%	2
+se_29525157.txt	10 trillion kilograms	1
+se_29525157.txt	10 billion tonnes	1
+se_29525157.txt	180 million km	1
+se_29525157.txt	840 million km	1
+se_29525157.txt	12.4 hours	1
+se_29525157.txt	6.45 years	1
+se_29525157.txt	400kg	1
+se_29525157.txt	35%	1
+se_29525157.txt	4km	1
+se_29525157.txt	75%	1
+se_29525157.txt	99%	1
+se_29734975.txt	Philae obelisk	1
+se_29734975.txt	Philae	3
+se_29734975.txt	Kingston Lacy	2
+se_29734975.txt	Kingston Lacy estate	2
+se_29734975.txt	Solar System	3
+se_29734975.txt	Reflectance Transformation Imaging	2
+se_29734975.txt	European Space Agency	3
+se_29734975.txt	Dr Jane MassÃ©glia	2
+se_29734975.txt	Philae	1
+se_29734975.txt	RTI	2
+se_29734975.txt	Oxford University	1
+se_29734975.txt	Comet 67P	1
+se_29734975.txt	UK	2
+se_29734975.txt	Rosetta	1
+se_29734975.txt	Nile	1
+se_29734975.txt	Study of Ancient Documents	1
+se_29734975.txt	UK National Trust	1
+se_29734975.txt	Dr Rachel Mairs	1
+se_29734975.txt	William John Bankes	1
+se_29734975.txt	Cleopatra	1
+se_29734975.txt	Dr Gerhard Schwehm	1
+se_29734975.txt	Esa	1
+se_29734975.txt	Open University	1
+se_29734975.txt	BBC News	1
+se_29734975.txt	Dorset	1
+se_29734975.txt	Comet 67P/Churyumov-Gerasimenko	1
+se_29734975.txt	Nile island	1
+se_29734975.txt	southwest England	1
+se_29734975.txt	4.5 billion years	1
+se_29734975.txt	200 years	1
+se_29734975.txt	4km	1
+se_29858964.txt	SpaceShipTwo	5
+se_29858964.txt	Virgin Galactic	3
+se_29858964.txt	CEO	2
+se_29858964.txt	Sir Richard Branson	1
+se_29858964.txt	Mojave	1
+se_29858964.txt	George Whitesides	1
+se_29858964.txt	Mojave Air	1
+se_29858964.txt	Stuart Witt	1
+se_29858964.txt	general manager	1
+se_29858964.txt	30 years	1
+se_29937050.txt	Rosetta	7
+se_29937050.txt	Philae	6
+se_29937050.txt	Rosetta	5
+se_29937050.txt	Philae lander	1
+se_29937050.txt	Philae	2
+se_29937050.txt	European Space Agency	2
+se_29937050.txt	Paolo Ferri	2
+se_29937050.txt	Darmstadt	2
+se_29937050.txt	space exploration	1
+se_29937050.txt	Europe	1
+se_29937050.txt	67P	2
+se_29937050.txt	Germany	1
+se_29937050.txt	Rolis	1
+se_29937050.txt	head of operations	1
+se_29937050.txt	Andrea Accomazzo	1
+se_29937050.txt	director	1
+se_29937050.txt	two hours	2
+se_29937050.txt	510 million km	1
+se_29937050.txt	seven hours	1
+se_29937050.txt	30 minutes	1
+se_29937050.txt	10 years	1
+se_29937050.txt	18cm	1
+se_29937050.txt	4km	1
+se_30062346.txt	Philae	6
+se_30062346.txt	Philae	1
+se_30062346.txt	Andrea Accomazzo	3
+se_30062346.txt	Rosetta	1
+se_30062346.txt	Paolo Ferri	2
+se_30062346.txt	Esa	2
+se_30062346.txt	European Space Agency	1
+se_30062346.txt	BBC	2
+se_30062346.txt	solar panels	1
+se_30062346.txt	director	1
+se_30062346.txt	12-hour	1
+se_30062346.txt	100%	1
+se_30746650.txt	New Horizons	11
+se_30746650.txt	New Horizons	1
+se_30746650.txt	Alan Stern	3
+se_30746650.txt	Hubble	2
+se_30746650.txt	Kuiper Belt	2
+se_30746650.txt	Solar System	2
+se_30746650.txt	Charon	2
+se_30746650.txt	Hubble	1
+se_30746650.txt	Rosetta	1
+se_30746650.txt	International Astronomical Union	1
+se_30746650.txt	satellite system	1
+se_30746650.txt	Nasa	1
+se_30746650.txt	space exploration	1
+se_30746650.txt	principal investigator	1
+se_30746650.txt	3,000 bits	1
+se_30746650.txt	nine years	1
+se_30746650.txt	16 MONTHS	1
+se_30746650.txt	10 years	1
+se_30746650.txt	13,000km	1
+se_30746650.txt	15 years	1
+se_30746650.txt	15-watt	1
+se_30746650.txt	2,300km	1
+se_30746650.txt	13km	1
+se_30746650.txt	70m	1
+se_30931443.txt	Philae	14
+se_30931443.txt	Philae	4
+se_30931443.txt	Rosetta	4
+se_30931443.txt	Rosetta	3
+se_30931443.txt	European Space Agency	6
+se_30931443.txt	Stephan Ulamec	3
+se_30931443.txt	solar panels	2
+se_30931443.txt	Perihelion Cliff	1
+se_30931443.txt	Twitter	1
+se_30931443.txt	67P	1
+se_30931443.txt	DLR	1
+se_30931443.txt	telecoms	1
+se_30931443.txt	BBC News	1
+se_30931443.txt	350m	2
+se_30931443.txt	30m	2
+se_30931443.txt	Amos-INTERNET@bbc.co.uk	1
+se_30931443.txt	364 million km	1
+se_30931443.txt	20 degrees	1
+se_30931443.txt	60 hours	1
+se_30931443.txt	@BBCAmos	1
+se_30931443.txt	20km	1
+se_30931443.txt	30km	1
+se_30931443.txt	4km	1
+se_30931443.txt	6km	1
+se_30931445.txt	goosebumps	6
+se_30931445.txt	Rosetta	3
+se_30931445.txt	jets	4
+se_30931445.txt	Solar System	2
+se_30931445.txt	Stephen Lowry	2
+se_30931445.txt	Open University	2
+se_30931445.txt	Europe	1
+se_30931445.txt	UK	2
+se_30931445.txt	67P	1
+se_30931445.txt	Solar System Research	1
+se_30931445.txt	Twitter	1
+se_30931445.txt	Germany	1
+se_30931445.txt	Colin Snodgrass	1
+se_30931445.txt	European Space Agency	1
+se_30931445.txt	Holger Sierks	1
+se_30931445.txt	BBC News	1
+se_30931445.txt	Science Magazine	1
+se_30931445.txt	Kent University	1
+se_30931445.txt	GÃ¶ttingen	1
+se_30931445.txt	team leader	1
+se_30931445.txt	University of Bern	1
+se_30931445.txt	Switzerland	1
+se_30931445.txt	Simon Green	1
+se_30931445.txt	football	1
+se_30931445.txt	Nic Thomas	1
+se_30931445.txt	1.8 km	2
+se_30931445.txt	3m	2
+se_30931445.txt	Amos-INTERNET@bbc.co.uk	1
+se_30931445.txt	10 billion tonnes	1
+se_30931445.txt	4.5 billion years	1
+se_30931445.txt	12.4 hours	1
+se_30931445.txt	@BBCAmos	1
+se_30931445.txt	300m/s	1
+se_30931445.txt	470kg	1
+se_30931445.txt	4km	1
+se_30931445.txt	70%	1
+se_30931445.txt	80%	1
+se_30931445.txt	8km	1
+se_30931445.txt	6%	1
+se_31499061.txt	Hubble	12
+se_31499061.txt	Hubble Space Telescope	2
+se_31499061.txt	Dr Jennifer Wiseman	4
+se_31499061.txt	James Webb Space Telescope	2
+se_31499061.txt	Space Telescope Science Institute	1
+se_31499061.txt	James Webb	3
+se_31499061.txt	project scientist	2
+se_31499061.txt	Dr Frank Summers	1
+se_31499061.txt	California	1
+se_31499061.txt	zoom lens	1
+se_31499061.txt	black holes	1
+se_31499061.txt	Nasa	1
+se_31499061.txt	Advancement of Science	1
+se_31499061.txt	American Association	1
+se_31499061.txt	hundred million years	1
+se_31499061.txt	Five years	1
+se_31499061.txt	five years	1
+se_31602534.txt	Munich	3
+se_31602534.txt	Europe	2
+se_31602534.txt	US	2
+se_31602534.txt	EU Earth	1
+se_31602534.txt	Volker Liebig	2
+se_31602534.txt	American Landsat mission	1
+se_31602534.txt	project manager	2
+se_31602534.txt	Kourou	1
+se_31602534.txt	Mississippi River	1
+se_31602534.txt	European Space Agency	1
+se_31602534.txt	food crops	1
+se_31602534.txt	raw data	1
+se_31602534.txt	Rocky Mountain National Park	1
+se_31602534.txt	EU	1
+se_31602534.txt	Colorado	1
+se_31602534.txt	Markus Probeck	1
+se_31602534.txt	IABG	1
+se_31602534.txt	Heinz Sontag	1
+se_31602534.txt	France	1
+se_31602534.txt	Francois Spoto	1
+se_31602534.txt	director	1
+se_31602534.txt	EO	1
+se_31602534.txt	Airbus Defence	1
+se_31602534.txt	Esa	1
+se_31602534.txt	Copernicus	1
+se_31602534.txt	UK	1
+se_31602534.txt	180 degrees	1
+se_31602534.txt	five years	1
+se_31602534.txt	three days	1
+se_31602534.txt	five days	1
+se_31602534.txt	40 years	1
+se_31602534.txt	1.7TB	1
+se_31602534.txt	185km	1
+se_31602534.txt	290km	1
+se_31602534.txt	600GB	1
+se_31602534.txt	10m	1
+se_31602534.txt	30m	1
+se_31642215.txt	Lisa Pathfinder	9
+se_31642215.txt	European Space Agency	4
+se_31642215.txt	Pathfinder	2
+se_31642215.txt	black holes	3
+se_31642215.txt	UK	3
+se_31642215.txt	UK Space Agency	1
+se_31642215.txt	Laser Interferometric Space Antenna	1
+se_31642215.txt	Airbus	2
+se_31642215.txt	Cesar Garcia	2
+se_31642215.txt	Stevenage	2
+se_31642215.txt	BBC News	2
+se_31642215.txt	Europe	2
+se_31642215.txt	Airbus Defence	1
+se_31642215.txt	Giotto	1
+se_31642215.txt	Esa	1
+se_31642215.txt	Kourou	1
+se_31642215.txt	French Guiana	1
+se_31642215.txt	Munich	1
+se_31642215.txt	IABG	1
+se_31642215.txt	Andy Stroomer	1
+se_31642215.txt	Germany	1
+se_31642215.txt	Einstein	1
+se_31642215.txt	David Southwood	1
+se_31642215.txt	project manager	1
+se_31642215.txt	director	1
+se_31642215.txt	one day	1
+se_31694195.txt	Rosetta	11
+se_31694195.txt	Rosetta	1
+se_31694195.txt	Imhotep	3
+se_31694195.txt	European Space Agency	1
+se_31694195.txt	safe mode	2
+se_31694195.txt	coma	2
+se_31694195.txt	Dr Matt Taylor	2
+se_31694195.txt	Twitter	1
+se_31694195.txt	project scientist	1
+se_31694195.txt	BBC News	1
+se_31694195.txt	6%	3
+se_31694195.txt	1.8 km	2
+se_31694195.txt	6km	2
+se_31694195.txt	Amos-INTERNET@bbc.co.uk	1
+se_31694195.txt	10 billion tonnes	1
+se_31694195.txt	186 million km	1
+se_31694195.txt	328 million km	1
+se_31694195.txt	12.4 hours	1
+se_31694195.txt	83,000km/h	1
+se_31694195.txt	hundred km	1
+se_31694195.txt	@BBCAmos	1
+se_31694195.txt	100km	1
+se_31694195.txt	470kg	1
+se_31694195.txt	11cm	1
+se_31694195.txt	23km	1
+se_31694195.txt	80%	1
+se_31845234.txt	Castle	5
+se_31845234.txt	Conor La Grue	2
+se_31845234.txt	Castle Engineering	1
+se_31845234.txt	Castle MD Yan Tiefenbrun	1
+se_31845234.txt	Yan Tiefenbrun	2
+se_31845234.txt	Andy Green	2
+se_31845234.txt	Castle	1
+se_31845234.txt	Glasgow	1
+se_31845234.txt	MD of Castle	1
+se_31845234.txt	South Africa	1
+se_31845234.txt	BBC News	1
+se_31845234.txt	Hakskeen Pan	1
+se_31845234.txt	Newquay aerodrome	1
+se_31845234.txt	Eurofighter	1
+se_31845234.txt	assault	1
+se_31845234.txt	Lockheed Martin UK	1
+se_31845234.txt	Roy Yuile	1
+se_31845234.txt	Northern Cape	1
+se_31845234.txt	Dunlop	1
+se_31845234.txt	Innoval Technology	1
+se_31845234.txt	Germany	1
+se_31845234.txt	Otto Fuchs	1
+se_31845234.txt	Metalweb	1
+se_31845234.txt	Cornwall	1
+se_31845234.txt	1,000mph	4
+se_31845234.txt	Five years	2
+se_31845234.txt	million pounds	1
+se_31845234.txt	six tonnes	1
+se_31845234.txt	1,610km/h	1
+se_31845234.txt	320km/h	1
+se_31845234.txt	200mph	1
+se_31845234.txt	763mph	1
+se_31845234.txt	200kg	1
+se_31845234.txt	90cm	1
+se_31845234.txt	91kg	1
+se_32069216.txt	Solar Orbiter	7
+se_32069216.txt	SolO	9
+se_32069216.txt	Solar Probe	2
+se_32069216.txt	European Space Agency	4
+se_32069216.txt	Airbus	3
+se_32069216.txt	US	2
+se_32069216.txt	Prof Horbury	2
+se_32069216.txt	Mercury	2
+se_32069216.txt	Louise Harra	2
+se_32069216.txt	assault	1
+se_32069216.txt	representative	1
+se_32069216.txt	Imperial College London	1
+se_32069216.txt	Philippe Kletzkine	1
+se_32069216.txt	principal investigator	1
+se_32069216.txt	Dan Wild	1
+se_32069216.txt	University College London	1
+se_32069216.txt	engineer	1
+se_32069216.txt	Mullard Space Science Laboratory	1
+se_32069216.txt	Nasa	1
+se_32069216.txt	project manager	1
+se_32069216.txt	6 million km	3
+se_32069216.txt	43 million km	1
+se_32069216.txt	70 million km	1
+se_32069216.txt	600 degrees	1
+se_32069216.txt	30 degrees	1
+se_32069216.txt	60 degrees	1
+se_32069216.txt	30-degree	1
+se_32069216.txt	1,800kg	1
+se_32069216.txt	11-year	1
+se_32069216.txt	200km	1
+se_32069216.txt	610kg	1
+se_32282131.txt	Moley Robotics	2
+se_32282131.txt	Tim Anderson	3
+se_32282131.txt	Hannover Messe	2
+se_32282131.txt	Moley	2
+se_32282131.txt	captionRich Walker	3
+se_32282131.txt	Shadow Robotics	1
+se_32282131.txt	UK	2
+se_32282131.txt	RAS	2
+se_32282131.txt	Shadow Robot company	1
+se_32282131.txt	Dyson	2
+se_32282131.txt	Jonathan Amos	1
+se_32282131.txt	BBC News	1
+se_32282131.txt	Docklands Light Railway	1
+se_32282131.txt	Shadow	1
+se_32282131.txt	McKinsey	1
+se_32282131.txt	London	1
+se_32282131.txt	Germany	1
+se_32282131.txt	BBC	1
+se_32282131.txt	Heriot-Watt University	1
+se_32282131.txt	Prof David Lane	1
+se_32282131.txt	other applications	1
+se_32282131.txt	Mark Oleynik	1
+se_32282131.txt	Japan	1
+se_32282131.txt	synthetic biology	1
+se_32282131.txt	two years	1
+se_32298516.txt	Philae	10
+se_32298516.txt	Philae	3
+se_32298516.txt	Philae	3
+se_32298516.txt	Rosetta	5
+se_32298516.txt	Solar System	2
+se_32298516.txt	lander	1
+se_32298516.txt	Europe	1
+se_32298516.txt	European Space Agency	1
+se_32298516.txt	European Geosciences Union General Assembly	1
+se_32298516.txt	solar panels	1
+se_32298516.txt	Hans-Ulrich Auster	1
+se_32298516.txt	Karl-Heinz Glassmeier	1
+se_32298516.txt	Stephan Ulamec	1
+se_32298516.txt	Matt Taylor	1
+se_32298516.txt	project scientist	1
+se_32298516.txt	BBC News	1
+se_32298516.txt	4.5 billion years	1
+se_32298516.txt	117 minutes	1
+se_32298516.txt	46 minutes	1
+se_32298516.txt	600 metres	1
+se_32298516.txt	one metre	1
+se_32298516.txt	4 months	1
+se_32298516.txt	1,200m	1
+se_32298516.txt	100km	1
+se_32298516.txt	240m	1
+se_32298516.txt	630m	1
+se_32298516.txt	4km	1
+se_32298516.txt	50m	1
+se_32433839.txt	Hubble	12
+se_32433839.txt	Hubble	6
+se_32433839.txt	Hubble Space Telescope	2
+se_32433839.txt	James Webb Space Telescope	2
+se_32433839.txt	Space Telescope Imaging Spectrograph	1
+se_32433839.txt	Space Telescope Science Institute	1
+se_32433839.txt	zoom lens	2
+se_32433839.txt	Cosmic Origins Spectrograph	1
+se_32433839.txt	vista	1
+se_32433839.txt	Dr Jennifer Wiseman	1
+se_32433839.txt	JWST	1
+se_32433839.txt	Frontier Fields	1
+se_32433839.txt	Jennifer Lotz	1
+se_32433839.txt	Charlie Bolden	1
+se_32433839.txt	Nasa Administrator	1
+se_32433839.txt	project scientist	1
+se_32433839.txt	black holes	1
+se_32433839.txt	Ken Sembach	1
+se_32433839.txt	Baltimore	1
+se_32433839.txt	deputy director	1
+se_32433839.txt	five years	2
+se_32433839.txt	hundred million years	1
+se_32433839.txt	10 billion years	1
+se_32433839.txt	20 billion years	1
+se_32433839.txt	eight-metre	1
+se_32433839.txt	25 years	1
+se_32433839.txt	2	1
+se_32863205.txt	Solar Impulse	5
+se_32863205.txt	Andre Borschberg	6
+se_32863205.txt	China	4
+se_32863205.txt	Hawaii	3
+se_32863205.txt	Nanjing	2
+se_32863205.txt	Muscat	2
+se_32863205.txt	India	4
+se_32863205.txt	Raymond Clerc	2
+se_32863205.txt	BBC News	2
+se_32863205.txt	Oman	2
+se_32863205.txt	Myanmar	2
+se_32863205.txt	Monaco	2
+se_32863205.txt	Mandalay	2
+se_32863205.txt	solar cells	1
+se_32863205.txt	Chongqing	2
+se_32863205.txt	Varanasi	2
+se_32863205.txt	Ahmedabad	2
+se_32863205.txt	Nanjing China	1
+se_32863205.txt	Bertrand Piccard	1
+se_32863205.txt	Central Pacific	1
+se_32863205.txt	Midway Atoll	1
+se_32863205.txt	Piccard	1
+se_32863205.txt	engineer	1
+se_32863205.txt	Abu Dhabi	1
+se_32863205.txt	UAE	1
+se_32863205.txt	Pacific	1
+se_32863205.txt	Phoenix	1
+se_32863205.txt	lithium-ion batteries	1
+se_32863205.txt	partner	1
+se_32863205.txt	Borschberg	1
+se_32863205.txt	Japan	2
+se_32863205.txt	support group	1
+se_32863205.txt	director	1
+se_32863205.txt	13 hours	3
+se_32863205.txt	20 minutes	2
+se_32863205.txt	29 minutes	2
+se_32863205.txt	20 hours	2
+se_32863205.txt	15 minutes	1
+se_32863205.txt	22 minutes	1
+se_32863205.txt	four days	1
+se_32863205.txt	1 minute	1
+se_32863205.txt	10 hours	1
+se_32863205.txt	15 hours	1
+se_32863205.txt	17 hours	1
+se_32863205.txt	28,000ft	1
+se_32863205.txt	40 years	1
+se_32863205.txt	six days	1
+se_32863205.txt	1,215km	1
+se_32863205.txt	1,241km	1
+se_32863205.txt	1,398km	1
+se_33500681.txt	New Horizons	6
+se_33500681.txt	Kuiper Belt	6
+se_33500681.txt	Solar System	6
+se_33500681.txt	BBC	5
+se_33500681.txt	Jocelyn Bell Burnell	3
+se_33500681.txt	Alan Stern	3
+se_33500681.txt	Venetia Burney	2
+se_33500681.txt	Milky Way	2
+se_33500681.txt	China	2
+se_33500681.txt	University Parks	1
+se_33500681.txt	Nasa	1
+se_33500681.txt	BBC	1
+se_33500681.txt	Clyde Tombaugh	1
+se_33500681.txt	Twitter	1
+se_33500681.txt	US	1
+se_33500681.txt	principal investigator	1
+se_33500681.txt	Plutos	1
+se_33500681.txt	Oort Cloud	1
+se_33500681.txt	2,300km	2
+se_33500681.txt	Amos-INTERNET@bbc.co.uk	1
+se_33500681.txt	four billion years	1
+se_33500681.txt	4.7 billion km	1
+se_33500681.txt	four years	1
+se_33500681.txt	@BBCAmos	1
+se_33500681.txt	two-foot	1
+se_33500681.txt	11-year	1
+se_33500681.txt	100km	1
+se_33500681.txt	nine	1
+se_33500681.txt	40m	1
+se_33657528.txt	James Webb	11
+se_33657528.txt	James Webb Space Telescope	4
+se_33657528.txt	Eric Smith	4
+se_33657528.txt	ISIM	3
+se_33657528.txt	Goddard	3
+se_33657528.txt	Miri	3
+se_33657528.txt	Optical Telescope Simulator	1
+se_33657528.txt	BBC	2
+se_33657528.txt	Nasa	2
+se_33657528.txt	Europe	2
+se_33657528.txt	European Space Agency	2
+se_33657528.txt	NIRSpec	2
+se_33657528.txt	Goddard centre	1
+se_33657528.txt	Hubble	1
+se_33657528.txt	Ariane	1
+se_33657528.txt	Northrop Grumman	1
+se_33657528.txt	Marco Sirianni	2
+se_33657528.txt	US	1
+se_33657528.txt	Miri	1
+se_33657528.txt	Hubble	1
+se_33657528.txt	Washington	1
+se_33657528.txt	Los Angeles	1
+se_33657528.txt	director	1
+se_33657528.txt	aerospace giant	1
+se_33657528.txt	scientist	1
+se_33657528.txt	BegoÃ±a Vila	1
+se_33657528.txt	componentry	1
+se_33657528.txt	project scientist	1
+se_33657528.txt	prime contractor	1
+se_33657528.txt	Mark Clampin	1
+se_33657528.txt	Apollo	1
+se_33657528.txt	engineer	1
+se_33657528.txt	Johnson centre	1
+se_33657528.txt	Germany	1
+se_33657528.txt	UK	1
+se_33657528.txt	nine months	3
+se_33657528.txt	three months	1
+se_33657528.txt	five years	1
+se_33657528.txt	@BBCClick	1
+se_33657528.txt	25 years	1
+se_34152577.txt	Lisa Pathfinder	9
+se_34152577.txt	European Space Agency	5
+se_34152577.txt	black holes	4
+se_34152577.txt	Pathfinder	2
+se_34152577.txt	Prof Karsten Danzmann	2
+se_34152577.txt	Prof Stefano Vitale	2
+se_34152577.txt	Europe	2
+se_34152577.txt	Prof Alvaro Gimenez	1
+se_34152577.txt	space-borne gravitational-wave observatory	1
+se_34152577.txt	Einstein	1
+se_34152577.txt	gravitational-wave observatory	1
+se_34152577.txt	Leibniz University of Hanover	1
+se_34152577.txt	University of Trento	1
+se_34152577.txt	US	1
+se_34152577.txt	BBC News	1
+se_34152577.txt	Dr Paul McNamara	1
+se_34152577.txt	co-principal investigator	1
+se_34152577.txt	project scientist	1
+se_34152577.txt	38cm	2
+se_34152577.txt	100-year	1
+se_34298363.txt	Ligo labs	3
+se_34298363.txt	Ligo	2
+se_34298363.txt	Ligo	2
+se_34298363.txt	black holes	3
+se_34298363.txt	Kip Thorne	2
+se_34298363.txt	BBC World Service	2
+se_34298363.txt	Vern Sandberg	2
+se_34298363.txt	US	1
+se_34298363.txt	Theory of General Relativity	1
+se_34298363.txt	Louisiana	1
+se_34298363.txt	physicist	1
+se_34298363.txt	Washington	1
+se_34298363.txt	Hanford	1
+se_34298363.txt	Livingston	1
+se_34298363.txt	Einstein	1
+se_34298363.txt	Aleem Maqbool	1
+se_34298363.txt	UK	1
+se_34298363.txt	Jamie Rollins	1
+se_34298363.txt	California Institute of Technology	1
+se_34298363.txt	Sheila Rowan	1
+se_34298363.txt	Milky Way	1
+se_34298363.txt	University of Glasgow	1
+se_34298363.txt	Adrian Washbourne	1
+se_34298363.txt	Hanford lab	1
+se_34298363.txt	scientist	1
+se_34298363.txt	100 Hertz	1
+se_34298363.txt	200m	1
+se_34298363.txt	4km	1
+se_34395569.txt	Nasa	3
+se_34395569.txt	Valles Marineris	2
+se_34395569.txt	Gale Crater	1
+se_34395569.txt	Committee on Space Research	2
+se_34395569.txt	Gale	1
+se_34395569.txt	Gerhard Kminek	1
+se_34395569.txt	Switzerland	1
+se_34395569.txt	RSL	1
+se_34395569.txt	ultraviolet light	1
+se_34395569.txt	Europe	1
+se_34395569.txt	US	1
+se_34395569.txt	Russia	1
+se_34395569.txt	570 million km	1
+se_34395569.txt	13 years	1
+se_34395569.txt	20km	1
+se_34395569.txt	7km	1
+se_34443695.txt	Arthur McDonald	7
+se_34443695.txt	Takaaki Kajita	6
+se_34443695.txt	Nobel Prize	2
+se_34443695.txt	Sudbury Neutrino Observatory	2
+se_34443695.txt	Canada	3
+se_34443695.txt	UNIVERSITY OF TOKYO	2
+se_34443695.txt	Royal Swedish Academy of Sciences	2
+se_34443695.txt	Prof Olga Botner	1
+se_34443695.txt	Japan	3
+se_34443695.txt	Prof Stefan Soldner-Rembold	1
+se_34443695.txt	Stockholm	1
+se_34443695.txt	Ontario	2
+se_34443695.txt	Nobel	2
+se_34443695.txt	Nobel Assembly	1
+se_34443695.txt	Wolfgang Pauli	1
+se_34443695.txt	Sweden	1
+se_34443695.txt	Charles Kuen Kao	1
+se_34443695.txt	Francois Englert	1
+se_34443695.txt	Goran Hansson	1
+se_34443695.txt	Sudbury observatory	1
+se_34443695.txt	Serge Haroche	1
+se_34443695.txt	Saul Perlmutter	1
+se_34443695.txt	Andre Geim	1
+se_34443695.txt	Isamu Akasaki	1
+se_34443695.txt	Uppsala University	1
+se_34443695.txt	supernovas	1
+se_34443695.txt	Peter Higgs	1
+se_34443695.txt	Kingston	1
+se_34443695.txt	Twitter	1
+se_34443695.txt	Uncharged	1
+se_34443695.txt	BBC	1
+se_34443695.txt	University of Manchester	1
+se_34443695.txt	secretary general	1
+se_34443695.txt	Konstantin Novoselov	1
+se_34443695.txt	light-emitting diodes	1
+se_34443695.txt	Queen's University	1
+se_34443695.txt	Jonathan	1
+se_34443695.txt	Adam Riess	1
+se_34443695.txt	Mount Kamioka	1
+se_34443695.txt	professor	1
+se_34443695.txt	Karolinska Institutet	1
+se_34443695.txt	Shuji Nakamura	1
+se_34443695.txt	Kamiokande	1
+se_34443695.txt	physicist	1
+se_34443695.txt	David J Wineland	1
+se_34443695.txt	director	1
+se_34443695.txt	Hiroshi Amano	1
+se_34443695.txt	Brian P Schmidt	1
+se_34443695.txt	45 minutes	1
+se_34443695.txt	0.6m	1
+se_34454831.txt	Prof Alfons Weber	5
+se_34454831.txt	Nobel Prize	2
+se_34454831.txt	Wolfgang Pauli	2
+se_34454831.txt	Sudbury Neutrino Observatory	1
+se_34454831.txt	University of Oxford	2
+se_34454831.txt	apple	2
+se_34454831.txt	BBC	2
+se_34454831.txt	Prof Stefan Soldner-Rembold	1
+se_34454831.txt	Nobel Committee	1
+se_34454831.txt	Frederick Reines	1
+se_34454831.txt	BBC News	1
+se_34454831.txt	Dark Knight	1
+se_34454831.txt	Bruce Wayne	1
+se_34454831.txt	Clyde Cowan	1
+se_34454831.txt	University of Manchester	1
+se_34454831.txt	Paul	1
+se_34454831.txt	Japan	1
+se_34454831.txt	physicist	1
+se_34454831.txt	Canada	1
+se_34454831.txt	10 trillion km	1
+se_34490337.txt	Gale Crater	3
+se_34490337.txt	Mount Sharp	4
+se_34490337.txt	captionSanjeev Gupta	3
+se_34490337.txt	Gale	2
+se_34490337.txt	Nasa	1
+se_34490337.txt	crater basin	1
+se_34490337.txt	John Grotzinger	1
+se_34490337.txt	Utah	1
+se_34490337.txt	Science magazine	1
+se_34490337.txt	scientist	1
+se_34490337.txt	greenhouse gas	1
+se_34490337.txt	Caltech	1
+se_34490337.txt	project scientist	1
+se_34490337.txt	Canyonlands National Park	1
+se_34490337.txt	Imperial College London	1
+se_34490337.txt	satellite imagery	1
+se_34490337.txt	professor	1
+se_34490337.txt	three billion years	1
+se_34490337.txt	10 million years	1
+se_34490337.txt	50cm	1
+se_34490337.txt	10m	1
+se_34490337.txt	75m	1
+se_34919025.txt	Giovani Schiaparelli	3
+se_34919025.txt	TGO	3
+se_34919025.txt	Schiaparelli	2
+se_34919025.txt	European Space Agency	3
+se_34919025.txt	ExoMars	3
+se_34919025.txt	Vincenzo Georgio	2
+se_34919025.txt	Schiaparelli	1
+se_34919025.txt	Thales Alenia Space	1
+se_34919025.txt	Roscosmos	2
+se_34919025.txt	Nic Thomas	2
+se_34919025.txt	Thales Alenia Space	1
+se_34919025.txt	Europe	1
+se_34919025.txt	Jorge Vago	1
+se_34919025.txt	Roscosmos	1
+se_34919025.txt	Baikonur Cosmodrome	1
+se_34919025.txt	partner	1
+se_34919025.txt	Kazakhstan	1
+se_34919025.txt	Proton	1
+se_34919025.txt	France	1
+se_34919025.txt	Cannes	1
+se_34919025.txt	project scientist	1
+se_34919025.txt	captionThe University of Bern	1
+se_34919025.txt	principal investigator	1
+se_34919025.txt	three months	1
+se_34919025.txt	4.3 tonnes	1
+se_34919025.txt	seven days	1
+se_34919025.txt	three days	1
+se_34919025.txt	3.7-tonne	1
+se_34919025.txt	600kg	1
+se_34963515.txt	Cassini	4
+se_34963515.txt	Enceladus Interplanetary Geyser Park	2
+se_34963515.txt	Peter Tsou	4
+se_34963515.txt	jets	3
+se_34963515.txt	Solar System	3
+se_34963515.txt	Jonathan Lunine	3
+se_34963515.txt	Nasa	3
+se_34963515.txt	Enceladus Life Finder	1
+se_34963515.txt	BBC World Service	2
+se_34963515.txt	Carolyn Porco	1
+se_34963515.txt	Saturnian	1
+se_34963515.txt	Chris McKay	1
+se_34963515.txt	fatty acids	1
+se_34963515.txt	solar panels	1
+se_34963515.txt	New York	1
+se_34963515.txt	Porco	1
+se_34963515.txt	Ithaca	1
+se_34963515.txt	Cornell University	1
+se_34963515.txt	Jonathan Amos	1
+se_34963515.txt	Jupiter	1
+se_34963515.txt	scientist	1
+se_34963515.txt	Andrew Luck-Baker	1
+se_34963515.txt	1.4 billion km	1
+se_34963515.txt	14 years	1
+se_34963515.txt	one day	1
+se_34963515.txt	500km	1
+se_34963515.txt	40km	1
+se_35259194.txt	Anthropocene Working Group	5
+se_35259194.txt	Anthropocene	4
+se_35259194.txt	Dr Colin Waters	2
+se_35259194.txt	official	2
+se_35259194.txt	British Geological Survey	1
+se_35259194.txt	secretary	1
+se_35259194.txt	Science magazine	1
+se_35259194.txt	Royal Society	1
+se_35259194.txt	International Commission	1
+se_35259194.txt	Gaia Vince	1
+se_35259194.txt	BBC News	1
+se_35259194.txt	scientist	1
+se_35259194.txt	4.6 billion years	1
+se_35403361.txt	Nasa	4
+se_35403361.txt	MIRI	4
+se_35403361.txt	NIRSpec	4
+se_35403361.txt	US	3
+se_35403361.txt	MIRI	2
+se_35403361.txt	Webb	3
+se_35403361.txt	James Webb Space Telescope	1
+se_35403361.txt	Hubble Space Telescope	1
+se_35403361.txt	Goddard Space Flight Center	1
+se_35403361.txt	Jet Propulsion Laboratory	2
+se_35403361.txt	Goddard	1
+se_35403361.txt	European Space Agency	1
+se_35403361.txt	Nasa	1
+se_35403361.txt	Johnson Space Center	1
+se_35403361.txt	BBC News	1
+se_35403361.txt	Goddard	1
+se_35403361.txt	Ariane	1
+se_35403361.txt	Europe	1
+se_35403361.txt	project manager	1
+se_35403361.txt	John Durning	1
+se_35403361.txt	two-and-a-half-years	1
+se_35403361.txt	Maryland	1
+se_35403361.txt	Gillian Wright	1
+se_35403361.txt	California	1
+se_35403361.txt	Greenbelt	1
+se_35403361.txt	project scientist	1
+se_35403361.txt	Pierre Ferruit	1
+se_35403361.txt	principal investigator	1
+se_35403361.txt	eight months	2
+se_35403361.txt	13.5 billion years	1
+se_35403361.txt	40 kelvins	1
+se_35403361.txt	0.1mm	1
+se_35403361.txt	6.5m	1
+se_35403361.txt	90%	1
+se_35435108.txt	Ariane 6	3
+se_35435108.txt	Ariane	3
+se_35435108.txt	Europe	6
+se_35435108.txt	CEO Alain Charmeau	5
+se_35435108.txt	Ariane	1
+se_35435108.txt	Airbus Safran	2
+se_35435108.txt	Airbus Safran Launchers	1
+se_35435108.txt	Airbus	2
+se_35435108.txt	US	4
+se_35435108.txt	Esa	3
+se_35435108.txt	telecoms	2
+se_35435108.txt	Safran	1
+se_35435108.txt	Jan Woerner	2
+se_35435108.txt	SpaceX	1
+se_35435108.txt	French Guiana	1
+se_35435108.txt	director general	2
+se_35435108.txt	Soyuz	1
+se_35435108.txt	BBC News	1
+se_35435108.txt	Vega	1
+se_35435108.txt	Vega	1
+se_35435108.txt	Adeline	2
+se_35435108.txt	aerospace giant	1
+se_35435108.txt	corporate tax	1
+se_35435108.txt	Blue Origin	1
+se_35435108.txt	Falcons	1
+se_35435108.txt	two hours	1
+se_35435108.txt	36,000km	1
+se_35435108.txt	one year	1
+se_35435108.txt	50%	1
+se_35435108.txt	2	1
+se_35435108.txt	4	1
+se_35553549.txt	LIGO	4
+se_35553549.txt	black holes	5
+se_35553549.txt	Jim Hough	3
+se_35553549.txt	Albert Einstein	3
+se_35553549.txt	Rai Weiss	3
+se_35553549.txt	LIGO laboratories	1
+se_35553549.txt	black hole	2
+se_35553549.txt	David Reitze	2
+se_35553549.txt	LIGO	1
+se_35553549.txt	US	2
+se_35553549.txt	Kip Thorne	2
+se_35553549.txt	Glasgow University	1
+se_35553549.txt	European Space Agency	1
+se_35553549.txt	National Press Club	1
+se_35553549.txt	Laser Interferometer Gravitational-Wave Observatories	1
+se_35553549.txt	Washington	1
+se_35553549.txt	Physical Review Letters	1
+se_35553549.txt	Higgs boson	1
+se_35553549.txt	Livingston	1
+se_35553549.txt	Nasa	1
+se_35553549.txt	Europe	1
+se_35553549.txt	Louisiana	1
+se_35553549.txt	Hanford	1
+se_35553549.txt	executive director	1
+se_35553549.txt	Cardiff University	1
+se_35553549.txt	Bernie Schutz	1
+se_35553549.txt	MIT	1
+se_35553549.txt	Pisa	1
+se_35553549.txt	Japan	1
+se_35553549.txt	Italy	1
+se_35553549.txt	India	1
+se_35553549.txt	Ron Drever	1
+se_35553549.txt	3,000km	2
+se_35553549.txt	150km	1
+se_35983735.txt	Ariane	3
+se_35983735.txt	Ariane	2
+se_35983735.txt	Europe	5
+se_35983735.txt	Airbus Safran Launchers	2
+se_35983735.txt	Jan Woerner	3
+se_35983735.txt	SpaceX	3
+se_35983735.txt	Airbus	2
+se_35983735.txt	Esa	2
+se_35983735.txt	US	2
+se_35983735.txt	Patrick Bonguet	2
+se_35983735.txt	European Space Agency	1
+se_35983735.txt	BBC News	2
+se_35983735.txt	Alain Charmeau	2
+se_35983735.txt	Les Mureaux	1
+se_35983735.txt	Safran	1
+se_35983735.txt	Les Mureaux	1
+se_35983735.txt	Kourou	1
+se_35983735.txt	France	1
+se_35983735.txt	director general	1
+se_35983735.txt	Vega	1
+se_35983735.txt	telecoms	1
+se_35983735.txt	French Guiana	1
+se_35983735.txt	European Commission	1
+se_35983735.txt	French government	1
+se_35983735.txt	DG	1
+se_35983735.txt	Paris	1
+se_35983735.txt	director	1
+se_35983735.txt	CEO	1
+se_35983735.txt	China	1
+se_35983735.txt	Japan	1
+se_35983735.txt	India	1
+se_36063490.txt	Andre Borschberg	8
+se_36063490.txt	Japan	5
+se_36063490.txt	Hawaii	4
+se_36063490.txt	Abu Dhabi	2
+se_36063490.txt	Raymond Clerc	2
+se_36063490.txt	Monaco	2
+se_36063490.txt	Pacific Ocean	1
+se_36063490.txt	Kalaeloa	2
+se_36063490.txt	UAE	2
+se_36063490.txt	USA	2
+se_36063490.txt	India	4
+se_36063490.txt	China	4
+se_36063490.txt	Chongqing	2
+se_36063490.txt	Nanjing	2
+se_36063490.txt	Nagoya	2
+se_36063490.txt	airline pilot	1
+se_36063490.txt	Hawaii	1
+se_36063490.txt	Varanasi	2
+se_36063490.txt	Abu Dhabi	1
+se_36063490.txt	Muscat	2
+se_36063490.txt	Myanmar	2
+se_36063490.txt	Ahmedabad	2
+se_36063490.txt	Solar Impulse	1
+se_36063490.txt	Bertrand Piccard	1
+se_36063490.txt	Oman	2
+se_36063490.txt	Mandalay	2
+se_36063490.txt	New York	1
+se_36063490.txt	EasyJet	1
+se_36063490.txt	Crew Resource Management	1
+se_36063490.txt	Phoenix	1
+se_36063490.txt	director	1
+se_36063490.txt	mark	1
+se_36063490.txt	Los Angeles	1
+se_36063490.txt	partner	1
+se_36063490.txt	San Francisco	1
+se_36063490.txt	chairman	1
+se_36063490.txt	Vancouver	1
+se_36063490.txt	13 Hours	3
+se_36063490.txt	29 Minutes	2
+se_36063490.txt	20 Hours	2
+se_36063490.txt	15 Minutes	1
+se_36063490.txt	20 Minutes	1
+se_36063490.txt	22 Minutes	1
+se_36063490.txt	52 Minutes	1
+se_36063490.txt	9 Minutes	1
+se_36063490.txt	1 Minute	1
+se_36063490.txt	15 Hours	1
+se_36063490.txt	17 Hours	1
+se_36063490.txt	21 Hours	1
+se_36063490.txt	five-day	1
+se_36343542.txt	Airbus	6
+se_36343542.txt	Orion	5
+se_36343542.txt	Nasa	6
+se_36343542.txt	European Space Agency	5
+se_36343542.txt	Europe	4
+se_36343542.txt	Orion crewship	1
+se_36343542.txt	Esa	1
+se_36343542.txt	US	1
+se_36343542.txt	Critical Design Review	1
+se_36343542.txt	Bremen	1
+se_36343542.txt	Jim Free	2
+se_36343542.txt	Germany	1
+se_36343542.txt	Bart Reijnen	1
+se_36343542.txt	Philippe Deloo	1
+se_36343542.txt	SLS	1
+se_36343542.txt	BBC News	1
+se_36343542.txt	prime contractor	1
+se_36343542.txt	transportation systems	1
+se_36343542.txt	United Kingdom	1
+se_36343542.txt	Lockheed Martin	1
+se_36343542.txt	Jan Woerner	1
+se_36343542.txt	associate administrator	1
+se_36343542.txt	director general	1
+se_36343542.txt	official	1
+se_36343542.txt	frank	1
+se_36343542.txt	three-week	1
+se_36343542.txt	13 tonnes	1
+se_36343542.txt	2023	1
+se_36343542.txt	390m	1
+se_36343542.txt	4m	1
+se_36439691.txt	Michael Wong	5
+se_36439691.txt	VLA	2
+se_36439691.txt	Hubble	2
+se_36439691.txt	Juno	2
+se_36439691.txt	Imke de Pater	2
+se_36439691.txt	Socorro	1
+se_36439691.txt	US	1
+se_36439691.txt	Karl G Jansky	1
+se_36439691.txt	Twitter	1
+se_36439691.txt	New Mexico	1
+se_36439691.txt	BBC News	1
+se_36439691.txt	Berkeley	1
+se_36439691.txt	University of California	1
+se_36439691.txt	10 hours	2
+se_36439691.txt	Amos-INTERNET@bbc.co.uk	1
+se_36439691.txt	400 years	1
+se_36439691.txt	@BBCAmos	1
+se_36439691.txt	12 Bar	1
+se_36674996.txt	Susan Solomon	6
+se_36674996.txt	Antarctica	6
+se_36674996.txt	Montreal	2
+se_36674996.txt	India	2
+se_36674996.txt	Alfred Wegener Institute for Polar and Marine Research	1
+se_36674996.txt	Calbuco eruption	1
+se_36674996.txt	US	1
+se_36674996.txt	environmental problems	1
+se_36674996.txt	Facebook	1
+se_36674996.txt	University of Leeds	1
+se_36674996.txt	key contributor	1
+se_36674996.txt	CFC	1
+se_36674996.txt	UK	1
+se_36674996.txt	Dr Markus Rex	1
+se_36674996.txt	Chile	1
+se_36674996.txt	Dr Paul Newman	1
+se_36674996.txt	Matt	1
+se_36674996.txt	BBC	1
+se_36674996.txt	researcher	1
+se_36674996.txt	Germany	1
+se_36674996.txt	China	1
+se_36674996.txt	4 million sq km	2
+se_36674996.txt	@mattmcgrathbbc	1
+se_36674996.txt	10 kilometres	1
+se_36674996.txt	100 years	1
+se_36695270.txt	Juno	11
+se_36695270.txt	Nasa	5
+se_36695270.txt	Lockheed Martin	3
+se_36695270.txt	BBC News	3
+se_36695270.txt	Dr Ian Coxhill	2
+se_36695270.txt	Westcott	2
+se_36695270.txt	burn in	1
+se_36695270.txt	US	1
+se_36695270.txt	Westcott technology	1
+se_36695270.txt	BBC	1
+se_36695270.txt	Scott Bolton	2
+se_36695270.txt	Twitter	1
+se_36695270.txt	Buckinghamshire	1
+se_36695270.txt	California	2
+se_36695270.txt	Moog	1
+se_36695270.txt	chief engineer	1
+se_36695270.txt	Pasadena	1
+se_36695270.txt	Principal investigator	1
+se_36695270.txt	Rick Nybakken	1
+se_36695270.txt	Jet Propulsion	1
+se_36695270.txt	project manager	1
+se_36695270.txt	35 minutes	3
+se_36695270.txt	Amos-INTERNET@bbc.co.uk	1
+se_36695270.txt	849 million km	1
+se_36695270.txt	20 minutes	1
+se_36695270.txt	48 minutes	1
+se_36695270.txt	five-year	1
+se_36695270.txt	two weeks	1
+se_36695270.txt	@BBCAmos	1
+se_36695270.txt	20 mins	1
+se_36695270.txt	500m/s	1
+se_36695270.txt	53-day	1
+se_36710768.txt	Juno	9
+se_36710768.txt	Roger Juno	3
+se_36710768.txt	Earth	5
+se_36710768.txt	Juno Mission Control	1
+se_36710768.txt	Nasa	3
+se_36710768.txt	Scott Bolton	3
+se_36710768.txt	Solar System	2
+se_36710768.txt	Nasa	1
+se_36710768.txt	US	1
+se_36710768.txt	Delta	1
+se_36710768.txt	Pasadena	1
+se_36710768.txt	California	1
+se_36710768.txt	BBC Sky At Night	1
+se_36710768.txt	Jet Propulsion Laboratory	1
+se_36710768.txt	Twitter	1
+se_36710768.txt	BBC	1
+se_36710768.txt	principal investigator	1
+se_36710768.txt	Candy Hansen	1
+se_36710768.txt	Amos-INTERNET@bbc.co.uk	1
+se_36710768.txt	thousand kilometres	1
+se_36710768.txt	billion years	1
+se_36710768.txt	five years	1
+se_36710768.txt	35-minute	1
+se_36710768.txt	10 hours	1
+se_36710768.txt	@BBCAmos	1
+se_36710768.txt	14 days	1
+se_36710768.txt	53 days	1
+se_36734179.txt	Royal College of Veterinary Surgeons	2
+se_36734179.txt	UK	3
+se_36734179.txt	organic farming	2
+se_36734179.txt	Danny Chambers	2
+se_36734179.txt	BBC News	2
+se_36734179.txt	British Association of Homeopathic Vets	1
+se_36734179.txt	NHS	2
+se_36734179.txt	Mark Elliott	3
+se_36734179.txt	Prince Charles	2
+se_36734179.txt	mastitis	1
+se_36734179.txt	House of Commons Science and Technology Committee	1
+se_36734179.txt	Soil Association	1
+se_36734179.txt	Helen	1
+se_36734179.txt	Peter Melchett	1
+se_36734179.txt	director	1
+se_36734179.txt	West Sussex	1
+se_36734179.txt	president	1
+se_36748076.txt	Prof Kevin Kit Parker	3
+se_36748076.txt	ray	3
+se_36748076.txt	researcher	2
+se_36748076.txt	Wyss Institute	1
+se_36748076.txt	Harvard University	1
+se_36748076.txt	Boston	1
+se_36748076.txt	BBC	1
+se_36748076.txt	16mm	1
+se_36748076.txt	10g	1
+se_36756107.txt	Morecambe Bay	2
+se_36756107.txt	DigVentures	2
+se_36756107.txt	Lisa Westcott Wilkins	1
+se_36756107.txt	Lancashire	1
+se_36756107.txt	co-founder and managing director	1
+se_36756107.txt	theft	1
+se_36756107.txt	Britain	1
+se_36756107.txt	Europe	1
+se_36756107.txt	North West	1
+se_36756107.txt	metal-working	1
+se_36756107.txt	Paul	1
+se_36756107.txt	1,500 years	1
+se_36756107.txt	50 years	1
+se_36762521.txt	US	8
+se_36762521.txt	Bertrand Piccard	5
+se_36762521.txt	Egypt	5
+se_36762521.txt	Andre Borschberg	4
+se_36762521.txt	Seville	3
+se_36762521.txt	Abu Dhabi	1
+se_36762521.txt	UAE	2
+se_36762521.txt	solar cells	1
+se_36762521.txt	Cairo	2
+se_36762521.txt	Spain	2
+se_36762521.txt	Muscat	2
+se_36762521.txt	Torresol Energyb	1
+se_36762521.txt	Nagoya	2
+se_36762521.txt	Oman	2
+se_36762521.txt	Japan	3
+se_36762521.txt	Myanmar	2
+se_36762521.txt	India	4
+se_36762521.txt	Mandalay	2
+se_36762521.txt	Seville International Airport	1
+se_36762521.txt	Phoenix	2
+se_36762521.txt	New York	4
+se_36762521.txt	Arizona	2
+se_36762521.txt	Ohio	4
+se_36762521.txt	Lehigh Valley	3
+se_36762521.txt	China	4
+se_36762521.txt	Varanasi	2
+se_36762521.txt	Chongqing	2
+se_36762521.txt	Ahmedabad	2
+se_36762521.txt	Africa	1
+se_36762521.txt	Dayton	2
+se_36762521.txt	Nanjing	2
+se_36762521.txt	Twitter	1
+se_36762521.txt	Tulsa	2
+se_36762521.txt	Pennsylvania	3
+se_36762521.txt	Abu Dhabi	1
+se_36762521.txt	Kalaeloa	2
+se_36762521.txt	Mountain View	2
+se_36762521.txt	director	1
+se_36762521.txt	California	3
+se_36762521.txt	Oklahoma	2
+se_36762521.txt	Raymond Clerc	1
+se_36762521.txt	Hawaii	2
+se_36762521.txt	burn in	1
+se_36762521.txt	29 Minutes	3
+se_36762521.txt	13 Hours	3
+se_36762521.txt	52 Minutes	2
+se_36762521.txt	15 Hours	2
+se_36762521.txt	16 Hours	2
+se_36762521.txt	17 Hours	2
+se_36762521.txt	20 Hours	2
+se_36773074.txt	Sabre	8
+se_36773074.txt	Reaction Engines	3
+se_36773074.txt	European Space Agency	5
+se_36773074.txt	UK	3
+se_36773074.txt	Reaction Engines Ltd	1
+se_36773074.txt	CEO Mark Thomas	2
+se_36773074.txt	Farnborough International Air Show	1
+se_36773074.txt	Franco Ongaro	2
+se_36773074.txt	REL	1
+se_36773074.txt	Prestwick	1
+se_36773074.txt	Esa	1
+se_36773074.txt	BBC News	1
+se_36773074.txt	BAE Systems	1
+se_36773074.txt	UK Space Conference	1
+se_36773074.txt	Orbital	1
+se_36773074.txt	Preliminary Design Review	1
+se_36773074.txt	Orbital Access Limited	1
+se_36773074.txt	Prestwick airport	1
+se_36773074.txt	George Osborne	1
+se_36773074.txt	European Commission	1
+se_36773074.txt	auditor	1
+se_36773074.txt	CEO	1
+se_36773074.txt	Scottish aviation centre	1
+se_36773074.txt	Stuart McIntyre	1
+se_36773074.txt	director	1
+se_36773074.txt	Chancellor	1
+se_36773074.txt	60m	3
+se_36773074.txt	12 months	1
+se_36773074.txt	one day	1
+se_36773074.txt	300m	1
+se_36773074.txt	10m	1
+se_36773074.txt	8m	1
+se_36776167.txt	Japan	7
+se_36776167.txt	Professor Hirohisa Tanaka	4
+se_36776167.txt	ICRR	2
+se_36776167.txt	Nobel Prize	2
+se_36776167.txt	Wolfgang Pauli	1
+se_36776167.txt	Frederick Reines	1
+se_36776167.txt	United States	1
+se_36776167.txt	Kamioka	1
+se_36776167.txt	Clyde Cowan	1
+se_36776167.txt	Toronto University	1
+se_36776167.txt	13.82 billion years	1
+se_36776167.txt	three years	1
+se_36776167.txt	295 km	1
+se_36780756.txt	Juno	6
+se_36780756.txt	BBC Sky At Night	1
+se_36780756.txt	American space agency	1
+se_36780756.txt	Twitter	1
+se_36780756.txt	Nasa	1
+se_36780756.txt	Amos-INTERNET@bbc.co.uk	1
+se_36780756.txt	4.3 million km	1
+se_36780756.txt	billion years	1
+se_36780756.txt	18 months	1
+se_36780756.txt	10 hours	1
+se_36780756.txt	@BBCAmos	1
+se_36780756.txt	5,000km	1
+se_36780756.txt	14-day	1
+se_36781197.txt	US	8
+se_36781197.txt	Andre Borschberg	6
+se_36781197.txt	Bertrand Piccard	5
+se_36781197.txt	Seville	4
+se_36781197.txt	Egypt	4
+se_36781197.txt	Cairo	3
+se_36781197.txt	India	4
+se_36781197.txt	China	4
+se_36781197.txt	Chongqing	2
+se_36781197.txt	United Arab Emirates	2
+se_36781197.txt	Ahmedabad	2
+se_36781197.txt	Abu Dhabi	2
+se_36781197.txt	Seville International Airport	1
+se_36781197.txt	Kalaeloa	2
+se_36781197.txt	Tulsa	2
+se_36781197.txt	Hawaii	2
+se_36781197.txt	New York	4
+se_36781197.txt	Oklahoma	2
+se_36781197.txt	Lehigh Valley	3
+se_36781197.txt	Torresol Energyâ€™s Gemasolar Thermosolar Plant	1
+se_36781197.txt	Varanasi	2
+se_36781197.txt	Muscat	2
+se_36781197.txt	Africa	1
+se_36781197.txt	Ohio	4
+se_36781197.txt	Nanjing	2
+se_36781197.txt	Nagoya	2
+se_36781197.txt	Japan	3
+se_36781197.txt	Oman	2
+se_36781197.txt	Myanmar	2
+se_36781197.txt	Dayton	2
+se_36781197.txt	Pennsylvania	3
+se_36781197.txt	Abu Dhabi	1
+se_36781197.txt	Mountain View	2
+se_36781197.txt	Spain	2
+se_36781197.txt	Mandalay	2
+se_36781197.txt	California	3
+se_36781197.txt	burn in	1
+se_36781197.txt	Phoenix	2
+se_36781197.txt	Arizona	2
+se_36781197.txt	29 Minutes	3
+se_36781197.txt	13 Hours	3
+se_36781197.txt	52 Minutes	2
+se_36781197.txt	15 Hours	2
+se_36781197.txt	16 Hours	2
+se_36781197.txt	17 Hours	2
+se_36781197.txt	20 Hours	2
+se_36781197.txt	10 Minutes	1
+se_36781197.txt	15 Minutes	1
+se_36781197.txt	2.3 tonnes	1
+se_36781197.txt	20 Minutes	1
+se_36785883.txt	Dr Tali Treibitz	2
+se_36785883.txt	Coral	1
+se_36785883.txt	Great Barrier Reef	1
+se_36785883.txt	School of Marine Sciences	1
+se_36785883.txt	Israel	1
+se_36785883.txt	California	1
+se_36785883.txt	Nature Communications	1
+se_36785883.txt	development team	1
+se_36785883.txt	BBC News	1
+se_36785883.txt	University of Haifa	1
+s_23442542.txt	Napoli	7
+s_23442542.txt	Gonzalo Higuain	5
+s_23442542.txt	Rafael Benitez	3
+s_23442542.txt	Real Madrid	2
+s_23442542.txt	La Liga	5
+s_23442542.txt	River Plate	2
+s_23442542.txt	Liverpool	2
+s_23442542.txt	Argentina	2
+s_23442542.txt	PSV Eindhoven	1
+s_23442542.txt	Pepe Reina	2
+s_23442542.txt	Dries Mertens	1
+s_23442542.txt	Brest	1
+s_23442542.txt	Supercope de Espana	1
+s_23442542.txt	Edinson Cavani	1
+s_23442542.txt	Raul Albiol	1
+s_23442542.txt	France	1
+s_23442542.txt	Paris	1
+s_23442542.txt	Jose Callejon	1
+s_23442542.txt	Reds	1
+s_23442542.txt	official	1
+s_23442542.txt	107 league	1
+s_23442542.txt	four years	1
+s_23442542.txt	five-year	1
+s_23442542.txt	30-year	1
+s_23442542.txt	34.5m	1
+s_36254652.txt	Atletico	8
+s_36254652.txt	Champions League	7
+s_36254652.txt	Real Madrid	5
+s_36254652.txt	Antoine Griezmann	7
+s_36254652.txt	Zinedine Zidane	6
+s_36254652.txt	Gareth Bale	7
+s_36254652.txt	Cristiano Ronaldo	4
+s_36254652.txt	Sergio Ramos	5
+s_36254652.txt	Yannick Carrasco	4
+s_36254652.txt	Ronaldo	3
+s_36254652.txt	Atletico Madrid	1
+s_36254652.txt	Diego Simeone	3
+s_36254652.txt	Simeone	3
+s_36254652.txt	Juanfran	3
+s_36254652.txt	Madrid	1
+s_36254652.txt	Mark Clattenburg	3
+s_36254652.txt	San Siro	2
+s_36254652.txt	Griezmann	2
+s_36254652.txt	Manchester United	2
+s_36254652.txt	Barcelona	2
+s_36254652.txt	Pepe	2
+s_36254652.txt	Premier League clubs	1
+s_36254652.txt	Premier League	1
+s_36254652.txt	Fernando Torres	3
+s_36254652.txt	European Cup/Champions League	1
+s_36254652.txt	Wolfsburg	1
+s_36254652.txt	Rafael Benitez	1
+s_36254652.txt	Casemiro	1
+s_36254652.txt	Europe	1
+s_36254652.txt	Milan	1
+s_36254652.txt	England	1
+s_36254652.txt	Marcello Lippi	1
+s_36254652.txt	Saul Niguez	1
+s_36254652.txt	Wales	1
+s_36254652.txt	Arjen Robben	1
+s_36254652.txt	Spain	1
+s_36254652.txt	Lucas Vazquez	1
+s_36254652.txt	Chelsea	1
+s_36254652.txt	Stefan Savic	1
+s_36254652.txt	Karim Benzema	1
+s_36254652.txt	cup	1
+s_36254652.txt	Miguel Munoz	1
+s_36254652.txt	County Durham	1
+s_36254652.txt	president	1
+s_36254652.txt	Casemiro	1
+s_36254652.txt	Saul	1
+s_36254652.txt	Lionel Messi	2
+s_36254652.txt	Samuel Eto'o	2
+s_36254652.txt	Man of the match	1
+s_36254652.txt	official	1
+s_36391149.txt	Gareth Bale	16
+s_36391149.txt	Atletico Madrid	7
+s_36391149.txt	Wales	6
+s_36391149.txt	James Collins	4
+s_36391149.txt	Aaron Ramsey	4
+s_36391149.txt	San Siro	1
+s_36391149.txt	Joe Allen	7
+s_36391149.txt	San Siro Stadium	1
+s_36391149.txt	Andy King	4
+s_36391149.txt	Premier League	1
+s_36391149.txt	BBC	1
+s_36391149.txt	BBC Sport	1
+s_36391149.txt	Milan	1
+s_36391149.txt	Ryan Giggs	1
+s_36391149.txt	Arsenal	1
+s_36391149.txt	Liverpool	1
+s_36391149.txt	Joey Jones	1
+s_36391149.txt	Gaz	1
+s_36391149.txt	France	1
+s_36391149.txt	football	1
+s_36391149.txt	Leicester City	1
+s_36391149.txt	two years	1
+s_36391149.txt	26-year	1
+s_36391149.txt	32-year	1
+s_36392737.txt	Gareth Bale	23
+s_36392737.txt	Real Madrid	5
+s_36392737.txt	Madrid	4
+s_36392737.txt	Wales	11
+s_36392737.txt	Champions League	3
+s_36392737.txt	Atletico Madrid	1
+s_36392737.txt	BBC Wales Sport	2
+s_36392737.txt	San Siro	3
+s_36392737.txt	BBC	2
+s_36392737.txt	Harry Redknapp	3
+s_36392737.txt	Milan	3
+s_36392737.txt	Spurs	3
+s_36392737.txt	Tottenham	2
+s_36392737.txt	Ronaldo	3
+s_36392737.txt	Jermaine Jenas	2
+s_36392737.txt	Emilio Butragueno	3
+s_36392737.txt	BBC Sport	1
+s_36392737.txt	San Siro Stadium	1
+s_36392737.txt	Europe	2
+s_36392737.txt	Chris Coleman	2
+s_36392737.txt	Euro Star	1
+s_36392737.txt	Welshman	2
+s_36392737.txt	Javier Zanetti	1
+s_36392737.txt	Inter Milan	1
+s_36392737.txt	Julio Cesar	1
+s_36392737.txt	Premier League	1
+s_36392737.txt	Carlo Ancelotti	2
+s_36392737.txt	Luka Modric	1
+s_36392737.txt	Cardiff	1
+s_36392737.txt	European Cup	1
+s_36392737.txt	PFA Footballer	1
+s_36392737.txt	Spain	1
+s_36392737.txt	Tottenham	1
+s_36392737.txt	Copa del Rey	1
+s_36392737.txt	Spain	2
+s_36392737.txt	football	1
+s_36392737.txt	Tottenham	1
+s_36392737.txt	Germany	1
+s_36392737.txt	France	1
+s_36392737.txt	three years	1
+s_36392737.txt	35 minutes	1
+s_36392737.txt	90 minutes	1
+s_36392737.txt	58 years	1
+s_36392737.txt	21-year	1
+s_36392737.txt	26-year	1
+s_36392737.txt	50-yard	1
+s_36392737.txt	85m	1
+s_36403411.txt	Gareth Bale	18
+s_36403411.txt	Cristiano Ronaldo	5
+s_36403411.txt	Carlo Ancelotti	10
+s_36403411.txt	Atletico Madrid	1
+s_36403411.txt	BBC Sport	3
+s_36403411.txt	Champions League	2
+s_36403411.txt	BBC	2
+s_36403411.txt	San Siro	1
+s_36403411.txt	San Siro Stadium	1
+s_36403411.txt	president	2
+s_36403411.txt	Atletico	1
+s_36403411.txt	Wales	1
+s_36403411.txt	Inter Milan	1
+s_36403411.txt	Euro Star	1
+s_36403411.txt	Premier League	1
+s_36403411.txt	Pep Guardiola	1
+s_36403411.txt	Sergio Ramos	1
+s_36403411.txt	FC Bayern Munich	1
+s_36403411.txt	football	1
+s_36403411.txt	Tottenham	1
+s_36403411.txt	Spurs	1
+s_36403411.txt	Manchester	1
+s_36403411.txt	Spain	1
+s_36404799.txt	Tottenham	5
+s_36404799.txt	Spurs	4
+s_36404799.txt	Champions League	1
+s_36404799.txt	Premier League club	1
+s_36404799.txt	Premier League	1
+s_36404799.txt	61,000-seater stadium	1
+s_36404799.txt	BBC Sport	1
+s_36404799.txt	Daniel Levy	1
+s_36404799.txt	Arsenal	1
+s_36404799.txt	Football Association	1
+s_36404799.txt	Martin Glenn	1
+s_36404799.txt	London	1
+s_36404799.txt	chief executive	1
+s_36404799.txt	chairman	1
+s_36404799.txt	two years	1
+s_36404799.txt	400m	1
+s_36404999.txt	Cardiff	11
+s_36404999.txt	Alan Hamer	7
+s_36404999.txt	Cardiff City Stadium	1
+s_36404999.txt	Principality Stadium	3
+s_36404999.txt	Welsh FA	3
+s_36404999.txt	Milan	3
+s_36404999.txt	Uefa	2
+s_36404999.txt	San Siro stadium	1
+s_36404999.txt	Wales	2
+s_36404999.txt	football	2
+s_36404999.txt	Uefa	1
+s_36404999.txt	World Cup	1
+s_36404999.txt	Gareth Bale	1
+s_36404999.txt	Glamorgan County Cricket Club	1
+s_36404999.txt	director	1
+s_36404999.txt	Bristol	1
+s_36404999.txt	chief executive	1
+s_36404999.txt	London	1
+s_36404999.txt	Berlin	1
+s_36404999.txt	four days	2
+s_36404999.txt	90 minutes	1
+s_36404999.txt	72 hour	1
+s_36404999.txt	200m	1
+s_36408269.txt	Diego Simeone	5
+s_36408269.txt	Atletico	5
+s_36408269.txt	Atletico Madrid	1
+s_36408269.txt	Simeone	1
+s_36408269.txt	Champions League	1
+s_36408269.txt	Cristiano Ronaldo	1
+s_36408269.txt	Ronaldo	1
+s_36408269.txt	San Siro	1
+s_36408269.txt	Europa League	1
+s_36408269.txt	Antonio Conte	1
+s_36408269.txt	Europe	1
+s_36408269.txt	Milan	1
+s_36408269.txt	Bale	1
+s_36408269.txt	Stamford Bridge	1
+s_36408269.txt	Uefa	1
+s_36408269.txt	Chelsea	1
+s_36408269.txt	Italy	1
+s_36408269.txt	46-year	1
+s_36456096.txt	Jamie Vardy	4
+s_36456096.txt	Arsenal	4
+s_36456096.txt	England	3
+s_36456096.txt	Leicester	3
+s_36456096.txt	Leicester City	1
+s_36456096.txt	Premier League	2
+s_36456096.txt	Gunners	1
+s_36456096.txt	France	1
+s_36456096.txt	three-year	1
+s_36456096.txt	20m	1
+s_36456096.txt	1m	1
+s_36571877.txt	Jamie Vardy	6
+s_36571877.txt	Arsenal	4
+s_36571877.txt	Leicester	3
+s_36571877.txt	England	3
+s_36571877.txt	King Power Stadium	1
+s_36571877.txt	Premier League	1
+s_36571877.txt	Harry Kane	3
+s_36571877.txt	Gunners	2
+s_36571877.txt	Wales	1
+s_36571877.txt	Tottenham	1
+s_36571877.txt	Foxes	1
+s_36571877.txt	France	1
+s_36571877.txt	Â£1m	1
+s_36571877.txt	three-year	2
+s_36571877.txt	24 league	1
+s_36571877.txt	29-year	1
+s_36571877.txt	20m	1
+s_36571877.txt	1m	1
+s_36637591.txt	Lionel Messi	18
+s_36637591.txt	Argentina	15
+s_36637591.txt	Chile	9
+s_36637591.txt	Copa America	5
+s_36637591.txt	World Cup	4
+s_36637591.txt	Gonzalo Higuain	5
+s_36637591.txt	Sergio Romero	3
+s_36637591.txt	America	2
+s_36637591.txt	Lucas Biglia	3
+s_36637591.txt	Diego Maradona	3
+s_36637591.txt	Sergio Aguero	2
+s_36637591.txt	Brazil	2
+s_36637591.txt	Olympic	1
+s_36637591.txt	Barcelona	1
+s_36637591.txt	Germany	2
+s_36637591.txt	Gabriel Batistuta	1
+s_36637591.txt	Manchester	1
+s_36637591.txt	ESPN Deportes	1
+s_36637591.txt	Arturo Vidal	2
+s_36637591.txt	Manchester United	1
+s_36637591.txt	Tim Vickery	1
+s_36637591.txt	Russia	1
+s_36637591.txt	Claudio Bravo	1
+s_36637591.txt	Ever Banega	1
+s_36637591.txt	football	1
+s_36637591.txt	Olympics	1
+s_36637591.txt	Uruguay	1
+s_36637591.txt	Angel di Maria	1
+s_36637591.txt	Oceania	1
+s_36637591.txt	New Jersey	1
+s_36637591.txt	Barcelona	1
+s_36637591.txt	Francisco Silva	1
+s_36637591.txt	East Rutherford	1
+s_36637591.txt	La Nacion	1
+s_36637591.txt	Ezequiel Lavezzi	1
+s_36637591.txt	Javier Mascherano	1
+s_36637591.txt	England	1
+s_36637591.txt	Napoli	1
+s_36637591.txt	Belgium	1
+s_36637591.txt	120 minutes	1
+s_36637591.txt	20 minutes	1
+s_36637591.txt	four years	1
+s_36637591.txt	nine years	1
+s_36637591.txt	12 yards	1
+s_36679310.txt	Zlatan Ibrahimovic	26
+s_36679310.txt	King Zlatan	9
+s_36679310.txt	Pep Guardiola	8
+s_36679310.txt	Malmo	3
+s_36679310.txt	Manchester	3
+s_36679310.txt	Sweden	4
+s_36679310.txt	Barcelona	4
+s_36679310.txt	Old Trafford	3
+s_36679310.txt	Premier League	3
+s_36679310.txt	Europa League	2
+s_36679310.txt	Manchester United	1
+s_36679310.txt	Eric Cantona	2
+s_36679310.txt	Ferrari	3
+s_36679310.txt	Adrian Mutu	2
+s_36679310.txt	Jose Mourinho	3
+s_36679310.txt	YouTube	2
+s_36679310.txt	Champions League	1
+s_36679310.txt	Enzo	1
+s_36679310.txt	taekwondo	1
+s_36679310.txt	Oberhausen	1
+s_36679310.txt	Manchester City	1
+s_36679310.txt	Swedish Postal Service	1
+s_36679310.txt	BBC Sport	1
+s_36679310.txt	Ronaldo	1
+s_36679310.txt	Paris	1
+s_36679310.txt	Alfred Nobel	1
+s_36679310.txt	Nou Camp	1
+s_36679310.txt	Juventus	1
+s_36679310.txt	Audi	1
+s_36679310.txt	Pauleta	1
+s_36679310.txt	Fiat	2
+s_36679310.txt	Sven Rydell	1
+s_36679310.txt	Messrs Clattenburg	1
+s_36679310.txt	Ireland	1
+s_36679310.txt	Robbie Keane	1
+s_36679310.txt	Sanjin	1
+s_36679310.txt	Manchester United	1
+s_36679310.txt	Ingmar Bergman	1
+s_36679310.txt	football	1
+s_36679310.txt	Italy	1
+s_36679310.txt	family car	1
+s_36679310.txt	Peter Schmeichel	1
+s_36679310.txt	China	1
+s_36679310.txt	Youthman	1
+s_36679310.txt	Germany	1
+s_36679310.txt	Xbox	1
+s_36679310.txt	Foy	1
+s_36679310.txt	sports car	1
+s_36679310.txt	Carles Vilarrubi	1
+s_36679310.txt	119.9 minutes	1
+s_36685475.txt	Dan Crowley	3
+s_36685475.txt	BBC Radio Oxford	2
+s_36685475.txt	Michael Appleton	2
+s_36685475.txt	Oxford United	1
+s_36685475.txt	Arsenal	1
+s_36685475.txt	Gunners	1
+s_36685475.txt	England	1
+s_36685475.txt	Spain	1
+s_36685475.txt	football	1
+s_36685475.txt	18-year	1
+s_36687173.txt	Zlatan Ibrahimovic	31
+s_36687173.txt	Malmo	11
+s_36687173.txt	Magnus Gertten	8
+s_36687173.txt	Ajax	7
+s_36687173.txt	Sweden	6
+s_36687173.txt	Pep Guardiola	2
+s_36687173.txt	Paris	2
+s_36687173.txt	Inter Milan	2
+s_36687173.txt	football	3
+s_36687173.txt	Fredrik	2
+s_36687173.txt	Jose Mourinho	2
+s_36687173.txt	United	2
+s_36687173.txt	Louis van Gaal	2
+s_36687173.txt	Barcelona	2
+s_36687173.txt	Old Trafford	2
+s_36687173.txt	BBC Sport	1
+s_36687173.txt	Manchester United	1
+s_36687173.txt	Leo Beenhakker	1
+s_36687173.txt	Ronald Koeman	1
+s_36687173.txt	Sefik	2
+s_36687173.txt	researcher	1
+s_36687173.txt	Netherlands	1
+s_36687173.txt	PSV Eindhoven	1
+s_36687173.txt	reporter	1
+s_36687173.txt	Amsterdam	1
+s_36687173.txt	Mido	2
+s_36687173.txt	Inter Milan	1
+s_36687173.txt	technical director	1
+s_36687173.txt	24 hours	2
+s_36687173.txt	8.7m	2
+s_36687173.txt	10 minutes	1
+s_36687173.txt	four years	1
+s_36687173.txt	two league	1
+s_36687173.txt	15 years	1
+s_36687173.txt	18 yards	1
+s_36687173.txt	40 yards	1
+s_36687173.txt	34-year	1
+s_36687173.txt	one day	1
+s_36696116.txt	Antonio Conte	32
+s_36696116.txt	Italy	16
+s_36696116.txt	Chelsea	7
+s_36696116.txt	Chelsea	6
+s_36696116.txt	Premier League	8
+s_36696116.txt	Germany	4
+s_36696116.txt	England	5
+s_36696116.txt	Jose Mourinho	4
+s_36696116.txt	Stamford Bridge	2
+s_36696116.txt	Fabio Riva	3
+s_36696116.txt	Jurgen Klopp	2
+s_36696116.txt	Gianluigi Buffon	2
+s_36696116.txt	Spain	3
+s_36696116.txt	Alessandro Costacurta	3
+s_36696116.txt	Bordeaux	2
+s_36696116.txt	Pep Guardiola	3
+s_36696116.txt	BBC Sport	2
+s_36696116.txt	Gianluca Vialli	2
+s_36696116.txt	France	2
+s_36696116.txt	Manchester United	2
+s_36696116.txt	Champions League	1
+s_36696116.txt	Italian Football Federation	1
+s_36696116.txt	BBC	1
+s_36696116.txt	West Ham United	1
+s_36696116.txt	Manchester City	1
+s_36696116.txt	Arezzo	1
+s_36696116.txt	Giuseppe Bergomi	3
+s_36696116.txt	Stamford Bridge	1
+s_36696116.txt	Atalanta	1
+s_36696116.txt	Frank Lampard	2
+s_36696116.txt	Siena	1
+s_36696116.txt	football	2
+s_36696116.txt	Belgium	2
+s_36696116.txt	Football	1
+s_36696116.txt	Bari	1
+s_36696116.txt	Graziano Pelle	1
+s_36696116.txt	Klopp	1
+s_36696116.txt	Uefa	1
+s_36696116.txt	president	1
+s_36696116.txt	Juve	1
+s_36696116.txt	Tuttosport	1
+s_36696116.txt	Montpellier	1
+s_36696116.txt	Gary Cahill	1
+s_36696116.txt	Roland Gasset	1
+s_36696116.txt	England	1
+s_36696116.txt	Andrea Barzagli	1
+s_36696116.txt	Carlo Tavecchio	1
+s_36696116.txt	Kurt Zouma	1
+s_36696116.txt	John Terry	2
+s_36696116.txt	Leonardo Bonucci	1
+s_36696772.txt	Portugal	17
+s_36696772.txt	France	16
+s_36696772.txt	Ronaldo	12
+s_36696772.txt	Portugal	7
+s_36696772.txt	Cristiano Ronaldo	4
+s_36696772.txt	Stade de France	4
+s_36696772.txt	Fernando Santos	4
+s_36696772.txt	Didier Deschamps	3
+s_36696772.txt	Eder	4
+s_36696772.txt	Rui Patricio	4
+s_36696772.txt	World Cup	3
+s_36696772.txt	Hugo Lloris	2
+s_36696772.txt	Paris	2
+s_36696772.txt	Deschamps	1
+s_36696772.txt	Greece	2
+s_36696772.txt	Madrid	1
+s_36696772.txt	Mark Clattenburg	2
+s_36696772.txt	England	2
+s_36696772.txt	Dimitri Payet	1
+s_36696772.txt	Gignac	1
+s_36696772.txt	Raphael Guerreiro	1
+s_36696772.txt	Stadium of Light	1
+s_36696772.txt	Iceland	1
+s_36696772.txt	Lisbon	1
+s_36696772.txt	Germany	2
+s_36696772.txt	Olivier Giroud	1
+s_36696772.txt	Danny Murphy	1
+s_36696772.txt	Champions League	1
+s_36696772.txt	Austria	1
+s_36696772.txt	Wales	1
+s_36696772.txt	Marseille	1
+s_36696772.txt	Antoine Griezmann	1
+s_36696772.txt	Alan Shearer	1
+s_36696772.txt	Manchester United	1
+s_36696772.txt	Thierry Henry	1
+s_36696772.txt	Jose Fonte	1
+s_36696772.txt	Poland	1
+s_36696772.txt	Man of the match	1
+s_36696772.txt	Oliver Bierhoff	1
+s_36696772.txt	Pepe	1
+s_36696772.txt	Sylvain Wiltord	1
+s_36696772.txt	Juan Mata	1
+s_36696772.txt	David Trezeguet	1
+s_36696772.txt	Fernando Torres	1
+s_36696772.txt	eighteen minutes	1
+s_36696772.txt	108 minutes	1
+s_36696772.txt	25 minutes	1
+s_36696772.txt	90 minutes	1
+s_36696772.txt	25-yard	1
+s_36696772.txt	31-year	1
+s_36712500.txt	Heurelho Gomes	5
+s_36712500.txt	Watford	3
+s_36712500.txt	Quique Sanchez Flores	1
+s_36712500.txt	Jose Manuel Jurado	1
+s_36712500.txt	Spartak Moscow	1
+s_36712500.txt	Brazil	1
+s_36712500.txt	Tottenham	1
+s_36712500.txt	Spanish club	1
+s_36712500.txt	three-year	2
+s_36712500.txt	30-year	1
+s_36712500.txt	35-year	1
+s_36724923.txt	Marcelo Bielsa	5
+s_36724923.txt	Marseille	3
+s_36724923.txt	Lazio	2
+s_36724923.txt	Argentina	2
+s_36724923.txt	Stefano Pioli	1
+s_36724923.txt	Caen	1
+s_36724923.txt	Europa League	1
+s_36724923.txt	gold medal	1
+s_36724923.txt	France	1
+s_36724923.txt	Swansea	1
+s_36724923.txt	South Africa	1
+s_36724923.txt	Chile	1
+s_36724923.txt	World Cup	1
+s_36724923.txt	60-year	1
+s_36726880.txt	Manchester United	8
+s_36726880.txt	Jose Mourinho	5
+s_36726880.txt	Armenia	4
+s_36726880.txt	Henrikh Mkhitaryan	6
+s_36726880.txt	Borussia Dortmund	1
+s_36726880.txt	Dortmund	1
+s_36726880.txt	Premier League	1
+s_36726880.txt	official	1
+s_36726880.txt	four-year	1
+s_36726880.txt	27-year	1
+s_36726880.txt	23.5m	1
+s_36735636.txt	Jesus Gamez	4
+s_36735636.txt	Rafa Benitez	6
+s_36735636.txt	Atletico Madrid	2
+s_36735636.txt	Atletico	2
+s_36735636.txt	Premier League	2
+s_36735636.txt	Newcastle United	1
+s_36735636.txt	Newcastle	2
+s_36735636.txt	Stuart Findlay	2
+s_36735636.txt	Champions League	1
+s_36735636.txt	Yasin Ben El-Mhanni	1
+s_36735636.txt	Magpies	1
+s_36735636.txt	Malaga	1
+s_36735636.txt	football	1
+s_36735636.txt	two-year	1
+s_36735636.txt	31-year	1
+s_36737778.txt	Rob Wilson	6
+s_36737778.txt	Premier League	4
+s_36737778.txt	windows	4
+s_36737778.txt	Sadio Mane	2
+s_36737778.txt	BBC Sport	2
+s_36737778.txt	Manchester City	2
+s_36737778.txt	Liverpool	2
+s_36737778.txt	Paul Pogba	4
+s_36737778.txt	Manchester United	2
+s_36737778.txt	Manchester	1
+s_36737778.txt	Manchester United	1
+s_36737778.txt	Antoine Griezmann	1
+s_36737778.txt	Sheffield Hallam University	1
+s_36737778.txt	Zlatan Ibrahimovic	1
+s_36737778.txt	Mino Raiola	1
+s_36737778.txt	Deloitte	1
+s_36737778.txt	Ilkay Gundogan	1
+s_36737778.txt	Business analyst	1
+s_36737778.txt	Nampalys Mendy	1
+s_36737778.txt	Ahmed Musa	1
+s_36737778.txt	Gareth Bale	1
+s_36737778.txt	Sky	1
+s_36737778.txt	Marten de Roon	1
+s_36737778.txt	Viktor Fischer	1
+s_36737778.txt	Ron-Robert Zieler	1
+s_36737778.txt	Borussia Dortmund	1
+s_36737778.txt	Spain	1
+s_36737778.txt	Tottenham	1
+s_36737778.txt	BT	1
+s_36737778.txt	Atalanta	1
+s_36737778.txt	Vigo	1
+s_36737778.txt	Ajax	1
+s_36737778.txt	Mkhitaryan	1
+s_36737778.txt	Arsenal	1
+s_36737778.txt	France	1
+s_36737778.txt	Denmark	1
+s_36737778.txt	Henrikh Mkhitaryan	1
+s_36737778.txt	Leicester	1
+s_36737778.txt	Middlesbrough	1
+s_36737778.txt	Southampton	1
+s_36737778.txt	Eric Bailly	1
+s_36737778.txt	Nolito	1
+s_36737778.txt	Villarreal	1
+s_36737778.txt	30m	2
+s_36737778.txt	34m	2
+s_36737778.txt	nine weeks	1
+s_36737778.txt	three-year	1
+s_36737778.txt	23-year	1
+s_36737778.txt	13.8m	1
+s_36737778.txt	85.3m	1
+s_36738845.txt	Wales	12
+s_36738845.txt	Chris Coleman	7
+s_36738845.txt	Wales	4
+s_36738845.txt	World Cup	5
+s_36738845.txt	Russia	4
+s_36738845.txt	Belgium	5
+s_36738845.txt	France	3
+s_36738845.txt	Football Association of Wales	1
+s_36738845.txt	Premier League	3
+s_36738845.txt	North Wales	1
+s_36738845.txt	Portugal	2
+s_36738845.txt	Hal Robson-Kanu	2
+s_36738845.txt	Ashley Williams	1
+s_36738845.txt	Brian Flynn	1
+s_36738845.txt	League One Coventry	1
+s_36738845.txt	Chris	1
+s_36738845.txt	Republic of Ireland	1
+s_36738845.txt	Austria	1
+s_36738845.txt	Dean Saunders	2
+s_36738845.txt	Ian Rush	1
+s_36738845.txt	president	1
+s_36738845.txt	Moldova	1
+s_36738845.txt	Coventry	1
+s_36738845.txt	Gary Speed	1
+s_36738845.txt	Georgia	1
+s_36738845.txt	Neville Southall	1
+s_36738845.txt	Chris Bevan	1
+s_36738845.txt	mid-Wales	1
+s_36738845.txt	Callum	1
+s_36738845.txt	Ruthin	1
+s_36738845.txt	Welsh	1
+s_36738845.txt	Paris	1
+s_36738845.txt	Mark Hughes	1
+s_36738845.txt	Serbia	1
+s_36738845.txt	David Vaughan	1
+s_36738845.txt	Neil Taylor	1
+s_36738845.txt	Abergele	1
+s_36738845.txt	six years	2
+s_36738845.txt	two years	1
+s_36738845.txt	two-year	1
+s_36738845.txt	10 days	1
+s_36738845.txt	15m	1
+s_36740631.txt	Wales	17
+s_36740631.txt	Joe Ledley	6
+s_36740631.txt	BBC Wales Sport	1
+s_36740631.txt	Joe Allen	4
+s_36740631.txt	football	3
+s_36740631.txt	Cardiff	1
+s_36740631.txt	Cardiff Castle	1
+s_36740631.txt	Cardiff City Stadium	1
+s_36740631.txt	World Cup	2
+s_36740631.txt	Ibiza	1
+s_36740631.txt	Northern Ireland	2
+s_36740631.txt	England	2
+s_36740631.txt	Portugal	1
+s_36740631.txt	Crystal Palace	1
+s_36740631.txt	social media	1
+s_36740631.txt	Gareth Bale	1
+s_36740631.txt	BBC	1
+s_36740631.txt	Justin Tipuric	1
+s_36740631.txt	Lyon	1
+s_36740631.txt	partner	1
+s_36740631.txt	Liverpool	1
+s_36740631.txt	Austria	1
+s_36740631.txt	Mediterranean	1
+s_36740631.txt	Ruby	1
+s_36740631.txt	Belgium	1
+s_36740631.txt	Russia	1
+s_36740631.txt	Ospreys	1
+s_36740631.txt	Moldova	1
+s_36740631.txt	Georgia	1
+s_36740631.txt	Serbia	1
+s_36740631.txt	29-year	1
+s_36743557.txt	Argentine Bielsa	3
+s_36743557.txt	Lazio	2
+s_36743557.txt	Lazio	1
+s_36743557.txt	Stefano Pioli	1
+s_36743557.txt	Athletic Bilbao	1
+s_36743557.txt	Marseille	1
+s_36743557.txt	Argentina	1
+s_36743557.txt	two days	1
+s_36743557.txt	60-year	1
+s_36747438.txt	Ahmed Musa	5
+s_36747438.txt	Leicester	3
+s_36747438.txt	Leicester City	1
+s_36747438.txt	Moscow	2
+s_36747438.txt	Nigeria	2
+s_36747438.txt	World Cup	3
+s_36747438.txt	Nampalys Mendy	2
+s_36747438.txt	Everton	1
+s_36747438.txt	West Ham	1
+s_36747438.txt	Premier League	1
+s_36747438.txt	Ron-Robert Zieler	1
+s_36747438.txt	Southampton	1
+s_36747438.txt	Luis Hernandez	1
+s_36747438.txt	football	1
+s_36747438.txt	Brazil	1
+s_36747438.txt	Argentina	1
+s_36747438.txt	four minutes	1
+s_36747438.txt	four-year	1
+s_36747438.txt	16m	1
+s_36747461.txt	Petr Cech	4
+s_36747461.txt	Czech Republic	2
+s_36747461.txt	Arsenal	1
+s_36747461.txt	Arsenal	1
+s_36747461.txt	BBC Sport	1
+s_36747461.txt	Turkey	1
+s_36747461.txt	football	1
+s_36747461.txt	Greece	1
+s_36747461.txt	34-year	1
+s_36748676.txt	Shaun Donnellan	3
+s_36748676.txt	Stevenage	1
+s_36748676.txt	Premier League	1
+s_36748676.txt	League	1
+s_36748676.txt	Leo	3
+s_36748676.txt	National League	1
+s_36748676.txt	West Bromwich	1
+s_36748676.txt	Matt Godden	1
+s_36748676.txt	Jake Hyde	1
+s_36748676.txt	Boro	1
+s_36748676.txt	Lamex Stadium	1
+s_36748676.txt	Darren Sarll	1
+s_36748676.txt	Rowan Liburd	1
+s_36748676.txt	Andrew Fox	1
+s_36748676.txt	Worcester City	1
+s_36748676.txt	Baggies	1
+s_36748676.txt	Ireland	1
+s_36748676.txt	19-year	1
+s_36755192.txt	France	10
+s_36755192.txt	England	10
+s_36755192.txt	Germany	10
+s_36755192.txt	Iceland	5
+s_36755192.txt	Ronaldo	4
+s_36755192.txt	Thomas Muller	4
+s_36755192.txt	BBC	3
+s_36755192.txt	Stade de France	1
+s_36755192.txt	Uefa	2
+s_36755192.txt	Cristiano Ronaldo	1
+s_36755192.txt	ITV	3
+s_36755192.txt	Italy	3
+s_36755192.txt	Portugal	2
+s_36755192.txt	Football	1
+s_36755192.txt	Toni Kroos	1
+s_36755192.txt	Thierry Henry	1
+s_36755192.txt	Hungary	1
+s_36755192.txt	Ukraine	1
+s_36755192.txt	World Cup	1
+s_36755192.txt	Northern Ireland	1
+s_36755192.txt	UK	1
+s_36755192.txt	Wales	1
+s_36755192.txt	Romania	1
+s_36755192.txt	Belgium	1
+s_36755192.txt	2012 quarter	1
+s_36755192.txt	four years	1
+s_36755192.txt	13.6m	1
+s_36755192.txt	16.6m	1
+s_36755192.txt	19.2m	1
+s_36755192.txt	20.3m	1
+s_36755192.txt	29.8m	1
+s_36755192.txt	59.1%	1
+s_36755192.txt	66.3%	1
+s_36755192.txt	67.2%	1
+s_36755192.txt	68.8%	1
+s_36755192.txt	80.6%	1
+s_36755192.txt	99.8%	1
+s_36755192.txt	128m	1
+s_36755192.txt	130m	1
+s_36755192.txt	150m	1
+s_36755192.txt	2.7m	1
+s_36755192.txt	200m	1
+s_36755192.txt	257m	1
+s_36755192.txt	301m	1
+s_36755192.txt	340m	1
+s_36755192.txt	400m	1
+s_36755192.txt	410m	1
+s_36755192.txt	480m	1
+s_36755192.txt	555m	1
+s_36755192.txt	650m	1
+s_36755230.txt	Wales	7
+s_36755230.txt	Gareth Bale	3
+s_36755230.txt	Uefa	4
+s_36755230.txt	Northern Ireland	3
+s_36755230.txt	Alba Bale	2
+s_36755230.txt	FAW	3
+s_36755230.txt	Belgium	2
+s_36755230.txt	Ashley Williams	1
+s_36755230.txt	Portugal	1
+s_36755230.txt	Hal Robson-Kanu	1
+s_36755230.txt	Martin Kallan	1
+s_36755230.txt	director	1
+s_36755230.txt	social media	1
+s_36755230.txt	France	1
+s_36759289.txt	France	13
+s_36759289.txt	Portugal	8
+s_36759289.txt	Portugal	7
+s_36759289.txt	Rui Patricio	4
+s_36759289.txt	Ronaldo	4
+s_36759289.txt	Eder	4
+s_36759289.txt	Stade de France	2
+s_36759289.txt	Antoine Griezmann	5
+s_36759289.txt	Dimitri Payet	3
+s_36759289.txt	Portugal	1
+s_36759289.txt	Cristiano Ronaldo	2
+s_36759289.txt	Moussa Sissoko	2
+s_36759289.txt	Nani	2
+s_36759289.txt	Ricardo Quaresma	2
+s_36759289.txt	Europe	2
+s_36759289.txt	Renato Sanches	2
+s_36759289.txt	Rui Patricio	1
+s_36759289.txt	Adrien Silva	2
+s_36759289.txt	Paul Pogba	2
+s_36759289.txt	BBC Sport	1
+s_36759289.txt	Cedric Soares	1
+s_36759289.txt	Jose Fonte	1
+s_36759289.txt	William Carvalho	1
+s_36759289.txt	Paris	1
+s_36759289.txt	Joao Moutinho	1
+s_36759289.txt	Munich	1
+s_36759289.txt	Joao Mario	1
+s_36759289.txt	Hugo Lloris	1
+s_36759289.txt	Bacary Sagna	1
+s_36759289.txt	Patrice Evra	1
+s_36759289.txt	Laurent Koscielny	1
+s_36759289.txt	Chris Bevan	1
+s_36759289.txt	Samuel Umtiti	1
+s_36759289.txt	Raphael Guerriro	1
+s_36759289.txt	Blaise Matuidi	1
+s_36759289.txt	Olivier Giroud	1
+s_36759289.txt	Pepe	1
+s_36759289.txt	dispossess Nani	1
+s_36759289.txt	Giroud	1
+s_36759289.txt	Sissoko	1
+s_36759289.txt	Kingsley Coman	1
+s_36759289.txt	Payet	1
+s_36759289.txt	Southampton	1
+s_36759289.txt	Anthony Martial	1
+s_36759289.txt	Swansea	1
+s_36759289.txt	man of the match	1
+s_36759289.txt	79 mins	2
+s_36759289.txt	seven minutes	1
+s_36759289.txt	6  Inches	1
+s_36759289.txt	109 mins	1
+s_36760331.txt	Ronaldo	10
+s_36760331.txt	Portugal	13
+s_36760331.txt	Cristiano Ronaldo	4
+s_36760331.txt	France	7
+s_36760331.txt	Eder	5
+s_36760331.txt	Stade de France	1
+s_36760331.txt	Dimitri Payet	2
+s_36760331.txt	Pepe	3
+s_36760331.txt	Fernando Santos	2
+s_36760331.txt	Lionel Messi	3
+s_36760331.txt	football	3
+s_36760331.txt	Hollywood	2
+s_36760331.txt	Jose Mourinho	1
+s_36760331.txt	Jose Fonte	1
+s_36760331.txt	Nani	1
+s_36760331.txt	Greece	1
+s_36760331.txt	BBC	2
+s_36760331.txt	Real Madrid	1
+s_36760331.txt	Danny Murphy	1
+s_36760331.txt	European Championship	1
+s_36760331.txt	Thierry Henry	1
+s_36760331.txt	Lille	1
+s_36760331.txt	Swansea	2
+s_36760331.txt	Fonte	1
+s_36760331.txt	Danny Mills	1
+s_36760331.txt	Daily podcast	1
+s_36760331.txt	Argentina	1
+s_36760331.txt	Southampton	1
+s_36760331.txt	Lisbon	1
+s_36760331.txt	Barcelona	1
+s_36760331.txt	Poland	1
+s_36760331.txt	Wales	1
+s_36760331.txt	Iceland	1
+s_36760331.txt	Hungary	1
+s_36760331.txt	League	1
+s_36760331.txt	Austria	1
+s_36760331.txt	four minutes	1
+s_36760331.txt	25 minutes	1
+s_36760331.txt	90 minutes	1
+s_36760331.txt	19-year	1
+s_36760331.txt	25-yard	1
+s_36760331.txt	29-year	1
+s_36760331.txt	31-year	1
+s_36761007.txt	Ronaldo	28
+s_36761007.txt	Portugal	11
+s_36761007.txt	Cristiano Ronaldo	1
+s_36761007.txt	Portugal	6
+s_36761007.txt	France	5
+s_36761007.txt	Stade de France	2
+s_36761007.txt	Fernando Santos	5
+s_36761007.txt	Paris	3
+s_36761007.txt	Dimitri Payet	1
+s_36761007.txt	Didier Deschamps	1
+s_36761007.txt	football	2
+s_36761007.txt	Joao Moutinho	1
+s_36761007.txt	Poland	2
+s_36761007.txt	Real Madrid	1
+s_36761007.txt	Lionel Messi	2
+s_36761007.txt	Payet	1
+s_36761007.txt	Champions League	2
+s_36761007.txt	Henri Delaunay	1
+s_36761007.txt	Iceland	3
+s_36761007.txt	Manchester United	2
+s_36761007.txt	tetchily	1
+s_36761007.txt	Aron Gunnarsson	1
+s_36761007.txt	Mark Clattenburg	1
+s_36761007.txt	Barcelona	2
+s_36761007.txt	Argentina	1
+s_36761007.txt	Raphael Guerreiro	1
+s_36761007.txt	Ricardo Quaresma	1
+s_36761007.txt	Austria	1
+s_36761007.txt	Hungary	1
+s_36761007.txt	Eder	1
+s_36761007.txt	Twitter	1
+s_36761007.txt	Croatia	1
+s_36761007.txt	Copa America	1
+s_36761007.txt	La Liga	1
+s_36761007.txt	official	1
+s_36761007.txt	Wales	1
+s_36761007.txt	25 minutes	2
+s_36761007.txt	@icelandfootball	1
+s_36761007.txt	90 minutes	1
+s_36761007.txt	29-year	1
+s_36761007.txt	31-year	1
+s_36761007.txt	61-year	1
+s_36761213.txt	Lincoln Red Imps	5
+s_36761213.txt	Celtic	3
+s_36761213.txt	Lincoln Red Imps FC	1
+s_36761213.txt	Brendan Rodgers	4
+s_36761213.txt	Leigh Griffiths	4
+s_36761213.txt	Celtic Park	1
+s_36761213.txt	Craig Gordon	3
+s_36761213.txt	Lee Casciaro	2
+s_36761213.txt	Efe Ambrose	2
+s_36761213.txt	Raul Navas	2
+s_36761213.txt	officer	2
+s_36761213.txt	Moussa Dembele	2
+s_36761213.txt	Lincoln	1
+s_36761213.txt	Champions League	1
+s_36761213.txt	Flora Tallin	1
+s_36761213.txt	Nadir Ciftci	2
+s_36761213.txt	Antonio Calderon	1
+s_36761213.txt	Ronny Deila	1
+s_36761213.txt	Andreas Ekberg	1
+s_36761213.txt	Ministry of Defence	1
+s_36761213.txt	Casciaro	1
+s_36761213.txt	Ryan Casciaro	1
+s_36761213.txt	Malmo	1
+s_36761213.txt	Liam Walker	1
+s_36761213.txt	Gibraltar	1
+s_36761213.txt	Nir Bitton	1
+s_36761213.txt	Vallejo	1
+s_36761213.txt	James Forrest	1
+s_36761213.txt	Roy Chipolina	1
+s_36761213.txt	Paul	1
+s_36761213.txt	Stuart Armstrong	1
+s_36761213.txt	Scott Brown	1
+s_36761213.txt	Maribor	1
+s_36761213.txt	Legia Warsaw	1
+s_36761213.txt	Scotland	1
+s_36761213.txt	two minutes	1
+s_36761213.txt	two years	1
+s_36761213.txt	10mins	1
+s_36761213.txt	55mins	1
+s_36761907.txt	Vincent Janssen	5
+s_36761907.txt	England	2
+s_36761907.txt	Johan Cruyff	1
+s_36761907.txt	BBC Sport	1
+s_36761907.txt	Tottenham	1
+s_36761907.txt	Victor Wanyama	1
+s_36761907.txt	Wolfsburg	1
+s_36761907.txt	Spurs	1
+s_36761907.txt	Southampton	1
+s_36761907.txt	Paris	1
+s_36761907.txt	Eredivisie	1
+s_36761907.txt	27 league	1
+s_36761907.txt	four-year	1
+s_36761907.txt	22-year	1
+s_36761907.txt	11m	1
+s_36761907.txt	17m	1
+s_36763052.txt	France	22
+s_36763052.txt	Portugal	14
+s_36763052.txt	England	14
+s_36763052.txt	Iceland	10
+s_36763052.txt	Marseille	4
+s_36763052.txt	Stade Velodrome	3
+s_36763052.txt	Antoine Griezmann	9
+s_36763052.txt	Cristiano Ronaldo	4
+s_36763052.txt	Roy Hodgson	6
+s_36763052.txt	World Cup	5
+s_36763052.txt	Portugal	3
+s_36763052.txt	Stade de France	1
+s_36763052.txt	Football Association	4
+s_36763052.txt	Wales	4
+s_36763052.txt	Paris	2
+s_36763052.txt	Germany	2
+s_36763052.txt	Republic of Ireland	2
+s_36763052.txt	Uefa	2
+s_36763052.txt	Lisbon	2
+s_36763052.txt	Eder	2
+s_36763052.txt	football	2
+s_36763052.txt	England	1
+s_36763052.txt	Stade de Bordeaux	1
+s_36763052.txt	Ireland	2
+s_36763052.txt	Hungary	1
+s_36763052.txt	Austria	1
+s_36763052.txt	Greece	2
+s_36763052.txt	Wales	1
+s_36763052.txt	Fernando Santos	1
+s_36763052.txt	Russia	1
+s_36763052.txt	Ronaldo	1
+s_36763052.txt	Allardyce	1
+s_36763052.txt	Slovakia	1
+s_36763052.txt	Northern Ireland	2
+s_36763052.txt	La Marseillaise	1
+s_36763052.txt	Karim Benzema	1
+s_36763052.txt	Dan Ashworth	1
+s_36763052.txt	South Africa	1
+s_36763052.txt	chief executive	1
+s_36763052.txt	Martin Glenn	2
+s_36763052.txt	St George's Park	1
+s_36763052.txt	Lions	1
+s_36763052.txt	Hugo Lloris	1
+s_36763052.txt	David Gill	1
+s_36763052.txt	Renato Sanches	1
+s_36763052.txt	Manchester United	1
+s_36763052.txt	Germany	1
+s_36763052.txt	assault	1
+s_36763052.txt	Premier League	1
+s_36763052.txt	Shearer	1
+s_36763604.txt	Paul Pogba	11
+s_36763604.txt	Manchester United	3
+s_36763604.txt	Mino Raiola	5
+s_36763604.txt	Jose Mourinho	6
+s_36763604.txt	Manchester United	1
+s_36763604.txt	Juventus	1
+s_36763604.txt	France	2
+s_36763604.txt	Zlatan Ibrahimovic	1
+s_36763604.txt	Old Trafford	1
+s_36763604.txt	Gareth Bale	1
+s_36763604.txt	Juve	1
+s_36763604.txt	Portugal	1
+s_36763604.txt	Tottenham	1
+s_36763604.txt	Henrikh Mkhitaryan	1
+s_36763604.txt	representative	1
+s_36763604.txt	Italy	1
+s_36763604.txt	three years	2
+s_36763604.txt	23-year	1
+s_36763604.txt	85m	1
+s_36764528.txt	Bayern Munich	2
+s_36764528.txt	Pierre-Emile Hojbjerg	5
+s_36764528.txt	Nathan Redmond	7
+s_36764528.txt	Southampton	3
+s_36764528.txt	Renato Sanches	1
+s_36764528.txt	Premier League club	1
+s_36764528.txt	Portugal	1
+s_36764528.txt	Denmark	1
+s_36764528.txt	Norwich	1
+s_36764528.txt	St Mary	1
+s_36764528.txt	five-year	1
+s_36764528.txt	12.8m	1
+s_36764824.txt	Gokhan Tore	7
+s_36764824.txt	Besiktas	3
+s_36764824.txt	Slaven Bilic	6
+s_36764824.txt	West Ham	2
+s_36764824.txt	Rubin Kazan	1
+s_36764824.txt	Olympic Stadium	1
+s_36764824.txt	Fenerbahce	1
+s_36764824.txt	Hammers	1
+s_36764824.txt	Chelsea	1
+s_36764824.txt	America	1
+s_36764824.txt	two years	1
+s_36764824.txt	24-year	1
+s_36764839.txt	Saints	5
+s_36764839.txt	Champions League	3
+s_36764839.txt	Welsh Premier League	1
+s_36764839.txt	Craig Harrison	2
+s_36764839.txt	Tomas De Vincenti	1
+s_36764839.txt	Apoel Nicosia	1
+s_36764839.txt	Cyprus	2
+s_36764839.txt	Scott Quigley	1
+s_36764839.txt	Boy Waterman	1
+s_36764839.txt	Paul Harrison	1
+s_36764839.txt	Nuno Morais	1
+s_36764839.txt	San Marino	1
+s_36764839.txt	Connell Rawlinson	1
+s_36764839.txt	Hugo Miguel	1
+s_36764839.txt	2015-16	1
+s_36764839.txt	Inaki Astiz	1
+s_36764839.txt	Scott Ruscoe	1
+s_36764839.txt	Phil Baker	1
+s_36764839.txt	Ryan Brobbel	1
+s_36764839.txt	Real Madrid	1
+s_36764839.txt	Europe	1
+s_36764839.txt	Vander	1
+s_36764839.txt	Chris Seargeant	1
+s_36764839.txt	man of the match	1
+s_36766548.txt	Graziano Pelle	7
+s_36766548.txt	Southampton	2
+s_36766548.txt	Shandong Luneng	1
+s_36766548.txt	Southampton	1
+s_36766548.txt	Chinese Super League	1
+s_36766548.txt	Shandong	1
+s_36766548.txt	Papiss Cisse	1
+s_36766548.txt	Premier League	1
+s_36766548.txt	Saints	2
+s_36766548.txt	Felix Magath	1
+s_36766548.txt	Feyenoord	1
+s_36766548.txt	Sadio Mane	1
+s_36766548.txt	Victor Wanyama	1
+s_36766548.txt	Fulham	1
+s_36766548.txt	Parma	1
+s_36766548.txt	Bayern	1
+s_36766548.txt	Italy	1
+s_36766548.txt	Tottenham	1
+s_36766548.txt	Pierre-Emile Hojbjerg	1
+s_36766548.txt	Liverpool	1
+s_36766548.txt	12.8m	1
+s_36766548.txt	12m	1
+s_36766990.txt	Sam Allardyce	23
+s_36766990.txt	Premier League	6
+s_36766990.txt	Sunderland	4
+s_36766990.txt	England	6
+s_36766990.txt	Jurgen Klinsmann	5
+s_36766990.txt	Allardyce	1
+s_36766990.txt	Sunderland	3
+s_36766990.txt	David Gold	3
+s_36766990.txt	World Cup	4
+s_36766990.txt	Roy Hodgson	2
+s_36766990.txt	West Ham	4
+s_36766990.txt	Football Association	2
+s_36766990.txt	England	1
+s_36766990.txt	Bolton	2
+s_36766990.txt	USA	3
+s_36766990.txt	BBC	1
+s_36766990.txt	Newcastle	2
+s_36766990.txt	Blackburn	2
+s_36766990.txt	co-chairman	1
+s_36766990.txt	Jupp Heynckes	2
+s_36766990.txt	Bournemouth	1
+s_36766990.txt	Eddie Howe	1
+s_36766990.txt	Sven-Goran Eriksson	1
+s_36766990.txt	Frank Lampard	1
+s_36766990.txt	Hammers	1
+s_36766990.txt	Chris Sutton	1
+s_36766990.txt	football	1
+s_36766990.txt	Dan Ashworth	1
+s_36766990.txt	Copa America Centenario	1
+s_36766990.txt	Gareth Southgate	2
+s_36766990.txt	Steve McClaren	1
+s_36766990.txt	Munich	1
+s_36766990.txt	Argentina	1
+s_36766990.txt	Germany	1
+s_36766990.txt	Chelsea	1
+s_36766990.txt	US Soccer Federation	1
+s_36766990.txt	Europe	1
+s_36766990.txt	David Gill	1
+s_36766990.txt	Austria	1
+s_36766990.txt	California	1
+s_36766990.txt	Gary Lineker	1
+s_36766990.txt	Martin Glenn	1
+s_36766990.txt	chief executive	1
+s_36766990.txt	Belgium	1
+s_36766990.txt	vice-chairman	1
+s_36766990.txt	Rio Ferdinand	1
+s_36766990.txt	technical director	1
+s_36766990.txt	official	1
+s_36766990.txt	Notts County	1
+s_36766990.txt	Blackpool	1
+s_36767797.txt	Hal Robson-Kanu	13
+s_36767797.txt	Steve Bruce	9
+s_36767797.txt	Wales	4
+s_36767797.txt	BBC Sport	2
+s_36767797.txt	BBC Radio Humberside	1
+s_36767797.txt	Hull	1
+s_36767797.txt	Belgium	2
+s_36767797.txt	Hal	1
+s_36767797.txt	Premier League	2
+s_36767797.txt	Hull	2
+s_36767797.txt	Allan McGregor	1
+s_36767797.txt	France	1
+s_36767797.txt	football	1
+s_36767797.txt	England	1
+s_36772893.txt	Milan	2
+s_36772893.txt	Carlos Bacca	2
+s_36772893.txt	Sevilla	2
+s_36772893.txt	Colombia	2
+s_36772893.txt	AC Milan	1
+s_36772893.txt	Gokhan Tore	1
+s_36772893.txt	Tore	1
+s_36772893.txt	Copa America	1
+s_36772893.txt	West Ham	1
+s_36772893.txt	BBC Sport	1
+s_36772893.txt	Bruges	1
+s_36772893.txt	Havard Nordtveit	1
+s_36772893.txt	Toni Martinez	1
+s_36772893.txt	Hammers	1
+s_36772893.txt	Sofiane Feghouli	1
+s_36772893.txt	one-year	1
+s_36772893.txt	29-year	1
+s_36772893.txt	21m	1
+s_36772893.txt	26m	1
+s_36773207.txt	Howard Kendall	3
+s_36773207.txt	Everton	3
+s_36773207.txt	Sir Philip Carter	2
+s_36773207.txt	Sir Philip Carter Park	1
+s_36773207.txt	Howard Kendall Gwladys	1
+s_36773207.txt	Everton	1
+s_36773207.txt	Goodison Park	1
+s_36773207.txt	Bill Kenwright	1
+s_36773207.txt	Chairman	1
+s_36774563.txt	WSL	7
+s_36774563.txt	Manchester City Women	12
+s_36774563.txt	Football Association	8
+s_36774563.txt	WSL	2
+s_36774563.txt	Champions League	5
+s_36774563.txt	World Cup	3
+s_36774563.txt	England	3
+s_36774563.txt	England	3
+s_36774563.txt	Europe	3
+s_36774563.txt	Chelsea	1
+s_36774563.txt	Wolfsburg	2
+s_36774563.txt	2017-18	1
+s_36774563.txt	Premier League	1
+s_36774563.txt	Emma Hayes	2
+s_36774563.txt	Saki Kumagai	1
+s_36774563.txt	Bristol Academy	1
+s_36774563.txt	WPL	1
+s_36774563.txt	Mark Sampson	1
+s_36774563.txt	BBC Sport	1
+s_36774563.txt	Bristol	1
+s_36774563.txt	Frankfurt	1
+s_36774563.txt	Canada	1
+s_36774563.txt	Cardiff	1
+s_36774563.txt	Academy Stadium	1
+s_36774563.txt	Lyon	1
+s_36774563.txt	2015 league	1
+s_36774563.txt	Four weeks	1
+s_36774563.txt	one-month	1
+s_36774563.txt	10-month	1
+s_36774563.txt	33-year	1
+s_36774563.txt	48%	1
+s_36774864.txt	Thierry Henry	5
+s_36774864.txt	Arsene Wenger	3
+s_36774864.txt	Kwame Ampadu	2
+s_36774864.txt	Arsenal	2
+s_36774864.txt	Tony Adams	1
+s_36774864.txt	BBC Sport	1
+s_36774864.txt	Sky Sports	1
+s_36774864.txt	France	1
+s_36774864.txt	38-year	1
+s_36776192.txt	Napoli	5
+s_36776192.txt	Gonzalo Higuain	4
+s_36776192.txt	Arsenal	3
+s_36776192.txt	Real Madrid	1
+s_36776192.txt	Cristiano Ronaldo	1
+s_36776192.txt	Gareth Bale	1
+s_36776192.txt	BBC Sport	1
+s_36776192.txt	Higuain	1
+s_36776192.txt	Kalidou Koulibaly	1
+s_36776192.txt	Argentina	1
+s_36776192.txt	Senegal	1
+s_36776192.txt	Gunners	1
+s_36776192.txt	Everton	1
+s_36776192.txt	Manchester United	1
+s_36776192.txt	Chelsea	1
+s_36776192.txt	Tottenham	1
+s_36776192.txt	football	1
+s_36776192.txt	two years	1
+s_36776192.txt	25-year	1
+s_36776192.txt	28-year	1
+s_36776192.txt	80m	1
+s_36776192.txt	85m	1
+s_36776192.txt	94m	1
+s_36776319.txt	Ryan Bertrand	4
+s_36776319.txt	Southampton	2
+s_36776319.txt	Southampton	1
+s_36776319.txt	Virgil van Dijk	1
+s_36776319.txt	England	2
+s_36776319.txt	Premier League club	1
+s_36776319.txt	Fraser Forster	1
+s_36776319.txt	Slovakia	1
+s_36776319.txt	Steven Davis	1
+s_36776319.txt	Chelsea	1
+s_36776319.txt	James Ward-Prowse	1
+s_36776319.txt	Saints	1
+s_36776319.txt	five-year	1
+s_36776319.txt	10m	1
+s_36777537.txt	Samuel Umtiti	4
+s_36777537.txt	France	2
+s_36777537.txt	Barcelona	2
+s_36777537.txt	Coupe de France	1
+s_36777537.txt	Lyon	1
+s_36777537.txt	Portugal	1
+s_36777537.txt	2016 quarter	1
+s_36777537.txt	five-year	1
+s_36777537.txt	22-year	1
+s_36777537.txt	21m	1
+s_36777537.txt	25m	1
+s_36777537.txt	50m	1
+s_36777537.txt	60m	1
+s_36778701.txt	Chelsea	3
+s_36778701.txt	Willian	4
+s_36778701.txt	Premier League	2
+s_36778701.txt	Brazil	2
+s_36778701.txt	Antonio Conte	1
+s_36778701.txt	Michy Batshuayi	1
+s_36778701.txt	Anzhi Makhachkala	1
+s_36778701.txt	Marseille	1
+s_36778701.txt	2014-15	1
+s_36778701.txt	Belgium	1
+s_36778701.txt	four years	1
+s_36778701.txt	four-year	1
+s_36778701.txt	two years	1
+s_36778701.txt	One Cup	1
+s_36778701.txt	30m	1
+s_36778701.txt	33m	1
+s_36779804.txt	Nick Powell	4
+s_36779804.txt	Manchester United	2
+s_36779804.txt	Wigan	1
+s_36779804.txt	Wigan	1
+s_36779804.txt	Wigan	1
+s_36779804.txt	Leicester City	1
+s_36779804.txt	Gary Caldwell	1
+s_36779804.txt	United	1
+s_36779804.txt	Hull City	1
+s_36779804.txt	Crewe	1
+s_36779804.txt	2013-14	1
+s_36779804.txt	three-year	1
+s_36779804.txt	3m	1
+t_32064576.txt	Periscope	6
+t_32064576.txt	Twitter	5
+t_32064576.txt	mobile phone	5
+t_32064576.txt	Commander Hadfield	4
+t_32064576.txt	Texas	1
+t_32064576.txt	Meerkast	1
+t_32064576.txt	Bambuser	1
+t_32064576.txt	White House	1
+t_32064576.txt	press secretary	1
+t_32064576.txt	Science Museum	1
+t_32064576.txt	early adopter	1
+t_32064576.txt	royal palace	1
+t_32064576.txt	York	1
+t_32064576.txt	football	1
+t_32064576.txt	co-founder and CEO	1
+t_32064576.txt	social media	1
+t_32064576.txt	Keyvon Beykpour	1
+t_32064576.txt	one hand	1
+t_32338279.txt	Google	9
+t_32338279.txt	Europe	6
+t_32338279.txt	search market	3
+t_32338279.txt	Microsoft	5
+t_32338279.txt	US	4
+t_32338279.txt	Yahoo	5
+t_32338279.txt	Bing	3
+t_32338279.txt	mobile search	1
+t_32338279.txt	EU	2
+t_32338279.txt	Android	2
+t_32338279.txt	mobile phones	1
+t_32338279.txt	Comscore	1
+t_32338279.txt	web analytics	1
+t_32338279.txt	European Commission	1
+t_32338279.txt	Siri	1
+t_32338279.txt	Amazon	1
+t_32338279.txt	eBay	1
+t_32338279.txt	Cortana	1
+t_32338279.txt	95%	2
+t_32338279.txt	13%	1
+t_32338279.txt	20%	1
+t_32338279.txt	64%	1
+t_32338279.txt	85%	1
+t_32338279.txt	90%	1
+t_32393050.txt	Google	12
+t_32393050.txt	Jenny Hurren	8
+t_32393050.txt	search engine	3
+t_32393050.txt	Out There Interiors	2
+t_32393050.txt	Simon Drinkwater	7
+t_32393050.txt	online retailer	1
+t_32393050.txt	Magnus Shoes	2
+t_32393050.txt	European Commission	1
+t_32393050.txt	global economy	1
+t_32535124.txt	Silicon Valley	3
+t_32535124.txt	David Byttow	2
+t_32535124.txt	founder	2
+t_32535124.txt	WhatsApp	2
+t_32535124.txt	Indonesia	2
+t_32535124.txt	venture capitalists	1
+t_32535124.txt	Google	1
+t_32535124.txt	West Coast	1
+t_32535124.txt	Redpoint	1
+t_32535124.txt	Nike	1
+t_32535124.txt	Kleiner Perkins	1
+t_32535124.txt	venture capital	1
+t_32535124.txt	Google Ventures	1
+t_32535124.txt	Snapchat	1
+t_32535124.txt	Index Ventures	1
+t_32535124.txt	social network	1
+t_32535124.txt	executive	1
+t_32535124.txt	million dollars	1
+t_32535124.txt	22.8m	1
+t_32535124.txt	35m	1
+t_32553247.txt	Twitter	12
+t_32553247.txt	Facebook	8
+t_32553247.txt	LinkedIn	2
+t_32553247.txt	Nigeria	2
+t_32553247.txt	UK	3
+t_32553247.txt	Mark Zuckerberg	1
+t_32553247.txt	social media	1
+t_32553247.txt	networking site	1
+t_32553247.txt	BBC	2
+t_32553247.txt	India	2
+t_32553247.txt	mobile advertising	1
+t_32553247.txt	Indiana	1
+t_32553247.txt	Ruislip	1
+t_32553247.txt	US	1
+t_32553247.txt	South Korea	1
+t_32553247.txt	South Africa	1
+t_32553247.txt	Kenya	1
+t_32553247.txt	@BBCTechTent	1
+t_32553247.txt	36 hours	1
+t_32553247.txt	24 year	1
+t_32553247.txt	65-year	1
+t_32553247.txt	$9.38	1
+t_32553247.txt	25%	1
+t_32553247.txt	75%	1
+t_32707014.txt	Facebook	15
+t_32707014.txt	social network	4
+t_32707014.txt	social media	2
+t_32707014.txt	Instant Articles	1
+t_32707014.txt	BBC	2
+t_32707014.txt	mobile device	1
+t_32707014.txt	mobile phone	1
+t_32707014.txt	media company	1
+t_32707014.txt	Chris Cox	2
+t_32707014.txt	Guardian	1
+t_32707014.txt	New York Times	1
+t_32707014.txt	Google	2
+t_32707014.txt	Buzzfeed	1
+t_32707014.txt	Menlo Park	1
+t_32707014.txt	editor	1
+t_32707014.txt	US	1
+t_32707014.txt	chief product officer	1
+t_32707014.txt	technology platform	1
+t_32707014.txt	executive	1
+t_32707014.txt	eight seconds	1
+t_32707014.txt	one day	1
+t_32707014.txt	100%	1
+t_32752437.txt	Shine	6
+t_32752437.txt	Google	4
+t_32752437.txt	Roi Carthy	7
+t_32752437.txt	Mobile advertising	2
+t_32752437.txt	mobile phone	1
+t_32752437.txt	mobile phones	1
+t_32752437.txt	mobile phone networks	1
+t_32752437.txt	mobile network	1
+t_32752437.txt	Financial Times	1
+t_32752437.txt	United States	1
+t_32752437.txt	Facebook	1
+t_32752437.txt	Chief Marketing Officer	1
+t_32752437.txt	Twitter	1
+t_32752437.txt	Apple	1
+t_32752437.txt	executive	1
+t_32752437.txt	billion dollar	1
+t_32752437.txt	5%	1
+t_32810220.txt	Chirp	6
+t_32810220.txt	Patrick Bergel	8
+t_32810220.txt	Google	6
+t_32810220.txt	venture capitalists	2
+t_32810220.txt	UK	3
+t_32810220.txt	University College London	1
+t_32810220.txt	technology business	1
+t_32810220.txt	London	1
+t_32810220.txt	Crowdcube	1
+t_32810220.txt	California	1
+t_32810220.txt	social network	1
+t_32810220.txt	Three years	1
+t_33019405.txt	John McAfee	12
+t_33019405.txt	McAfee	1
+t_33019405.txt	mobile phones	3
+t_33019405.txt	Belize	3
+t_33019405.txt	Cheltenham Science Festival	2
+t_33019405.txt	London	2
+t_33019405.txt	US government	1
+t_33019405.txt	Infosecurity Europe	1
+t_33019405.txt	technology industry	1
+t_33019405.txt	Warwick University	1
+t_33019405.txt	Senate	1
+t_33019405.txt	coherent	1
+t_33019405.txt	credit rating	1
+t_33019405.txt	Martyn Thomas	1
+t_33019405.txt	scientist	1
+t_33019405.txt	technology companies	1
+t_33019405.txt	murder	1
+t_33019405.txt	Samaritans	1
+t_33019405.txt	prime minister	1
+t_33019405.txt	Twitter	1
+t_33019405.txt	Marion Oswald	1
+t_33019405.txt	Google	1
+t_33019405.txt	software engineer	1
+t_33019405.txt	GCHQ	1
+t_33019405.txt	Britain	1
+t_33019405.txt	20 years	1
+t_33427816.txt	BBC	7
+t_33427816.txt	BBC Micro	2
+t_33427816.txt	BBC Radio Theatre	1
+t_33427816.txt	director general	2
+t_33427816.txt	Lord Hall	2
+t_33427816.txt	Ross Lowe	2
+t_33427816.txt	Dara O'Briain	1
+t_33427816.txt	mobile phone	1
+t_33427816.txt	Microsoft	1
+t_33427816.txt	UK	1
+t_33427816.txt	technology companies	1
+t_33427816.txt	social media	1
+t_33427816.txt	quick start	1
+t_33427816.txt	million Year	1
+t_33481217.txt	Nokia	10
+t_33481217.txt	Microsoft	8
+t_33481217.txt	mobile phone	2
+t_33481217.txt	Windows	4
+t_33481217.txt	Steve Ballmer	4
+t_33481217.txt	Windows Phone	1
+t_33481217.txt	Windows Phone	1
+t_33481217.txt	Blackberry	3
+t_33481217.txt	Android	2
+t_33481217.txt	chief executive	1
+t_33481217.txt	Finland	3
+t_33481217.txt	Europe	2
+t_33481217.txt	Satya Nadella	2
+t_33481217.txt	The deal	2
+t_33481217.txt	US	1
+t_33481217.txt	BBC	1
+t_33481217.txt	Samsung	1
+t_33481217.txt	partner	1
+t_33481217.txt	HTC	1
+t_33481217.txt	Daniel Rubino.	1
+t_34207105.txt	Apple	13
+t_34207105.txt	Microsoft	13
+t_34207105.txt	iPad	3
+t_34207105.txt	Satya Nadella	5
+t_34207105.txt	iPhones	3
+t_34207105.txt	forgotten war	3
+t_34207105.txt	tablet PC	1
+t_34207105.txt	Steve Jobs	1
+t_34207105.txt	Bill Gates	1
+t_34207105.txt	Windows	2
+t_34207105.txt	Steve Ballmer	1
+t_34207105.txt	San Francisco	1
+t_34207105.txt	Nokia	1
+t_34207105.txt	Twitter	1
+t_34207105.txt	chief executive	1
+t_34207105.txt	China	1
+t_34207105.txt	Windows Phones	1
+t_34207105.txt	Kirk Koenigsbauer	1
+t_34207105.txt	enterprise software	1
+t_34207105.txt	software giant	1
+t_34207105.txt	executive	1
+t_34207105.txt	three decades	1
+t_34256655.txt	Harry Nao	30
+t_34256655.txt	Active Robots	11
+t_34256655.txt	BBC	3
+t_34256655.txt	Jeremy Vine	6
+t_34256655.txt	Pepper	4
+t_34256655.txt	AI	4
+t_34256655.txt	Japan	3
+t_34256655.txt	John Humphrys	1
+t_34256655.txt	Pepper	1
+t_34256655.txt	Charlotte Newton	2
+t_34256655.txt	Broadcasting House	1
+t_34256655.txt	Charlotte	1
+t_34256655.txt	Softbank	1
+t_34256655.txt	Charlotte	1
+t_34256655.txt	Facebook	1
+t_34256655.txt	user interface	1
+t_34256655.txt	Rory	1
+t_34256655.txt	Aldebaran	1
+t_34256655.txt	Diana	2
+t_34256655.txt	artificial intelligence	1
+t_34256655.txt	Jessie	2
+t_34256655.txt	voice recognition	1
+t_34256655.txt	Cortana	2
+t_34256655.txt	Dick	1
+t_34256655.txt	Siri	1
+t_34268612.txt	Facebook	4
+t_34268612.txt	social network	2
+t_34268612.txt	Sheryl Sandberg	1
+t_34268612.txt	chief operating officer	1
+t_34268612.txt	fast food	1
+t_34268612.txt	VirtualBagel	1
+t_34282845.txt	Amazon	9
+t_34282845.txt	Jeff Bezos	7
+t_34282845.txt	Apple	6
+t_34282845.txt	iPad	1
+t_34282845.txt	set-top box	2
+t_34282845.txt	IDC	2
+t_34282845.txt	Samsung	2
+t_34282845.txt	founder	2
+t_34282845.txt	Prime	1
+t_34282845.txt	Tesco	1
+t_34282845.txt	three years	2
+t_34282845.txt	10	1
+t_34282845.txt	70%	1
+t_34282845.txt	4K	1
+t_34282845.txt	7	1
+t_34282845.txt	7%	1
+t_34282845.txt	8	1
+t_34349611.txt	salesman	2
+t_34349611.txt	Palo Alto	1
+t_34349611.txt	Facebook	1
+t_34349611.txt	artificial intelligence	1
+t_34349611.txt	BBC World Service	1
+t_34349611.txt	West Coast	1
+t_34349611.txt	California	1
+t_34357044.txt	Silicon Valley	9
+t_34357044.txt	Computer History Museum	5
+t_34357044.txt	Jyoti Bansal	8
+t_34357044.txt	computer science	3
+t_34357044.txt	Mountain View	4
+t_34357044.txt	BBC	3
+t_34357044.txt	Google	3
+t_34357044.txt	AppDynamics	2
+t_34357044.txt	Facebook	1
+t_34357044.txt	Mark Zuckerberg	1
+t_34357044.txt	Christine Tsae	2
+t_34357044.txt	Xerox Parc	1
+t_34357044.txt	Babbage	1
+t_34357044.txt	US	1
+t_34357044.txt	Packard	1
+t_34357044.txt	Elon Musk	1
+t_34357044.txt	Intel	1
+t_34357044.txt	YouTube	1
+t_34357044.txt	Hewlett	1
+t_34357044.txt	artificial intelligence	1
+t_34357044.txt	San Francisco	1
+t_34357044.txt	Stanford	1
+t_34357044.txt	internet search	2
+t_34357044.txt	venture capital	1
+t_34357044.txt	California	1
+t_34357044.txt	founder	1
+t_34357044.txt	user interface	1
+t_34357044.txt	Ipsy	1
+t_34357044.txt	search queries	1
+t_34357044.txt	social networks	1
+t_34357044.txt	India	1
+t_34357044.txt	70 years	1
+t_34399686.txt	Google	7
+t_34399686.txt	Android	3
+t_34399686.txt	Huawei	2
+t_34399686.txt	Chromecast	2
+t_34399686.txt	operating system	2
+t_34399686.txt	Samsung	2
+t_34399686.txt	Nexus	1
+t_34399686.txt	iPad Pro	1
+t_34399686.txt	Microsoft	2
+t_34399686.txt	Sonos	1
+t_34399686.txt	Amazon	1
+t_34399686.txt	United States	1
+t_34399686.txt	Spotify	1
+t_34399686.txt	press release	1
+t_34399686.txt	Apple	1
+t_34399686.txt	30 minutes	1
+t_34401616.txt	Lord Drayson	5
+t_34401616.txt	Freevolt	6
+t_34401616.txt	Dean Bubley	6
+t_34401616.txt	Lord Drayson	1
+t_34401616.txt	Drayson Technologies	1
+t_34401616.txt	Royal Institution	2
+t_34401616.txt	energy system	1
+t_34401616.txt	Freevolt	2
+t_34401616.txt	Michael Faraday	1
+t_34401616.txt	London	1
+t_34401616.txt	analyst	1
+t_34401616.txt	founder	1
+t_34401616.txt	4G	1
+t_34445202.txt	Twitter	11
+t_34445202.txt	Jack Dorsey	12
+t_34445202.txt	Steve Jobs	9
+t_34445202.txt	Square	3
+t_34445202.txt	Apple	3
+t_34445202.txt	Chief Executive of Square	1
+t_34445202.txt	interim CEO	1
+t_34445202.txt	Pixar	2
+t_34445202.txt	chief executive	1
+t_34445202.txt	mobile payments	1
+t_34445202.txt	Elon Musk	1
+t_34445202.txt	Jeff Bezos	1
+t_34445202.txt	Tumblr	1
+t_34445202.txt	official	1
+t_34445202.txt	stock market	1
+t_34445202.txt	CEO	1
+t_34445202.txt	US	1
+t_34445202.txt	San Francisco	1
+t_34445202.txt	founder	2
+t_34445202.txt	Washington Post	1
+t_34445202.txt	Tesla	1
+t_34445202.txt	Amazon	1
+t_34445202.txt	sprint	1
+t_34445202.txt	Stock Exchange	1
+t_34445202.txt	alternative energy	1
+t_34445202.txt	New York	1
+t_34445202.txt	London	1
+t_34445202.txt	computer animation	1
+t_34445202.txt	Three years	1
+t_34445202.txt	six months	1
+t_34503762.txt	BT	15
+t_34503762.txt	UK	4
+t_34503762.txt	broadband network	1
+t_34503762.txt	Openreach	3
+t_34503762.txt	Ed Vaizey	4
+t_34503762.txt	Ofcom	2
+t_34503762.txt	House of Commons	1
+t_34503762.txt	mobile phone	1
+t_34503762.txt	Britain	2
+t_34503762.txt	executive	2
+t_34503762.txt	technology correspondent	1
+t_34503762.txt	free market	1
+t_34503762.txt	Matt Warman	1
+t_34503762.txt	Daily Telegraph	1
+t_34503762.txt	Martlesham	1
+t_34503762.txt	Sharon White	2
+t_34503762.txt	Competition and Markets Authority	1
+t_34503762.txt	Suffolk	1
+t_34503762.txt	telecoms	1
+t_34503762.txt	the House	1
+t_34503762.txt	Financial Times	1
+t_34503762.txt	break up	1
+t_34503762.txt	CEO	1
+t_34503762.txt	three hours	1
+t_34503762.txt	five years	1
+t_34503762.txt	830m	1
+t_34503762.txt	95%	1
+t_34503762.txt	3G	1
+t_34503762.txt	5%	1
+t_34525958.txt	Electric Jukebox	5
+t_34525958.txt	Rob Lewis	5
+t_34525958.txt	Rob Lewis	1
+t_34525958.txt	Spotify	2
+t_34525958.txt	Simon Indelicate	2
+t_34525958.txt	Bruce Springsteen	1
+t_34525958.txt	remote control	1
+t_34525958.txt	US	1
+t_34525958.txt	YouTube	1
+t_34525958.txt	Christmas	1
+t_34525958.txt	Omnifone	1
+t_34525958.txt	technical support	1
+t_34525958.txt	London	1
+t_34525958.txt	Google	1
+t_34525958.txt	Mark Mulligan	2
+t_34525958.txt	mobile phone	1
+t_34525958.txt	Amazon	1
+t_34525958.txt	two minutes	1
+t_34525958.txt	42 minutes	1
+t_34525958.txt	$229	1
+t_34922561.txt	Raspberry Pi	5
+t_34922561.txt	Raspberry Pi magazine	2
+t_34922561.txt	Eben Upton	3
+t_34922561.txt	Britain	1
+t_34922561.txt	Wales	1
+t_34922561.txt	BBC	1
+t_34922561.txt	chief executive	1
+t_34922561.txt	Philip Colligan	1
+t_34922561.txt	UK	1
+t_34922561.txt	$5	1
+t_34983939.txt	Facebook	7
+t_34983939.txt	Mark Zuckerberg	12
+t_34983939.txt	Microsoft	2
+t_34983939.txt	founder	1
+t_34983939.txt	social network	1
+t_34983939.txt	London	1
+t_34983939.txt	BBC	1
+t_34983939.txt	Yammer	1
+t_34983939.txt	billion dollars	1
+t_34983939.txt	20 years	1
+t_35168809.txt	UK	4
+t_35168809.txt	UKIE	2
+t_35168809.txt	London Stock Exchange	1
+t_35168809.txt	retail market	1
+t_35168809.txt	Call of Duty	1
+t_35168809.txt	MCV	1
+t_35168809.txt	Sony	1
+t_35168809.txt	Xbox 3	1
+t_35168809.txt	Gfk	1
+t_35168809.txt	Xbox	1
+t_35168809.txt	PS4	1
+t_35168809.txt	Microsoft	1
+t_35168809.txt	Jo Twist	1
+t_35168809.txt	PS3	1
+t_35168809.txt	Chief Executive	1
+t_35168809.txt	PlayStation 4	1
+t_35168809.txt	two years	2
+t_35168809.txt	three years	1
+t_35168809.txt	13.5%	1
+t_35168809.txt	13%	1
+t_35168809.txt	60%	1
+t_35220930.txt	Mark Zuckerberg	7
+t_35220930.txt	Facebook	4
+t_35220930.txt	Amazon	3
+t_35220930.txt	Las Vegas	2
+t_35220930.txt	Jarvis Cocker	2
+t_35220930.txt	Iron Man	1
+t_35220930.txt	personal assistant	1
+t_35220930.txt	Google	2
+t_35220930.txt	Alexa	1
+t_35220930.txt	artificial intelligence	1
+t_35220930.txt	United States	1
+t_35220930.txt	founder	1
+t_35220930.txt	Siri	1
+t_35220930.txt	Apple	1
+t_35220930.txt	Tony Stark	1
+t_35220930.txt	Microsoft	1
+t_35220930.txt	Cortana	1
+t_35229820.txt	solar panels	6
+t_35229820.txt	solar energy	5
+t_35229820.txt	Las Vegas	8
+t_35229820.txt	SolarCity	10
+t_35229820.txt	Nevada	6
+t_35229820.txt	Elon Musk	3
+t_35229820.txt	Nevada Public Utilities Commission	2
+t_35229820.txt	solar power	1
+t_35229820.txt	Nevada Power	1
+t_35229820.txt	Judy Treichel	6
+t_35229820.txt	Kelly Schwartze	4
+t_35229820.txt	Daren Judd	3
+t_35229820.txt	energy bills	1
+t_35229820.txt	US	1
+t_35229820.txt	SpaceX	1
+t_35229820.txt	regional operations manager	1
+t_35229820.txt	electric car	1
+t_35229820.txt	America	1
+t_35229820.txt	the outlook	1
+t_35229820.txt	eight years	1
+t_35285321.txt	Elon Musk	12
+t_35285321.txt	Tesla	8
+t_35285321.txt	electric car	12
+t_35285321.txt	Autopilot	3
+t_35285321.txt	Mr Musk	1
+t_35285321.txt	Jeff Bezos	5
+t_35285321.txt	Los Angeles	2
+t_35285321.txt	producer	2
+t_35285321.txt	Supercharger	1
+t_35285321.txt	Supercharger station	1
+t_35285321.txt	New York	1
+t_35285321.txt	founder	1
+t_35285321.txt	Virgin Galactic	1
+t_35285321.txt	James Bond	1
+t_35285321.txt	Las Vegas	1
+t_35285321.txt	software glitch	1
+t_35285321.txt	Google	1
+t_35285321.txt	Apple	1
+t_35285321.txt	Jat Gill	1
+t_35285321.txt	BMW	1
+t_35285321.txt	software upgrades	1
+t_35285321.txt	Jeff Who	1
+t_35285321.txt	Ford	1
+t_35285321.txt	3,000 miles	1
+t_35285321.txt	20 years	1
+t_35285321.txt	60mph	1
+t_35285321.txt	10%	1
+t_35285321.txt	4G	1
+t_35323122.txt	mobile phones	3
+t_35323122.txt	World Bank	1
+t_35323122.txt	World Bank	1
+t_35323122.txt	World Bank	1
+t_35323122.txt	India	2
+t_35323122.txt	mobile phone	1
+t_35323122.txt	Middle East	1
+t_35323122.txt	Tuvalu	1
+t_35323122.txt	Pakistan	1
+t_35323122.txt	UK	1
+t_35323122.txt	Islamabad	1
+t_35323122.txt	OECD	1
+t_35323122.txt	Kenya	1
+t_35323122.txt	Kerala	1
+t_35323122.txt	Africa	1
+t_35323122.txt	Hong Kong	1
+t_35323122.txt	Honduras	1
+t_35323122.txt	Wikipedia	1
+t_35323122.txt	20 years	1
+t_35323122.txt	0.47%	1
+t_35323122.txt	12.5%	1
+t_35323122.txt	50%	1
+t_35323122.txt	90%	1
+t_35323122.txt	1%	1
+t_35323122.txt	5%	1
+t_35356147.txt	Mark Harris	10
+t_35356147.txt	Ivan Reedman	7
+t_35356147.txt	Zanos	8
+t_35356147.txt	Kickstarter	6
+t_35356147.txt	Yancey Strickler	6
+t_35356147.txt	Europe	1
+t_35356147.txt	writer	2
+t_35356147.txt	Â£2.3m	1
+t_35356147.txt	Torquing	1
+t_35356147.txt	Torquing Group	1
+t_35356147.txt	Oculus Rifts	1
+t_35356147.txt	venture capital	1
+t_35356147.txt	Seattle	1
+t_35356147.txt	Amazon	1
+t_35356147.txt	South Wales	1
+t_35356147.txt	Popular Science	1
+t_35356147.txt	engineer	1
+t_35356147.txt	co-founder	1
+t_35356147.txt	six weeks	1
+t_35356147.txt	100%	1
+t_35356147.txt	2.3m	1
+t_35382280.txt	BBC World Service	2
+t_35382280.txt	Minecraft	3
+t_35382280.txt	Microsoft	3
+t_35382280.txt	John Romero	4
+t_35382280.txt	Mark Harris	3
+t_35382280.txt	BBC	1
+t_35382280.txt	Rob Carter	1
+t_35382280.txt	investigative reporter	1
+t_35382280.txt	software giant	1
+t_35382280.txt	Zoe Kleinman	1
+t_35382280.txt	reporter	1
+t_35382280.txt	Jane Wakefield	1
+t_35382280.txt	Google	1
+t_35382280.txt	co-founder	1
+t_35382280.txt	BETT	1
+t_35382280.txt	technology business	1
+t_35382280.txt	UK	1
+t_35382280.txt	Amazon	1
+t_35382280.txt	Twenty three years	1
+t_35399030.txt	BT	9
+t_35399030.txt	Grant Shapps	8
+t_35399030.txt	Ofcom	5
+t_35399030.txt	Britain	5
+t_35399030.txt	UK	5
+t_35399030.txt	Carl Thomas	3
+t_35399030.txt	Andrew Ferguson	2
+t_35399030.txt	chairman	2
+t_35399030.txt	Conservative party	1
+t_35399030.txt	Japan	2
+t_35399030.txt	South Korea	2
+t_35399030.txt	Openreach	2
+t_35399030.txt	British Infrastructure Group	1
+t_35399030.txt	BDUK	1
+t_35399030.txt	Hull	1
+t_35399030.txt	Kcom	1
+t_35399030.txt	Sweden	1
+t_35399030.txt	Cumbria	1
+t_35399030.txt	Spain	1
+t_35399030.txt	Europe	1
+t_35399030.txt	Netherlands	1
+t_35399030.txt	telecoms	1
+t_35399030.txt	95%	1
+t_35399030.txt	8%	1
+t_35548160.txt	Government Digital Service	2
+t_35548160.txt	Government Digital Services	1
+t_35548160.txt	GDS	1
+t_35548160.txt	Peter Herlihy	1
+t_35548160.txt	car tax	1
+t_35548160.txt	Pete Herlihy	1
+t_35548160.txt	Gov.uk	1
+t_35548160.txt	Mike Bracken	1
+t_35548160.txt	Estonia	1
+t_35548160.txt	online retailers	1
+t_35548160.txt	public services	1
+t_35548160.txt	Defra	1
+t_35548160.txt	NAO	1
+t_35548160.txt	National Audit Office	1
+t_35548160.txt	five years	1
+t_35548160.txt	one day	1
+t_35548160.txt	200m	1
+t_35548160.txt	600m	1
+t_35605931.txt	BT	9
+t_35605931.txt	BT Openreach	5
+t_35605931.txt	York	10
+t_35605931.txt	TalkTalk	7
+t_35605931.txt	broadband network	2
+t_35605931.txt	Jessica North	3
+t_35605931.txt	BT Retail	1
+t_35605931.txt	Ofcom	2
+t_35605931.txt	Jessica North	1
+t_35605931.txt	Britain	3
+t_35605931.txt	Virgin Media	1
+t_35605931.txt	engineer	1
+t_35605931.txt	UK	1
+t_35605931.txt	Strategic Review of Digital Communications	1
+t_35605931.txt	New Zealand	1
+t_35605931.txt	Cityfibre	1
+t_35605931.txt	Sharon White	2
+t_35605931.txt	Huntington	1
+t_35605931.txt	venture partner	1
+t_35605931.txt	online gaming	1
+t_35605931.txt	chief executive	1
+t_35605931.txt	Singapore	1
+t_35605931.txt	Cabinet	1
+t_35605931.txt	FTTC	1
+t_35605931.txt	Australia	1
+t_35706510.txt	Ambarish Mitra	14
+t_35706510.txt	Blippar	6
+t_35706510.txt	AR	6
+t_35706510.txt	augmented reality	3
+t_35706510.txt	virtual reality	2
+t_35706510.txt	chief executive	2
+t_35706510.txt	Philharmonia Orchestra	1
+t_35706510.txt	Blippar	1
+t_35706510.txt	Spotify	1
+t_35706510.txt	Google	1
+t_35706510.txt	Malaysian government	1
+t_35706510.txt	apple	1
+t_35706510.txt	search engine	1
+t_35706510.txt	UK	1
+t_35706510.txt	St Paul's Cathedral	1
+t_35706510.txt	St Paul	1
+t_35706510.txt	London	1
+t_35706510.txt	United States	1
+t_35706510.txt	Asia	1
+t_35706510.txt	co-founder	1
+t_35706510.txt	artificial intelligence	1
+t_35706510.txt	six-year	2
+t_35706510.txt	360 degree	1
+t_35706510.txt	six months	1
+t_35706510.txt	18-year	1
+t_35706510.txt	38.6m	1
+t_35706510.txt	71.5m	1
+t_35782859.txt	John Deere	3
+t_35782859.txt	Ron Zink	4
+t_35782859.txt	Gartner	1
+t_35782859.txt	online retailers	2
+t_35782859.txt	BBC	2
+t_35782859.txt	Umbra Shading	1
+t_35782859.txt	Umbra	1
+t_35782859.txt	Irene Ng	1
+t_35782859.txt	London	1
+t_35782859.txt	chief executive	1
+t_35782859.txt	UK	1
+t_35782859.txt	University of Warwick	1
+t_35782859.txt	Nigel Hill	1
+t_35782859.txt	Monsanto	1
+t_35782859.txt	mobile phones	1
+t_35782859.txt	three centimetres	1
+t_35782859.txt	three years	1
+t_35840935.txt	Sony	4
+t_35840935.txt	AI	3
+t_35840935.txt	artificial intelligence	3
+t_35840935.txt	Chris Bishop	3
+t_35840935.txt	Google	2
+t_35840935.txt	BBC	2
+t_35840935.txt	Ian Sharpe	2
+t_35840935.txt	Oculus Rift	1
+t_35840935.txt	Tom Chatfield	2
+t_35840935.txt	AI systems	1
+t_35840935.txt	virtual reality	1
+t_35840935.txt	Nokia	1
+t_35840935.txt	Christmas	1
+t_35840935.txt	PS4	1
+t_35840935.txt	Call of Duty	1
+t_35840935.txt	trainee	1
+t_35840935.txt	Playstation	1
+t_35840935.txt	Microsoft	1
+t_35840935.txt	Electronic Sports League	1
+t_35840935.txt	HTC	1
+t_35840935.txt	UK	1
+t_35840935.txt	San Francisco	1
+t_35840935.txt	Developer	1
+t_35840935.txt	Amazon	1
+t_35840935.txt	Cambridge	1
+t_35840935.txt	AlphaGo	1
+t_35840935.txt	360 degree	1
+t_35840935.txt	18 months	1
+t_35860814.txt	Dan Wagner	13
+t_35860814.txt	Powa	9
+t_35860814.txt	Powa	7
+t_35860814.txt	China	5
+t_35860814.txt	Powa Technologies	2
+t_35860814.txt	London	4
+t_35860814.txt	the deal	5
+t_35860814.txt	BBC	4
+t_35860814.txt	China UnionPay	3
+t_35860814.txt	Wellington Management	3
+t_35860814.txt	technology company	2
+t_35860814.txt	Christmas	2
+t_35860814.txt	David Bowie	3
+t_35860814.txt	Wellington	2
+t_35860814.txt	Apple	2
+t_35860814.txt	Heron Tower	3
+t_35860814.txt	Deloitte	2
+t_35860814.txt	Evan Davis	2
+t_35860814.txt	iOS	1
+t_35860814.txt	Android	1
+t_35860814.txt	Britain	1
+t_35860814.txt	founder	1
+t_35860814.txt	David Cameron	1
+t_35860814.txt	stock market	1
+t_35860814.txt	L'Oreal	1
+t_35860814.txt	Warren Cowan	1
+t_35860814.txt	Starbucks	1
+t_35860814.txt	Mayfair	1
+t_35860814.txt	technology firms	1
+t_35860814.txt	Europe	1
+t_35860814.txt	press release	1
+t_35860814.txt	Google	1
+t_35860814.txt	Insolvency Trading	1
+t_35860814.txt	mobile commerce	1
+t_35860814.txt	executive	1
+t_35860814.txt	Facebook	1
+t_35860814.txt	Hong Kong	1
+t_35860814.txt	chief executive	1
+t_35860814.txt	Greenlight	1
+t_35860814.txt	partner	1
+t_35860814.txt	Ant Sharp	1
+t_35860814.txt	Carrefour	1
+t_35860814.txt	New York	1
+t_35860814.txt	three seconds	1
+t_35860814.txt	four months	1
+t_35860814.txt	one day	1
+t_35860814.txt	200m	1
+t_35860814.txt	694m	1
+t_35863859.txt	BBC Micro	6
+t_35863859.txt	BBC	4
+t_35863859.txt	Drew Buddie	4
+t_35863859.txt	Steve Hodges	4
+t_35863859.txt	UK	1
+t_35863859.txt	Yorkshire school	1
+t_35863859.txt	captionRishworth School	1
+t_35863859.txt	Microsoft	1
+t_35863859.txt	Rory	1
+t_35863859.txt	chairman	1
+t_35863859.txt	NAACE	1
+t_35863859.txt	engineer	1
+t_35863859.txt	20 miles	1
+t_35863859.txt	35 years	1
+t_35863859.txt	32km	1
+t_35940172.txt	Tesla	14
+t_35940172.txt	captionElon Musk	5
+t_35940172.txt	Jay Nagley	4
+t_35940172.txt	Leaf	4
+t_35940172.txt	Hawthorne	1
+t_35940172.txt	California	1
+t_35940172.txt	US	2
+t_35940172.txt	General Motor	1
+t_35940172.txt	Europe	1
+t_35940172.txt	UK	1
+t_35940172.txt	Bolt	2
+t_35940172.txt	founder	1
+t_35940172.txt	Nissan	1
+t_35940172.txt	chief executive	1
+t_35940172.txt	managing director	1
+t_35940172.txt	BMW	1
+t_35940172.txt	analyst	1
+t_35940172.txt	Sunderland	1
+t_35940172.txt	GM	1
+t_35940172.txt	Porsche	1
+t_35940172.txt	100 miles	1
+t_35940172.txt	12 months	1
+t_35940172.txt	161km	1
+t_35940172.txt	618m	1
+t_35940172.txt	889m	1
+t_35978532.txt	WhatsApp	11
+t_35978532.txt	law enforcement	4
+t_35978532.txt	Mr Gamble	5
+t_35978532.txt	Law enforcement agencies	1
+t_35978532.txt	CEOP	3
+t_35978532.txt	Jim Gamble	3
+t_35978532.txt	Facebook	1
+t_35978532.txt	Apple	2
+t_35978532.txt	telecoms	2
+t_35978532.txt	WhatsApp	1
+t_35978532.txt	FBI	1
+t_35978532.txt	iPhone	1
+t_35978532.txt	Twitter	1
+t_35978532.txt	FBI	1
+t_35978532.txt	Social networks	1
+t_35978532.txt	Prime Minister	1
+t_35978532.txt	San Bernardino	1
+t_35978532.txt	secretary	1
+t_35978532.txt	officer	1
+t_35995965.txt	UK	7
+t_35995965.txt	BT	3
+t_35995965.txt	Hull	3
+t_35995965.txt	Thinkbroadband	1
+t_35995965.txt	Europe	2
+t_35995965.txt	Ofcom	1
+t_35995965.txt	Kingston Communications	2
+t_35995965.txt	telecoms	1
+t_35995965.txt	90%	3
+t_35995965.txt	37.6%	2
+t_35995965.txt	95%	2
+t_35995965.txt	1.56%	1
+t_35995965.txt	10%	1
+t_36680043.txt	Tesla	11
+t_36680043.txt	Autopilot	4
+t_36680043.txt	Autopilot	1
+t_36680043.txt	Elon Musk	2
+t_36680043.txt	Joshua Brown	3
+t_36680043.txt	NHTSA	2
+t_36680043.txt	US	2
+t_36680043.txt	founder	2
+t_36680043.txt	YouTube	1
+t_36680043.txt	Florida	1
+t_36680043.txt	Nissan Leaf	1
+t_36680043.txt	Office of Defects Investigation	1
+t_36680043.txt	chief executive	1
+t_36680043.txt	California	1
+t_36680043.txt	230 miles	1
+t_36680043.txt	370 km	1
+t_36680043.txt	3%	1
+t_36736103.txt	Autopilot	10
+t_36736103.txt	Tesla	4
+t_36736103.txt	Tesla	3
+t_36736103.txt	NHTSA	3
+t_36736103.txt	Pennsylvania	3
+t_36736103.txt	US	3
+t_36736103.txt	Teslas	1
+t_36736103.txt	Florida	2
+t_36736103.txt	Nissan	1
+t_36736103.txt	Joshua Brown	1
+t_36736103.txt	Mark Rosekind	1
+t_36736103.txt	Leaf	1
+t_36736103.txt	founder	1
+t_36736103.txt	California	1
+t_36736103.txt	230 miles	1
+t_36736103.txt	40-year	1
+t_36736103.txt	370 km	1
+t_36763504.txt	Facebook	3
+t_36763504.txt	Twitter	3
+t_36763504.txt	Nintendo	3
+t_36763504.txt	US	3
+t_36763504.txt	UK	3
+t_36763504.txt	Missouri	2
+t_36763504.txt	Japan	2
+t_36763504.txt	Android	2
+t_36763504.txt	SimilarWeb	2
+t_36763504.txt	Missouri Police Department	1
+t_36763504.txt	Chris Foxx	1
+t_36763504.txt	Charmander	1
+t_36763504.txt	Tinder	1
+t_36763504.txt	Europe	1
+t_36763504.txt	Pokestop	1
+t_36763504.txt	armed robbery	1
+t_36763504.txt	Keith Green	1
+t_36763504.txt	augmented reality	1
+t_36763504.txt	shut down	1
+t_36763504.txt	South Carolina	1
+t_36763504.txt	Washington State	1
+t_36763504.txt	Tokyo Stock Exchange	1
+t_36763504.txt	Dave Lee	1
+t_36763504.txt	developer	1
+t_36763504.txt	Snapchat	1
+t_36763504.txt	New Zealand	1
+t_36763504.txt	Niantic	1
+t_36763504.txt	Wyoming	1
+t_36763504.txt	Australia	1
+t_36763504.txt	@DaveLeeBBC	1
+t_36763504.txt	43 minutes	1
+t_36763504.txt	20 years	1
+t_36763504.txt	$99.99	1
+t_36763504.txt	5.16%	1
+t_36763504.txt	100%	1
+t_36763504.txt	$10	1
+t_36763504.txt	25%	1
+t_36763504.txt	33%	1
+t_36765823.txt	Elon Musk	9
+t_36765823.txt	Tesla	8
+t_36765823.txt	family car	6
+t_36765823.txt	electric car	1
+t_36765823.txt	car production	1
+t_36765823.txt	Efraim Levy	2
+t_36765823.txt	Telsa	1
+t_36765823.txt	chief executive	1
+t_36765823.txt	Florida	2
+t_36765823.txt	chairman	3
+t_36765823.txt	Jim Chanos	1
+t_36765823.txt	Joshua Brown	1
+t_36765823.txt	Investment manager	1
+t_36765823.txt	S&P Capital	1
+t_36765823.txt	analyst	1
+t_36765823.txt	Pennsylvania	1
+t_36765823.txt	one billion miles	1
+t_36765823.txt	4%	1
+t_36772048.txt	internet access	5
+t_36772048.txt	Netflix	5
+t_36772048.txt	Judge Reinhardt	4
+t_36772048.txt	US	3
+t_36772048.txt	Reed Hastings	4
+t_36772048.txt	Pinsent Masons	3
+t_36772048.txt	David Nosal	2
+t_36772048.txt	chief executive	2
+t_36772048.txt	Kevin Spacey	1
+t_36772048.txt	UK	2
+t_36772048.txt	Judge M Margaret McKeown	1
+t_36772048.txt	federal law	1
+t_36772048.txt	Fraud	1
+t_36772048.txt	Kuan Hon	1
+t_36772048.txt	CFAA	1
+t_36772048.txt	copyrightETHAN MILLER	1
+t_36772048.txt	consultant	1
+t_36772461.txt	Ransomware	7
+t_36772461.txt	UF	3
+t_36772461.txt	Nolen Scaife	2
+t_36772461.txt	University of Florida	2
+t_36772461.txt	CryptoDrop	2
+t_36772461.txt	Villanova University	1
+t_36772461.txt	Patrick Traynor	1
+t_36772461.txt	FBI	1
+t_36772461.txt	associate professor	1
+t_36772461.txt	partner	1
+t_36772461.txt	Richard Cassidy	1
+t_36772461.txt	Japan	1
+t_36772461.txt	Henry Carter	1
+t_36772461.txt	Alert Logic	1
+t_36772461.txt	100%	1
+t_36772461.txt	18m	1
+t_36772461.txt	24m	1
+t_36773214.txt	Google	12
+t_36773214.txt	Niantic Labs	4
+t_36773214.txt	Niantic	1
+t_36773214.txt	app store	1
+t_36773214.txt	Chris Foxx	1
+t_36773214.txt	developer	1
+t_36773214.txt	Android	1
+t_36773214.txt	Nintendo	1
+t_36773214.txt	augmented reality	1
+t_36773214.txt	UK	1
+t_36773214.txt	iPhone	1
+t_36773214.txt	US	1
+t_36773214.txt	New Zealand	1
+t_36773214.txt	Australia	1
+t_36773214.txt	1m	1
+t_36773409.txt	Amazon	9
+t_36773409.txt	Graeme Smith	3
+t_36773409.txt	Facebook	2
+t_36773409.txt	BBC	2
+t_36773409.txt	London	2
+t_36773409.txt	US	1
+t_36773409.txt	Toys R Us	1
+t_36773409.txt	Cadbury	1
+t_36773409.txt	YouTube	1
+t_36773409.txt	Maisie McCabe	1
+t_36773409.txt	Nike	1
+t_36773409.txt	Impossible Software	1
+t_36773409.txt	software development	1
+t_36773409.txt	Israel	1
+t_36773409.txt	managing director	1
+t_36773409.txt	Paris	1
+t_36773409.txt	Idomoo	1
+t_36773409.txt	Edinburgh	1
+t_36773409.txt	editor	1
+t_36773409.txt	UK	1
+t_36776114.txt	Prime Day	3
+t_36776114.txt	Amazon	3
+t_36776114.txt	Black Friday	2
+t_36776114.txt	Twitter	1
+t_36778374.txt	Dallas	5
+t_36778374.txt	US	4
+t_36778374.txt	Creech Air Force Base	2
+t_36778374.txt	South Korea	3
+t_36778374.txt	US Navy	1
+t_36778374.txt	explosive device	1
+t_36778374.txt	police chief	1
+t_36778374.txt	remote control	1
+t_36778374.txt	North Korea	1
+t_36778374.txt	Crecy	1
+t_36778374.txt	official	1
+t_36778374.txt	Nevada desert	1
+t_36778374.txt	Cold War	1
+t_36778374.txt	computer system	1
+t_36778374.txt	2.5 miles	1
+t_36778374.txt	4km	1
+t_36779033.txt	Tech City UK	5
+t_36779033.txt	UK	3
+t_36779033.txt	Gerard Grech	4
+t_36779033.txt	EU	2
+t_36779033.txt	Europe	2
+t_36779033.txt	Theresa May	3
+t_36779033.txt	technology sector	1
+t_36779033.txt	executive	1
+t_36779033.txt	Prime Minister	1
+t_36779033.txt	Brexit	1
+t_36779033.txt	London	1
+t_36779033.txt	chief executive	1
+t_36779033.txt	press release	1
+t_36779033.txt	US	1
+t_36779033.txt	KKR	1
+t_36779033.txt	Darktrace	1
+t_36779033.txt	Revolut	1
+t_36779033.txt	Festicket	1
+t_36779033.txt	31%	1
+t_36779033.txt	50m	1
+t_36779033.txt	51%	1
+t_36779033.txt	70%	1
+t_36779033.txt	74%	1
+t_36779033.txt	79%	1
+t_36779033.txt	5m	1
+t_36779033.txt	8m	1
+t_36783345.txt	Tesla	8
+t_36783345.txt	Tesla	2
+t_36783345.txt	Elon Musk	4
+t_36783345.txt	autosteer	3
+t_36783345.txt	Montana	2
+t_36783345.txt	Nissan	3
+t_36783345.txt	Jaguar Land Rover	1
+t_36783345.txt	Land Rover	1
+t_36783345.txt	US Securities and Exchange Commission	1
+t_36783345.txt	car makers	1
+t_36783345.txt	Wall Street Journal	1
+t_36783345.txt	Cardwell	1
+t_36783345.txt	US	1
+t_36783345.txt	Joshua Brown	1
+t_36783345.txt	NHTSA	1
+t_36783345.txt	CNN	1
+t_36783345.txt	Chief executive	1
+t_36783345.txt	Pang	2
+t_36783345.txt	ProPilot	2
+t_36783345.txt	Coventry	1
+t_36783345.txt	terms of use	1
+t_36783345.txt	England	1
+t_36783345.txt	BBC	1
+t_36783345.txt	Japan	2
+t_36783345.txt	officer	1
+t_36783345.txt	Florida	1
+t_36783345.txt	two minutes	1
+t_36783345.txt	nine days	1
+t_36783345.txt	one hand	1
+t_36783345.txt	54 days	1
+t_36783351.txt	Google	12
+t_36783351.txt	BPI	5
+t_36783351.txt	YouTube	5
+t_36783351.txt	Taylor Swift	2
+t_36783351.txt	BBC Music	1
+t_36783351.txt	UK	1
+t_36783351.txt	media industry	1
+t_36783351.txt	copyright infringement	1
+t_36783351.txt	Sir Paul McCartney	1
+t_36783351.txt	US	2
+t_36783351.txt	Katherine Oyama	1
+t_36783351.txt	Mark Savage	1
+t_36783351.txt	Phonographic Industry	1
+t_36783351.txt	copyright law	1
+t_36783351.txt	reporter	1
+t_36783351.txt	search engine	1
+t_36783351.txt	IFPI	1
+t_36783351.txt	International Federation of	1
+t_36783351.txt	Spotify	1
+t_36783351.txt	Apple	1
+t_36783351.txt	Two billion dollars	1
+t_36783351.txt	24.4m	1
+t_36783351.txt	146m	1
+t_36783351.txt	40%	1
+t_36783351.txt	60m	1
+t_36783351.txt	95%	1
+
