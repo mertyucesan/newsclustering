@@ -1,0 +1,51 @@
+
+
+Sabre's trick: Hot air passes over the piping, plunging to lower than -140C in just 1/100th of a second
+The UK company developing an engine for a new type of spaceplane says it has successfully demonstrated the power unit's enabling technology.
+Reaction Engines Ltd (REL) of Culham, Oxfordshire, ran a series of tests on key elements of its Sabre propulsion system under the independent eye of the European Space Agency (Esa).
+Esa's experts have confirmed that all the demonstration objectives were met.
+REL claims the major technical obstacle to its ideas has now been removed.
+"This is a big moment; it really is quite a big step forward in propulsion," said Alan Bond, the driving force behind the Sabre engine concept.
+The company must now raise the Â£250m needed to complete the next phase of development.
+Media captionAlan Bond: Skylon's reusability will bring big economic benefits
+This would essentially take the project to the final designs that could be handed to a manufacturer.
+Although the British government has put significant sums into REL's technology in the past, the company's preference is to pursue city finance.
+"The project to date has been more than 90% privately funded, and we intend to continue with that type of structure," explained Tim Hayter, the CEO of Reaction Engines Ltd.
+"Yes, we would encourage government money but we're not reliant on it and we're certainly not depending on it.
+"What is more important to us is government endorsement. That gives everyone the confidence that the UK is behind this project."
+
+The pre-cooler demonstration was a critical step in proving the Skylon concept
+REL's idea is for an 84m-long vehicle called Skylon that would do the job of a big rocket but operate like an airliner, taking off and landing at a conventional runway.
+The vehicle would burn a mixture of hydrogen and oxygen but in the low atmosphere the oxygen would be taken from the air, in the same way that a jet engine breathes air.
+Only once it had achieved very high speeds would Skylon switch to full rocket mode, burning onboard fuel supplies.
+Taking its oxygen from the air in the initial flight phase would mean Skylon could fly lighter from the outset with a higher thrust-to-weight ratio, enabling it to make a single leap to orbit, rather than using and dumping propellant stages on the ascent - as is the case with current expendable rockets.
+If such a vehicle could be made to work, its reusability should transform the costs of accessing space.
+But its success depends on the Sabre engine's ability to manage the very hot air entering its intakes at high speed.
+These gases have to be cooled prior to being compressed and burnt with the onboard hydrogen.
+
+Skylon would do the job of a big rocket but operate like an airliner from a conventional runway
+REL's solution is a module containing arrays of extremely fine piping that can extract the heat and plunge the inrushing air to about -140C in just 1/100th of a second.
+Ordinarily, the moisture in the air would be expected to freeze out rapidly, covering the piping in a blanket of frost and dislocating their operation.
+But the company's engineers have also devised a means to control the frosting, permitting the Sabre engine to run in jet mode for as long as is needed before making the transition to full rocket mode to take the Skylon spaceplane into orbit.
+It is the innovative helium cooling loop with its pre-cooler heat-exchanger that REL has been validating on an experimental rig.
+"We completed the programme by getting down to -150C, running for 10 minutes," said Mr Bond. "We've demonstrated that the pre-cooler is behaving absolutely as predicted."
+
+A concept drawing of the Sabre engine with a series of pre-cooler modules
+The UK Space Agency asked Esa's propulsion division to audit the tests, and the Paris-based organisation has declared its satisfaction with the outcome of the experimental programme.
+"One of the major obstacles to developing air-breathing engines for launch vehicles is the development of the lightweight high-performance heat exchangers," it said in a statement.
+"With this now successfully demonstrated by REL, there are currently no technical reasons why the Sabre engine programme cannot move forward into the next stage of development."
+
+Stable conditions: A view of the chilled air after it has crossed the pre-cooler
+Dr Mark Ford, who heads the propulsion engineering group at the agency, added: "The gateway is now open to move beyond the jet age."
+The next phase is a three-and-a-half-year project. It would see a smaller version of Sabre being built on a test rig. The demonstrator would not have the exact same configuration as the eventual engine but it would allow REL to prove Sabre's performance across its air-breathing and rocket modes.
+"Its parts will be spread out slightly; there's no need for us to package it as we would a real engine," said Mr Bond.
+"Also, we will want the ease of access to exchange parts, so it will look a little bit like an anatomy exhibition."
+The UK government is currently assessing what its involvement should be in the next phase of Skylon/Sabre, but David Willetts, the science minister, was keen on Wednesday to add his personal support to the project: "The engine being developed by Reaction Engines is a potential game-changer in terms of space technology," he said.
+"This successful testing validates the assessment made of the engine concept by the UK Space Agency back in 2010 and is yet another example of the UK's world class space industry. It would be a fantastic achievement if we could one day use this home-grown technology for our own commercial space launches."
+Esa is certain to do more study work with REL. Although it is currently working on new versions of its Ariane rocket - a classic expendable vehicle - the agency also wants to keep an eye on future launcher technologies.
+REL itself is considering other applications for its technology. These could include incorporating Sabre-like heat-exchangers into existing gas turbine jet engines to improve their fuel-burn efficiency; and also into desalination plants.
+Sabre engine: How the test campaign was conducted
+Media captionOur science editor David Shukman watches a pre-cooler test run
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos
+
+

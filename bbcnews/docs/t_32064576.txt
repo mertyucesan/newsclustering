@@ -1,0 +1,25 @@
+
+A live-stream demonstration of the Meerkat app
+For the last couple of weeks the hot new thing in tech - or at least the most talked about at the SXSW music and tech festival in Texas - has been a live-streaming video service called Meerkat.
+Now Twitter, which just days ago acted to prevent Meerkat tapping into its own users quite so easily, has launched a rival service called Periscope. Battle has been joined and there's unlikely to be more than one winner.
+Both apps provide an extremely simple way of going live from your mobile phone with just a couple of taps - and letting the world see what you see. This is not particularly new - services like Qik, Bambuser and Livestream have allowed you to go live from your phone for some years. But Meerkat and Periscope have come along just as many mobile users have easier and cheaper access to the necessary data connection and they also make it far easier to connect with an audience. I've tried both, and here is what I've found.
+To start a Meerkast (as they're known) you just fill in a subject box describing what you are about to show and press "stream". Then those who follow you on the app get an alert telling them that you are live, and they can choose to watch and send you messages which pop up at the bottom of the screen. I've used the app to stream a speaker at a conference, a Raspberry Pi contest at the Science Museum and even a tech event hosted by the Duke of York inside a royal palace.
+You quickly see how many people are watching - I think my highest audience has been 47, and apparently a Meerkast with the White House press secretary attracted several hundred viewers. Not exactly the world coming together, but then this is a very new app. Once you stop streaming, anyone who arrives too late has no way of retrieving your Meerkast. As I've often found, it can be frustrating to get a message saying someone is streaming, only to find it's over by the time you tune in.
+One really annoying aspect is that you can only film in portrait mode, so although you can save the video you shoot onto your phone, you wouldn't want to show it on a standard 16:9 screen.
+Periscope works in a similar way, but I found it performed just slightly better - perhaps because until today it's only had a few test users. I did not get the connection issues that occasionally saw my Meerkasts switch to audio-only mode. But what really impressed here was some of the content. I downloaded the beta version of the app just as the astronaut Chris Hadfield was starting a broadcast on an apparently mundane subject - packing his suitcase.
+Image copyrightGETTY IMAGES
+
+Astronaut Chris Hadfield is an early adopter of live-streaming video
+He'd propped his phone up while he packed, and riffed about the kind of clothing you take into space. Then questions started popping up at the bottom of the screen, and he answered each of them - including mine - with great wit and insight. We learned what kind of underwear you wear in space, that you never get any washing done up there and about the precise mechanics of, how shall I put this, visiting the bathroom.
+Twitter cleverly gave Periscope to a number of tech-savvy celebrities to test and while their audiences were necessarily small during the pilot stage, I can see them rapidly learning how to engage directly with fans, just as they have with other social media platforms.
+The key to success in this live-streaming battle will be compelling content from articulate people
+The key technological trick in live streaming video is cutting latency - in other words, reducing the delay between the broadcaster and the audience. And Periscope appears to have cracked it. I did a test by counting to 10 and asking people to message me the moment I got there. They responded almost immediately.
+Overall, Twitter's new baby does seem a more polished product overall than Meerkat. It also allows you to publish the videos for later viewing, which must mean that they will get bigger audiences. But it shares one annoying characteristic with its rival - it works only in portrait mode, giving you vertical video.
+Periscope's co-founder and CEO Keyvon Beykpour - who only sold the business to Twitter in January after developing the app for a year - didn't seem to understand my irritation with this feature, when we spoke yesterday.
+Image copyrightPERISCOPE
+
+A screenshot from Periscope - no plans for horizontal video
+"This isn't television," he says. "It's a different medium and people generally hold their phones with one hand." But he says they hope to introduce landscape mode quite soon, although he believes that most users will stick with vertical video.
+So prepare to see your Twitter stream fill up with people showing off their new kitchen and their child's first steps, or giving you vertical views of a football match or a rock concert. Is this the future of social communication? Maybe, but I'm betting that the key to success in this live-streaming battle will be compelling content from articulate people. In other words, let's hear more details about Commander Hadfield's space underwear.
+
+

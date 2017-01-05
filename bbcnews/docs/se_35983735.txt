@@ -1,0 +1,53 @@
+
+Artist's impression: The schedule calls for a maiden flight in 2020
+The dream is moving to reality. That was the message from European Space Agency boss, Jan Woerner, on Wednesday as he discussed the Ariane 6 rocket.
+The director general was touring the Airbus Safran Launchers facilities at Les Mureaux, France, where much of the future vehicle will be integrated.
+Reporters were shown the progress being made towards a 2020 maiden flight.
+This included a spin around the inside of a digital model of the final design for the rocket, 3D glasses supplied.
+"Ariane 6 is today not just a dream, not just a plan," Mr Woerner said.
+"We are working on it, not only by developing and producing the different parts of the rocket, but also the launch base in Kourou, French Guiana, is being cleared [to make way for the construction of the new pad].
+"We're in good shape."
+Ariane 6 - A new European rocket for 2020
+Next-generation rocket will be modular in design, offering two variants
+Vehicles will lean on their Ariane 5 heritage but cost less to build
+A new upper-stage engine (Vinci), already in development, will be used
+Solid fuel boosters from the Vega rocket will provide additional power
+A62 will tend to launch medium-sized government/science missions
+A64 will launch the big commercial telecoms satellites, two at a time
+In the short term, the rocket will be a one-time, expendable vehicle
+Ariane 6 is Europe's response to the hard competitive prices now being offered to satellite operators to launch their spacecraft.
+This price pressure is coming principally from the US and the California-based SpaceX company.
+Its Falcon 9 rocket is undercutting the venerable Ariane 5, and so Europe intends to hit back with its next-generation solution, Ariane 6.
+The aim is to halve the 5's cost-per-kilo for putting satellites in orbit.
+Industrially, this requires a transformation of the production process: fewer people, streamlined ways of working, and new fabrication techniques.
+On a component level this is evidenced already by the hot-fire testing of 3D printed parts for rocket engines, but also on the larger systems level with the coming of a completely new integration hall at Les Mureaux on the outskirts of Paris.
+
+3D-printed engine parts can be made in days, whereas the old components took months sometimes
+At the moment, the only thing you can see is bare earth. But in time, there will be a low-rise building where Ariane 6 core rocket stages will be assembled in a horizontal workflow. That is a major departure on the 5 cores, which have always been prepared while standing tall.
+The intention now is to take some of the lessons learned from other production lines, such as in the automotive industry.
+"It will be a much lower building, with no crane - so easier to maintain," explained Patrick Bonguet, the director of the Ariane 6 programme at Airbus Safran Launchers (ASL).
+"When you integrate horizontally, you make the situation transparent on the shop floor. You see the problems and you can bring the support if something is missing.
+"And the third element is that you can create flow. All the pieces move at the same rhythm. All over Europe, all the pieces will move once per month. Why once per month? Because we will be having 12 launches per year," he told BBC News.
+Media captionPatrick Bonguet explains the new low-cost approaches to making the Ariane 6
+Not everything is quite as cosy in the new house of Ariane as space officials would like, however. There is the unsettled issue of governance.
+The updated ways of working have necessitated a joint venture be established between Airbus and rocket engine manufacturer Safran. But this has prompted a review by the French government, which needs to be sure the tax implications of the union are in order.
+Likewise, the European Commission wants to examine the ASL joint venture's desire to buy a controlling share in Arianespace, the company that sells Ariane launches.
+The EC is concerned there should be no conflicts of interest - and preferential treatment - when Airbus, also a satellite manufacturer, wants to buy a ride on an Airbus Safran rocket.
+Until these governance matters are resolved, the new joint venture cannot assume the 8,000-strong workforce it needs to push on with Ariane 6 development (the venture currently has just 400 individuals on its books). And that could threaten the timeline to 2020.
+"Everything is one package," said Alain Charmeau, the CEO of ASL. But then he expressed confidence that it would all sort itself in the next few weeks.
+Esa should give its full and final blessing to the Ariane 6 project in the Autumn. Member state ministers will then also meet in December to discuss some possible future evolutions.
+This is where the topic of re-usability is likely to be raised. While SpaceX is working on ways of recycling its Falcon 9 first-stages, the Ariane 6 has been designed from the start to follow the traditional one-flight, disposable model.
+
+The design of the Ariane 6 has been "frozen" - no more iterations
+Jan Woerner continues to express caution over the idea that there is one "magic formula" for rocket programmes, with no alternatives.
+He argues that SpaceX has little choice but to try to recover stages because each of these boosters has nine engines. If the Californian company wants to achieve its stated flight cadence then it absolutely has to re-use some engines, he says. The Ariane core stages, by contrast, have just the one Vulcain engine.
+"Ariane is built on solid foundations for Europe; it is the European way," the DG told reporters.
+"Of course, we can discuss different ways worldwide, but we need always to look for a way that works for Europe; and it might be different to one that fits to China, India, Japan and the US.
+"For us, for the foreseeable future, Ariane 6 is the right solution."
+Nonetheless, ministers probably will be asked at their big end-of-year gathering to put some money towards reusability research, to look at technology options.
+And by then we should also have some clear indications of how the old rocket will be retired. Esa and ASL want the Ariane 6 fully operational, launching a dozen times a year, by 2023.
+"We have some big decisions to take around the end of the year, on the last batch of Ariane 5s and the first batch of Ariane6s, in order to ensure continuity between the two launchers," Mr Charmeau told BBC News.
+
+The Ariane 5 core stages are integrated in the vertical
+
+

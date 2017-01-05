@@ -1,0 +1,41 @@
+
+
+The Lisa Pathfinder contract represented a watershed for UK industry in space
+British industry has completed construction of the modules that make up the Lisa Pathfinder satellite.
+This remarkable probe will test the key technologies needed to detect gravitational waves in space.
+If that can be done, it would open up black holes and other astrophysical phenomena to a completely new era of scientific investigation.
+Lisa Pathfinder's modules were assembled at the UK arm of Airbus Defence and Space.
+They leave for Germany on Monday, to go to the IABG consultancy just outside Munich for some final integration and testing.
+From there, they will be shipped to Kourou in French Guiana for a rocket launch in September.
+Media captionCesar Garcia: "What we are doing is metrology in space"
+The European Space Agency (Esa) mission is the first to be led industrially from the UK since the Giotto satellite was sent to fly past Comet Halley in 1986.
+As such, Lisa Pathfinder represents a watershed moment for the British space sector.
+"There were some lean years after Giotto, but you can see the momentum we now have. We're at the start of something really special," Andy Stroomer, from Airbus in Stevenage, told BBC News.
+
+The aim is to put two gold-platinum blocks in free-fall and then track their relative movement using lasers
+Still being worked on in Pathfinder's big cleanroom are Esa projects worth more than a billion euros in total.
+These are satellites to visit the Sun and observe the Earth.
+And just a stone's throw away is a brand new facility under construction which will house the assembly of the robotic rover that Europe plans to send to the surface of Mars in 2019.
+The two parts of Lisa Pathfinder heading out of Stevenage comprise the main satellite and the propulsion unit that will push it away from Earth to begin its mission.
+At the moment, the spacecraft's all-important science instrument package is absent. This will be installed in the coming weeks at IABG.
+Lisa Pathfinder is a demonstrator for a future satellite idea that Europe hopes to launch in the 2030s.
+This is a concept known as the Laser Interferometric Space Antenna (Lisa), which will endeavour to detect gravitational waves.
+Einstein's theory of general relativity predicts that these ripples in the fabric of space-time should be generated when massive objects like black holes coalesce and merge.
+And although the signal is expected to be extremely faint, it should still be apparent to an ultra-stable, super-fine measurement system. The Pathfinder's job is to prove the metrology.
+To do this, it will try to put two small gold-platinum blocks into a perfect free-fall and then track their relative movement using lasers.
+The intention is to get these blocks following a line that is defined only by gravity. To do that requires that all other forces that might interfere with the demonstration are removed.
+This means, for example, carefully controlling the influence of temperatures and magnetic fields. Even the vacuum state will introduce "noise" into the system if some residual gas molecules are allowed to collide with the blocks.
+The experiment has been designed such that disturbances to the blocks as small as just a few picometres should be noticed. One picometre is a small fraction of the width of a hydrogen atom.
+
+Coalescing massive bodies should radiate gravitational waves at the speed of light
+Cesar Garcia is the European Space Agency's project manager on Lisa Pathfinder. He describes the satellite as perhaps the most exquisite ever built.
+He said: "The final objective is to be convinced that we can achieve and then measure a pure geodesic motion. That is, a motion subject only to the Riemann tensor - to the curvature of space-time. This is what we aim to do - to work on the noise sources, to suppress the noise sources, to learn the noise sources; and then what remains must be a straight line."
+
+The Lisa Pathfinder modules: The science satellite sits atop its propulsion unit
+It is in these conditions of perfect free-fall that one would look for gravitational waves. Lisa Pathfinder itself cannot sense them, however. The ripples produced by merging black holes are at too low a frequency.
+But if the methodology is scaled up as proposed for the Lisa mission proper, with precision measurement of blocks separated by millions of km, the very delicate signal ought then to show itself.
+David Southwood was the director of science at Esa in 2004 when the agency contracted Airbus to build Lisa Pathfinder.
+Now on the steering board of the UK Space Agency, he was present on Friday to see the spacecraft modules packed up ready for the transfer to IABG.
+He told BBC News: "It's a fascinating mission right at the frontier of understanding and it could lead one day to the detection of gravitational waves in space. But these technologies don't need to be used just to measure gravity. It's in the nature of things that once you've pushed something to the extreme for a particular purpose, another smart person is inspired to take those ideas and put them to use in another application. What that is, no-one can predict. That's the beauty of it."
+
+

@@ -1,0 +1,27 @@
+
+More than 12,000 people gave a total of Â£2,335,119 to fund the Zano drone via Kickstarter
+When Europe's biggest Kickstarter project, the Zano mini-drone, crashed to earth last November there was plenty of blame to go round. But many of the 12,000 backers - who had put in Â£2.3m and ended up with nothing - had angry words for the crowdfunding platform.
+Kickstarter responded in a creative way - by commissioning an investigative journalist to find out what went wrong. Now his report has been published.
+Mark Harris, a technology writer based in Seattle, travelled to South Wales, spent six weeks speaking to as many people as he could reach and produced an epic account of the history of the Zano.
+In more than 13,000 words he describes the origins of the Torquing Group, a business that was essentially the personal mission of self-taught engineer Ivan Reedman to build a marketable drone; how clever - though misleading - marketing turned the Zano into a Kickstarter sensation, galloping past its original funding target; and then the disaster which unfolded as Reedman and his colleagues discovered they just did not have the skills or the experience to mass produce the mini-drone.
+It is the backers for whom this work was designed and many of them will be hoping for a smoking gun to reinforce their belief that the whole project was just a scam to get them to part with their money. They will be disappointed. Mr Harris concludes that this was case of foul-up, not foul play.
+"Torquing's directors managed their business poorly and spent the Kickstarter money too freely, but I've found no evidence that any of them ended up rich on the backs of the crowd," concluded Harris.
+Media captionRory tested the Zano drone ahead of its release
+He does raise serious questions about the video which excited so much interest in the project. Reedman denies that CGI, other drones or even selfie sticks were used to create a misleading picture of what the Zano could do but admits that the video shows features that were not operational at the time it was shot.
+In fact, as I found when I came to shoot a demo of the project last August, the Zano never delivered what was promised in the video.
+But it was not only potential backers who swallowed exaggerations in the marketing campaign. Kickstarter chose Zano as a "staff pick" and the tech news site Engadget shortlisted it for its best of CES 2015 award, even though the Torquing team could not demonstrate the drone flying at the show. As late as October, Popular Science chose it as one of its 100 most amazing innovations of 2015.
+The writer does not accuse the Torquing team of dishonesty but says that as production problems mounted and the money began to run out they showed "a dangerous lack of self-awareness of the problems the company was making for itself".
+
+The first batches of Zanos did not provide all the functions that had been promised
+Harris has only managed to speak on the record to Reedman, but he concludes that neither he nor the other members of the team "possessed the technical or commercial competencies necessary to deliver the Zano as specified in the original campaign".
+But the most significant lessons to be drawn from his account are for Kickstarter. The crowdfunding platform, which paid for his work, was allowed to look at the finished article before publication but not to change anything. He says all crowdfunding platforms need to reconsider the way they deal with projects involving complex hardware, massive overfunding, or large sums of money.
+He wants them to look at bringing in mentors to advise projects like Zano which suddenly find themselves taking on far more than they had planned. He also wants Kickstarter to be far more explicit about the nature of the risk backers are taking - and more active in weeding out weak projects before they are funded.
+
+Some backers had questioned Kickstarter's own responsibilities
+Harris interviewed Kickstarter's co-founder Yancey Strickler and though he appears to find a few of the suggestions helpful, he is robust in rejecting most of the criticisms. He says that while the platform does have rules about realistic videos showing a genuine prototype, they are hard to enforce.
+Tightening up the rules can only go so far, he argues, and it is essential for backers to understand that it is up to them to evaluate a project. "If you want 100% success with hardware and new products, I think the only solution is that you just shop on Amazon," he adds.
+And in the end, Harris seems to agree. If we want an alternative to banks and venture capital as a funding source for high-risk tech start-ups, he says, we may have to accept the occasional Zano alongside the Pebbles and Oculus Rifts.
+Now, some of the thousands of people who lost money backing this doomed project will look cynically at a piece of journalism funded by the very organisation they see as partly responsible for their losses.
+But what Harris - and Kickstarter - have produced is a valuable contribution to our understanding of the risky nature of any technology hardware start-up.
+
+

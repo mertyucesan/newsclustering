@@ -1,0 +1,37 @@
+US authorities are investigating the first death potentially caused by self-driving technology.
+The driver of a Tesla car died in Florida in May after colliding with a lorry.
+Under scrutiny is Tesla's Autopilot feature, which automatically changes lanes and reacts to traffic.
+In a statement, Tesla said it appeared the Model S car was unable to recognise "the white side of the tractor trailer against a brightly lit sky" that had driven across the car's path.
+The company said the crash was a "tragic loss".
+The collision led to the death of Tesla driver Joshua Brown, 40. The driver of the truck, which was pulling a trailer, was unhurt.
+A video on YouTube, which appears to have been posted by Mr Brown, shows a dashboard camera recording of a previous incident, with the car steering to avoid a lorry in the next lane.
+He wrote: "Tesla Model S autopilot saved the car autonomously from a side collision from a boom lift truck.
+"Hands down the best car I have ever owned and use it to its full extent. It has done many, many amazing things, but this was one of the more interesting things caught on the dashcam."
+
+The founder of Tesla, Elon Musk, tweeted his condolences
+What is a Tesla?
+Tesla, based in California, makes electric cars
+Last year, its Model S saloon overtook Nissan Leaf to become the best-selling electric vehicle in the world
+The Model S's Autopilot feature, marketed as assistance for drivers, allows the car to keep in lane, adjust its speed as other cars cut in, and change lane without the driver needing to intervene
+Tesla's founder says cars that cannot drive themselves will be "a strange anachronism" before long
+But the company says drivers must keep their hands on the wheel when using the Autopilot feature
+The car's battery lasts for at least 230 miles (370 km) before needing to be charged again.
+Autonomous reputation
+On Thursday, Tesla stressed that cars being controlled by Autopilot had travelled 130 million safe miles to date.
+The company said in a statement: "The high ride height of the trailer combined with its positioning across the road and the extremely rare circumstances of the impact caused the Model S to pass under the trailer, with the bottom of the trailer impacting the windshield of the Model S."
+"Had the Model S impacted the front or rear of the trailer, even at high speed, its advanced crash safety system would likely have prevented serious injury as it has in numerous other similar incidents."
+The US National Highway Traffic Safety Administration (NHTSA) will look at whether the Autopilot function performed as expected, or was at fault.
+Such investigations can sometimes lead to a recall. Should that be the case, it is likely Tesla would put out an "over-the-air" update to its cars, rather than having to physically take the vehicles back.
+But the incident could be a serious blow to the reputation of autonomous technology at a time when regulators across the world are considering how to safely introduce it on public roads.
+Tesla's shares dropped by 3% after the government said it would investigate the crash.
+
+The Model S autopilot
+Beta test
+The Autopilot function was introduced by Tesla in October last year. In a conference call, the firm's enigmatic chief executive Elon Musk urged caution in using the technology.
+"The driver cannot abdicate responsibility," he said.
+In Thursday's statement, Tesla said: "It is important to note that Tesla disables Autopilot by default and requires explicit acknowledgement that the system is new technology and still in a public beta phase before it can be enabled.
+"The system also makes frequent checks to ensure that the driver's hands remain on the wheel and provides visual and audible alerts if hands-on is not detected.
+"It then gradually slows down the car until hands-on is detected again."
+In its statement, the NHTSA stressed: "The opening of the Preliminary Evaluation should not be construed as a finding that the Office of Defects Investigation believes there is either a presence or absence of a defect in the subject vehicles."
+
+

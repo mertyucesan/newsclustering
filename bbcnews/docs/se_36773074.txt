@@ -1,0 +1,44 @@
+
+Artwork: Sabre-enabled test vehicles could perhaps one day power a two-stage launcher flying out of Prestwick
+The B#60m UK government investment in the "revolutionary" Sabre rocket engine concept has finally started to flow.
+The company behind the power unit said at the Farnborough International Air Show that this would now enable it to push ahead with a new demonstrator.
+Sabre burns hydrogen like a rocket motor but in air drawn from the atmosphere, just like a jet.
+Reaction Engines Ltd foresees the technology being used to propel future space planes and hypersonic airliners.
+Farnborough witnessed the signing of an B#8m (b,10m) contract between REL and the European Space Agency, which will result in Esa keeping its role as the "technical auditor" on the project.
+Its propulsion experts have in the past been asked to maintain an independent assessment of the progress of Sabre, whilst also making some contributions to its design.
+The oversight will now continue as REL moves towards the construction of its scaled, ground-based demonstrator. This is supposed to be the last phase in the development of Sabre before it can become a commercial proposition.
+"We are moving forward in a significant way on technology development that is revolutionary in terms of space transportation," said Franco Ongaro, Esa's director of technical and quality management.
+"The contract we sign today will take us to a Preliminary Design Review in 2018 and we're looking for a demonstrator to be tested on the ground in 2020."
+Image copyrightREACTION ENGINES
+
+An artist's illustration of what a ground-based engine test might look like
+The UK government's B#60m commitment to the Synergistic Air-Breathing Rocket Engine (Sabre) was announced back in July 2013 at the UK Space Conference. Getting the funding released has taken far longer than anyone thought. The first tranche came in March. The Esa involvement will also be paid out of the B#60m.
+Part of the reason for the delay was the need to win a state aid, fair competition ruling from the European Commission. Another reason lay in agreeing the complex terms of what will be a "grant", not a "loan".
+Further tranches will now come to REL provided certain milestones are achieved, but additional private investment is also still required to implement the demonstrator programme in full.
+Image copyrightPA
+
+UK Chancellor George Osborne (second left) announced the investment back in 2013
+In the past, Reaction Engines has talked of a total financial package of B#200-300m. However, REL CEO Mark Thomas said engineers had recently re-scoped the test engine, making it more modular and smaller. "We now need much less than that old figure," he told BBC News.
+"This next phase of the project is going to be incredibly challenging, but we're very excited by it and very motivated to do the right thing."
+And he added: "We're a good news story. People like the vision; they like the fact that we're growing. We're nearly a hundred people now and we'll be taking on 30-40 more people in the next 12 months.
+"These are high-value engineering jobs. We're a diverse company as well - multicultural, and with some fantastically talented women engineers - some of the very best engineers I've come across in the industry."
+Image copyrightREL
+
+Sabre concept: Esa's propulsion experts act as technical auditors on the project
+The Sabre concept is for a power unit that can operate like a jet turbine at low speed and then transition to rocket mode at high speed.
+It would burn hydrogen and oxygen to provide thrust, but at low altitudes this oxygen would be taken straight from the atmosphere.
+The approach should save weight and allow Sabre to impel a space vehicle straight to orbit without the need for the multiple propellant stages seen in today's throw-away rockets.
+Crucial to the engine's performance is a compact pre-cooler heat-exchanger that can take an incoming airstream from over 1,000C to -150C in less than 1/100th of a second.
+This pre-cooler module contains arrays of extremely fine piping that dump energy very efficiently but also avoid the frost build-up that might otherwise compromise their operation.
+Image copyrightSTEPHANE CORVAJA/ESA
+
+Mark Thomas (L) and Franco Ongaro (R) sign their Farnborough agreement
+The key elements of Sabre have all been shown to work under Esa's watchful eye. What prospective commercial operators want to see now is a full cycle, end-to-end demonstration of the engine. This is the purpose of the 2020 unit.
+REL has long been committed to putting Sabre in a big, reusable space plane called Skylon - a vehicle capable of launching heavy telecommunications satellites.
+But because the engine technology is considered scalable, Reaction Engines announced at Farnborough that it is also joining a consortium to look at the feasibility of putting reduced-sized power units on smaller vehicles that could run out of Prestwick airport.
+Orbital Access Limited is the company behind the effort to turn the Scottish aviation centre into a spaceport. It is already working with BAE Systems - a major shareholder in REL - to turn a DC10 into a flying platform from which to launch rocket-carrying satellites.
+It is keen to see if it is possible to piggyback additional launch services on some of the future test flight models that Reaction Engines will build to further develop Sabre.
+"What this study aims to do is to look at those vehicle concepts and evaluate which sorts of configurations can yield commercial payload capabilities," explains Orbital's CEO Stuart McIntyre.
+"If you take a Sabre test engine, put wings on it and go fly it, all you'll get is some engineering answers. But if we do these flight tests in a certain way, where you plug a top stage on to these vehicles, it may then be possible for REL to get their air test data and for us to launch payloads."
+
+

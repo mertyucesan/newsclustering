@@ -1,0 +1,40 @@
+Image copyrightESA/ROSETTA/NAVCAM
+
+Comet 67P has a very irregular shape. Landing site "J" is just out of view to the right
+The date has been fixed for Europe's daring attempt to land on a comet: Wednesday 12 November.
+It will see the Rosetta satellite, which is currently orbiting the huge "ice mountain" known as 67P, drop a small robot from a height of 20km.
+If all goes well, the lander will free-fall towards the comet, making contact with the surface somewhere in a 1km-wide zone at roughly 15:35 GMT.
+The European Space Agency (Esa) says the challenges ahead are immense.
+Imagine pushing a washing machine out the back of an airliner at twice cruising altitude and expecting it to hit Regent's Park in London - all while the ground is moving underneath.
+Although not really analogous for many reasons, this scenario does give a sense of the difficulties involved. The chances of failure are high.
+
+"J" site is the best location on the comet, but it is still far from flat
+Esa's confirmed date is actually a day later than the one that had been discussed in provisional planning in recent months.
+The extra time will give flight controllers a bit more latitude as they try to get Rosetta into just the right position to deliver the 100kg lander, which goes by the name of Philae.
+This requires careful "phasing" of Rosetta's path around 4km-wide 67P so that the satellite turns up at the precise, pre-determined ejection point, 22.5km from the centre of the comet at 08:35 GMT.
+Because the whole event will be taking place 509 million km from Earth, any radio signal will take 28 minutes and 20 seconds to reach Esa's ground station network.
+It means confirmation of success or failure will not come until perhaps just after 16:00 GMT.
+
+Philae is about the size of a washing machine. It will use harpoons and screws to try to hold itself down
+The chosen landing site is on the "head" of the rubber-duck-shaped comet and is currently referred to simply as "J", the designation it was given in a list of possible destinations in the selection process.
+It is far from ideal. It contains some terrifying cliffs, but is the flattest, most boulder-free location the mission team could find in its survey of the icy object.
+Mapping of J and a back-up site known as "C" is ongoing.
+This past week, Rosetta manoeuvred into an orbit just 20km from 67P, enabling its camera system to see details that can be measured on the sub-metre scale.
+For landing, such information only has a certain usefulness, however, as the automated touchdown can only be targeted with a best precision that will likely run to hundreds of metres.
+And that error is larger than any of the apparently smooth terrains in the J zone.
+The whole separation, descent and landing (SDL) procedure is expected to take seven hours.
+Philae will take a picture of Rosetta as it leaves its "parent".
+It will also point a camera downwards so that it can see the approaching comet. Not that this information can change anything; Philae has no thrusters to control or alter its descent trajectory. It will land where it will land.
+But the images will help controllers determine where the robot ended up after the event.
+Media captionDavid Shukman takes a close-up look at the Philae lander
+If Philae gets down successfully into a stable, operable configuration, it will fire harpoons and deploy screws to try to hang on to the surface.
+The action of these devices will tell Esa mission control in Darmstadt, Germany, that the surface was engaged.
+Will it hang on? Part of the problem here is that no-one really knows what the surface conditions will be.
+Philae could sink into a soft powder or impact ice as hard as rock. A major worry is that it could simply bounce off into space.
+Whatever the outcome, the Rosetta mission will continue.
+Already the main satellite has returned some astonishing pictures of Comet 67P and the close-quarters observations it will conduct over the next year will transform our understanding of these remarkable objects.
+The timings mentioned on this page carry some uncertainty and would change if subsequent mapping shows the J site to have a major problem, with Esa forced to shift its attention to the back-up destination, C.
+
+Surface conditions are an unknown - just one more challenge facing Philae
+
+

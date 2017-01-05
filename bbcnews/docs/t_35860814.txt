@@ -1,0 +1,56 @@
+
+Powa's website now carries a message from its administrators on its website
+It was one of Britain's brightest tech start-ups, praised by David Cameron, and a rare British "unicorn" - a company valued at over $1bn (Â£694m) before floating on a stock market.
+Its dynamic founder Dan Wagner claimed last year that his business was worth $2.7bn (Â£1.9bn) and had signed a deal in China with "limitless" potential.
+But last month Powa Technologies collapsed into administration - and it rapidly became clear that it was more akin to a lame old donkey than a unicorn. Its demise has raised questions about the health of London's much vaunted fintech (financial technology) sector, and about the wisdom of sky-high valuations for unproven businesses.
+In recent weeks, I've spoken to a number of people connected to the mobile ecommerce company in an attempt to work out what went wrong.
+
+Powa offered point-of-sale terminals that worked with Android and iOS smartphones
+What those people have told me is that Powa was an almost textbook case of how not to run a company - no clear strategy, directionless management, overblown claims about the technology and a reckless attitude to money.
+For the last couple of years, I've been receiving emails from Powa's PR agency urging me to cover the company's ground breaking technology the PowaTag which "allows users to purchase anytime, anywhere in just three seconds by simply scanning an item or advertisement with their smartphone".
+Eventually, the company claimed that it had 1,200 businesses signed up to use the PowaTag.
+I was not particularly impressed. I saw little evidence that the technology was being used, but one investor did bite. A Boston-based firm Wellington Management invested a sizeable sum in Mr Wagner's venture. Eventually they along with other investors poured more than $200m into Powa.
+
+The start-up said that adding its PowaTag button to sites would reduce the risk of customers changing their mind before completing a purchase
+It seems likely they were told the same story that was peddled to journalists - that the PowaTag was going to be used by some of the world's leading brands including L'Oreal and Carrefour.
+But what's emerged since the collapse of the business is that none of those companies had signed contracts, merely "letters of intent", which did not commit them to anything. One senior figure in the company told me that young inexperienced sales staff were rewarded with a Â£2,000 bonus every time one of these letters was signed "so they weren't particularly concerned about the quality of the deal".
+Mr Wagner, who claims to have a stellar record as a serial entrepreneur, was still telling everyone who would listen that his was a company that would be bigger than Google or Facebook one day. As recently as last October, he told Evan Davis on Radio 4's Bottom Line that the business had been valued at $2.7bn by its backers Wellington. Evan suggested that was a meaningless figure because Powa hadn't made any money yet.
+"We're a growth tech business," Mr Wagner replied, maintaining it was other people who had set that value.
+Just before Christmas, it seemed that he had been vindicated. Powa's PR firm approached the BBC with a story that the company had done an amazing deal in China. It would see the PowaTag gain access to the 1.3 billion customers of China UnionPay, the country's leading force in payments, and open up a new era of mobile commerce.
+
+Last December Powa emailed a press release about its "alliance" with China UnionPay
+Mr Wagner was triumphant. In an interview with the BBC he said: "Why did China UnionPay decide to partner with a little British technology company? We've trumped Apple Pay and the rest of the world here."
+Behind the scenes, the Powa team that had negotiated the deal was shocked - they had told Mr Wagner not to oversell the deal but he had gone off script. "He just shot his mouth off," one told me.
+"The Chinese were furious, they don't like that kind of boasting."
+What's more, any deal had been done with an intermediary, not China UnionPay, whose lawyers sent a "cease and desist" letter ordering Powa to shut up.
+"As matter of fact," says the letter, "our company has not yet established any business relationship with your company".
+Powa's PR agency called the BBC asking us to remove Mr Wagner's quote from our article. We refused - he'd said it, after all. A day or so later Apple announced that it was entering China's payments market, and it became evident that "a little British technology company" had not trumped the rest of the world.
+But Mr Wagner needed to make plenty of noise about the China deal because Powa was running out of cash and was on a desperate hunt for investors to shore up its balance sheet. Somehow, all of that money from Wellington had been spent.
+Some of it had gone on office space - Powa occupied two floors of the prestigious Heron Tower at the heart of the city of London, and had equally lavish accommodation in Hong Kong, New York and across Europe.
+
+Powa based itself at London landmark the Heron Tower
+Warren Cowan, whose Greenlight digital agency bought PowaWeb - a small part of the business - out of administration, told me he was taken aback when he visited the grandiose offices in Heron Tower: "We operate out of a gritty warehouse in King's Cross."
+Then there were the parties and dinners where the fine wines flowed and huge bills were racked up. According to several former employees, at one Christmas bash in Mayfair, strippers were hired to perform, to the discomfort of many present. "There was a very sexist culture," one younger employee told me. "It was very 1980s."
+There were very generous salaries too - at a senior level some executives were paid large six figure sums - but that did not make staff happy in their work. On the Glassdoor jobs site, where employees rate companies as places to work, Powa's entry features a clutch of reviews criticising the management, and in particular the chief executive.
+
+Powa suggested its technology could save retailers money
+One of the more printable comments is this: "You don't employ intelligent, highly experienced people to treat them like something unpleasant under your shoe by telling them to forget everything they know, as your way isn't working."
+Mind you, things seemed to have improved last July when there was a sudden rash of four and five star reviews. That might be the result of an email about these negative reviews sent to all staff by Ant Sharp, Mr Wagner's right-hand man.
+He asked them to post positive reviews on Glassdoor, explaining: "You can make your posting completely anonymous. And would you please send your contribution from a personal email account and not your Powa one."
+
+PowaTag beacons were marketed as a way to flag promotions to customers who came into stores
+He told them that if they did this he would give them Starbucks vouchers, but if they didn't feel able to help they should come and see him and "chat about your unhappiness".
+By this January, staff had very good reasons to feel unhappy as they were no longer being paid. An internal finance report seen by the BBC has a section headlined Cash Management and Insolvency Trading.
+Underneath, the bullet points include "operating over the last four months with less incoming funds than monthly cash burn" and "ensuring we follow 'good practices' under the insolvency guidelines".
+It is clear Powa was teetering on the brink of insolvency.
+But on 12 January, all staff received a bizarre email from Mr Wagner. The subject line said, "Long live the legacy of David Bowie".
+The email featured a photo of Mr Wagner dressed as Ziggy Stardust in full make-up with the caption: "I don't do tributes in half measures!"
+
+One member of staff described Mr Wagner as an "idiot"
+The employees were not impressed. One told me: "While the company was going under, he's fooling around in a photography studio pretending to be Ziggy Stardust. The guy is a narcissistic idiot."
+It was a month later that Wellington Management decided enough was enough, and called in Deloitte to act as administrators. The insolvency has managed to dispose of parts of the business but the majority of the staff have lost their jobs. In the next week or so, Deloitte is expected to publish details of the financial situation it found at Powa Technologies, which last filed accounts for 2013.
+Companies go bust all the time - why should anyone care but the investors who have lost money and the employees who lost their jobs? One Powa executive, who has gone on to work for another technology firm, says there are serious issues for London as a centre of financial technology firms: "People are telling me this is making it harder to raise money."
+I wanted to ask Wellington Management about the due diligence it had undertaken before its investment in Powa, but the company politely declined to talk to me.
+I have also tried to reach Dan Wagner on a number of occasions to hear his side of the story. So far, I have received no reply.
+
+

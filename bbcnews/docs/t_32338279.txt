@@ -1,0 +1,18 @@
+So here's a funny thing. The day after the EU accuses Google of abusing its dominance of the search market, new figures are published showing it's not quite so dominant after all.
+Comscore reveals that Microsoft's Bing now has 20% of the desktop search market, Yahoo, which has a search alliance with Microsoft, has nearly 13%, and Google has a measly 64%.
+So why is Europe making such a fuss? Well, I haven't been exactly upfront with you. Those figures only cover search in the US.
+In Europe, Google is still virtually unchallenged, with between 90% and 95% of the desktop search market.
+Why the difference? Well it may be to do with that Yahoo alliance. In the US, Yahoo was a much bigger presence than in Europe back in 2010 when it did that deal with Microsoft.
+You need a certain scale in search to generate good results, particularly for more obscure queries - and in Europe, Bing has never had the volume of data it needs to really put a dent in Google's lead.
+In the US, it seems that Microsoft has been able to build on the data shared with Yahoo to get some momentum behind Bing.
+Of course, in Europe, Microsoft and the other companies which were party to the complaint to the European Commission, argue that Google has used its virtual monopoly to stop rivals gaining ground.
+Outdated concern
+Google's response has been that its desktop dominance is an outdated concern in the mobile internet era, when we are all using virtual assistants like Siri and Cortana, or typing queries into the Amazon or eBay search boxes.
+But the EU's move to launch a new investigation into Android suggests that it doesn't buy the argument that Google is any less powerful in the mobile world.
+With Android the market leader in mobile phones, and Google Now being promoted as an easy way to get instant information on any device, the company seems to have its mobile ducks in a row.
+So what do the stats show?
+Well the web analytics firm Stat Counter says Google has 95% of the mobile search market in Europe right now, and even in the US it has 85%.
+In other words, the Californian firm shows no signs yet of being vulnerable in a world where our phones are our main means of gathering information or buying goods.
+And that means that European regulators and a host of competition lawyers can settle in for many years of jousting over the business practices of an internet superpower.
+
+

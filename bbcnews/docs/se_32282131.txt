@@ -1,0 +1,37 @@
+Media captionRich Walker of Shadow Robotics tells Jonathan Amos how they developed the hands for the robo-chef
+A London-based company has launched a prototype "robo-chef" for the home.
+Moley Robotics is demonstrating its concept at this year's Hannover Messe - a big trade fair for industrial technology held annually in Germany.
+The cooking machine learns by capturing the movements of a human in the action of preparing a meal.
+These movements are then turned into commands that drive a sophisticated pair of robot hands.
+Tim Anderson, the 2011 BBC Masterchef champion, is training the robo-chef.
+At the Hannover Messe, he has got the machine making a crab bisque.
+"It's the ultimate sous-chef," Mr Anderson told BBC News.
+"You tell it to do something - whether it's a bit of prep or completing a whole dish from start to finish - and it will do it. And it will do it the same every single time."
+The product is still two years away from market. Moley wants to make the unit slightly more compact, and give it a built-in refrigerator and dishwasher.
+The robot could then do everything from assembling and chopping all the ingredients, doing the cooking on the hob or in the oven, and finishing up by cleaning the dirty pans.
+Media captionBBC Masterchef (2011) Tim Anderson: "It's the ultimate sous-chef"
+"We want people to be comfortable with this device," says Moley's Mark Oleynik.
+"It's not an industrial device; it's not a device that works at 10-times normal speed. No, it's a device that moves like you move, and at the same speed as you do."
+Appetising apps
+The goal is to produce a consumer version costing Â£10,000.
+It is likely find a ready market in the urban apartment where space is at a premium.
+The vision is to support the product with thousands of app-like recipes. The motion capture capability would also allow owners to share their special recipes online.
+A key innovation is the hands. Produced by the Shadow Robot company, they use 20 motors, 24 joints and 129 sensors to mimic the movements of human hands.
+Shadow's Rich Walker believes his robotic appendages will ultimately cope with some of the uncertainties of cooking, such as when beaten eggs decide to peak.
+"Something would change; we would see it in the sensor data. Maybe something gets stiffer or softer," he explained.
+"We should be able to sense that and use it as the point to transition to the next stage of the cooking process."
+
+The consumer unit would contain a fridge and a dishwasher
+Robotics and autonomous systems (RAS) were identified by the UK's coalition government as one of "eight great technologies" that could help to rebalance the British economy - along with the likes of satellites, synthetic biology and so-called "big data" applications.
+The potential for RAS is thought to be immense. A recent report by the McKinsey consultancy estimated that advanced robotics could generate a potential economic impact of between $1.9tn and $6.4tn (Â£1.3tn to Â£4.4tn) per year by 2025.
+But the use of robotics in the home is currently in its infancy.
+The setting is not one that many people immediately think of when considering autonomous systems.
+That will have to change if robotic chefs and other applications are to be accepted and embraced.
+And, in time, it will believes Prof David Lane at Heriot-Watt University.
+"It's interesting to note that Dyson is launching its robotic vacuum cleaner in Japan - a traditional early-adopter market," he told the BBC.
+"But people more generally are taking the baby steps towards accepting this type of technology.
+"The example I always like to give is the Docklands Light Railway in London: everyone gets on it and doesn't think twice that there's no driver, no human, at the front.
+"The UK is in a good position to take advantage of the new wave of robotics that is coming.
+"It's small, agile, disruptive start-up activity that is going to grow big - and that's where we have to put our energies."
+
+

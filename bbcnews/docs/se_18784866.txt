@@ -1,0 +1,46 @@
+
+
+David Willetts (L) discusses Skylon with Alan Bond (C) and Tim Hayter (R)
+The UK government says it is working to put in place the regulations that would license the operation of spaceplanes.
+Current arrangements prohibit these vehicles from using European airspace, according to ministers, and they want the certification system updated.
+The move is aimed at smoothing the path to market of novel launch systems such as the Skylon concept being developed by Reaction Engines Limited (REL).
+The Oxfordshire company's robotic vehicle is part aeroplane, part rocket.
+It would take off horizontally from a runway and go straight to orbit without the need for the multiple propellant stages seen in today's throw-away launchers. Skylon would then land back on Earth at the same runway.
+Reaction Engines claim the system could dramatically lower the cost of putting satellites in space.
+But the vehicle's unique capabilities mean it does not fit into any current regulatory regime, and unless that is changed its entry into service will be blocked.
+Speaking at the Farnborough International Airshow, Science Minister David Willetts said he intended to address this issue with both the UK Department of Transport and the European Commission.
+"At the moment, there is just a complete gap - there is no European regulatory regime for reusable space vehicles, and we need one," he told BBC News.
+Mr Willetts made his comments when he visited the REL stand here at Farnborough.
+
+Skylon would operate from a runway
+The company is showcasing its revolutionary Sabre engine technology, which is two-thirds of the way through an important test campaign at its Culham base.
+Sabre would burn hydrogen and oxygen to provide thrust - but in the lower atmosphere this oxygen would be taken from the atmosphere.
+At high speeds, the engine is required to cope with 1,000-degree gases entering its intake. These have to be cooled prior to being compressed and burnt with the hydrogen.
+REL's solution is a module containing arrays of extremely fine piping that can extract the heat and plunge the intake gases to minus 140C in just 1/100th of a second.
+Ordinarily, the moisture in the air would be expected to freeze out rapidly, covering the pre-cooler's pipes in a blanket of frost and dislocating their operation.
+But the company's engineers have also devised a means to stop this happening, permitting Sabre to run in jet mode for as long as is needed before making the transition to full rocket mode to take Skylon into orbit.
+It is the critical "pre-cooler" technology with its innovative helium cooling loop that REL is validating currently on an experimental rig at Culham.
+Sabre engine: How the test campaign is conducted
+The company's message here at Farnborough is that the pre-cooler is performing as expected - air flows through the module in a stable and uniform way, free from any vibration.
+The pre-cooler has also been run at sub-zero temperatures where frost would be expected to form were it not for the anti-frosting mechanism, although the REL engineers have yet to take the system all the way down to below minus 140C . That will be done in the coming months.
+Media captionDavid Willetts: REL 'on track' to deliver this technology
+"We've been down to sub-zero temperatures with completely stable operation; we've had steady-state operation for over six minutes," explained Alan Bond, the driving force behind the Skylon concept.
+"We've now stopped the programme for the time being, to upgrade our test facilities in order to go down to much lower temperatures. We expect to complete that testing by the end of the year."
+The Skylon/Sabre programme is being assessed by the European Space Agency (Esa). Its propulsion experts have been conducting a technical audit at the request of the UK Space Agency, to provide an independent view of the pre-cooler's capabilities and performance.
+And the progress is being followed at the highest level within Esa.
+"I am a rocket engineer and I have looked at the Skylon project," the Paris-based agency's director-general, Jean-Jacques Dordain, told BBC News.
+"We are discussing with Reaction Engines how we can continue to work with them to get some more insights on their projectâ€¦ some more technical studies."
+
+The pre-cooler demonstration is being conducted at REL's HQ in Oxfordshire
+So far, only 15% of the funding to run the project has come from public sources; the rest has been private finance.
+The company has now appointed a new chief executive, Tim Hayter.
+One of his roles is to find the Â£250m needed to take Skylon/Sabre into its final design phase.
+"We need to find investors or strategic partners with the vision and drive to see the long-term on this," he said.
+"It's not going to be a quick turn-around [investment], but this is a disruptive technology that could turn launch vehicles on their head and we need people who can see that."
+The prospect of some further UK government funding is not out of the question, either.
+"We see this as predominantly a commercial project and it has already successfully raised money in the city," said Mr Willetts.
+"We are considering whether there is any way we can provide them with further public assistance. No decision has been taken on that yet, and of course the overall budget position for the government is very tight."
+
+An impression of the Sabre engine with a series of pre-cooler modules
+
+

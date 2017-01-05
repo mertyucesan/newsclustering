@@ -1,0 +1,59 @@
+Image copyrightESA/S.CORVAJA
+The lead spacecraft in Europe's new multi-billion-euro Earth observation (EO) programme is built and ready to go into orbit.
+Sentinel-2a will take pictures of the planet's surface in visible and infrared light.
+Its data will track everything from the growth of megacities to the variable yields of the world's most important food crops.
+The satellite will ship to the Kourou spaceport in the next month.
+Its launch on a Vega rocket has been scheduled for 12 June.
+The spacecraft will be the mainstay in a fleet of EU Earth observers that are planned to go into operation by the decade's end.
+"Sentinel-2 is the workhorse of the system," said Volker Liebig, the European Space Agency's EO director.
+"It gives us the optical component. Optical imagery is the backbone for most applications in Earth observation."
+Prof Liebig was speaking at the IABG consultancy in Munich where the platform has been undergoing final testing.
+Sentinel-2a is essentially Europe's version of the American Landsat mission.
+
+The Mississippi River: Optical imagery is the "backbone" of Earth observation apllications
+The US satellite series - its current flier is named Landsat-8 - pioneered the science of monitoring the planet from orbit.
+It has assembled a continuous record of the world's fluctuating features that stretches back more than 40 years. In satellite terms, it is the gold standard.
+Everyone will know Landsat's worth, if only through the use of mapping apps on the web and on smartphones, which all incorporate the data.
+Media captionFrancois Spoto: "Sentinel-2 and Landsat have very similar mission objectives"
+Now, the US effort is to be bolstered by the new European observer, which has been calibrated in such a way that its pictures will be an excellent match with the American ones.
+But the European endeavour is far from being a "me too" project.
+Its imaging instrument will be sensitive across more bands of light (13 multispectral versus eight), allowing it to discern more information about the Earth's surface; and it will "carpet map" a much wider strip of ground (290km versus 185km). Its colour images have a best resolution of 10m, versus Landsat's 30m.
+Moreover, the whole Sentinel concept envisages paired operation, meaning a second satellite, Sentinel-2b, will follow its sister into orbit in 2016.
+Media captionMarkus Probeck: "A lot of improvements compared to existing satellites"
+Tracing the same path but separated by 180 degrees - half the planet - the duo will come back over the same patch of land in rapid fashion. It is a powerful capability that will significantly reduce the time taken to acquire a cloud-free look at a particular location.
+At the moment, it can take Landsat, on its own, months or even years to get a completely clear view of some places. Important changes at the Earth's surface can be missed as a consequence.
+"With two satellites we have a re-visit over the equator every five days, and at mid latitudes - like over France and the UK - it is every three days," said Esa's Sentinel-2 project manager Francois Spoto.
+"This is an extremely frequent re-visit time compared with any sensor currently in orbit. And in our spectral bands, we also have one that allows us to remove light clouds like cirrus."
+Satellite remote sensing: The business of making maps
+
+Optical imagery can be used to make density maps for urban planning - in this case, Munich
+Agriculture: Gathering crop statistics and yield assessments
+Urban: Planning city-wide infrastructure improvements
+Forests: Checking de- or re-forested areas for treaty purposes
+Biodiversity: Understanding the habitats where wildlife exist
+Health: Tracking conditions associated with disease spread
+Water: Evaluating water body extents for flood assessments
+Disaster: Making damage maps following major earthquakes
+Cryosphere: Mapping snow fields and glacier melting
+
+Rocky Mountain National Park in Colorado in 2003 (left) and 2010 (right). Tree death caused by the spread of mountain pine beetles is easy to see in these Landsat images
+Another good parallel with the American cousin is the data policy. It will be open and free to all users.
+When the first spacecraft in the new European series was launched last year - a radar satellite called Sentinel-1a - the demand for its more specialised imagery was immense.
+The interest in Sentinel-2 data is expected to be just as keen, if not more so. And it will be available in large volumes. Roughly 600GB per day of raw data will be downlinked, using a high-speed laser link if required.
+Once processed into the various useable data products, this translates into about 1.7TB - the equivalent of perhaps a few hundred DVD movies.
+Heinz Sontag is a project manager with Airbus Defence and Space, which assembled the new satellite: "What Sentinel-2 offers that other optical imagers up there cannot is the continuous ability to image all the surfaces and provide a continuous flow of data, whereas previous missions were only able to take isolated images here and there and you had to mosaic them back together to get a complete picture."
+Four further Sentinel missions - to monitor the oceans and the composition of the atmosphere - should be in orbit by 2020.
+European nations have so far committed 7.5bn euros (Â£5.5bn; $8.5bn) to the constellation and its wider operation, with more promised in the future.
+The intention is that every Sentinel satellite is replaced at the demise of its mission, ensuring there is continuity of information deep into this century.
+"In the past, we've had data for only four or five years in the case of some one-off satellites," explained Markus Probeck, whose GAF company in Munich will be developing applications from Sentinel-2 images.
+"This is a programme that is sure to be there for the very long term. This allows users to move to remote sensing-based services because there is the security of knowing that the data will be sustained and available."
+European Earth observation constellation being built in orbit
+The EU's Copernicus programme will launch a range of satellite sensors this decade to monitor the state of Planet Earth
+Sentinel-1: Radar's advantage is its all-weather observing capability, seeing through cloud. It was launched last year
+Sentinel-2: Multi-wavelength detectors, principally to study land changes. The next satellite to go into orbit
+Sentinel-3: Similar to S2, but tuned to observe ocean properties and behaviour. May get up at the end of the year
+Sentinel-4: An atmospheric sensor on a high-orbiting weather satellite to give a global perspective on gases such as ozone
+Sentinel-5: Another atmospheric sensor, but on a low-orbiting weather satellite, to help monitor air quality
+Sentinel-6: The future European name for the Jason sea-surface height mission jointly run with the Americans
+
+

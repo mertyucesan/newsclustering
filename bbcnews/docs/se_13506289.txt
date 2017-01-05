@@ -1,0 +1,39 @@
+
+
+Skylon would operate from a runway
+A revolutionary UK spaceplane concept has been boosted by theconclusions of an important technical review.
+The proposed Skylon vehicle would do the job of a big rocket but operate like an airliner, taking off and landing at a conventional runway.
+The European Space Agency's propulsion experts have assessed the details of the concept and found no showstoppers.
+They want the next phase of development to include a ground demonstration of its key innovation - its Sabre engine.
+This power unit is designed to breathe oxygen from the air in the early phases of flight - just like jet engines - before switching to full rocket mode as the Skylon vehicle climbs out of the atmosphere.
+It is the spaceplane's "single-stage-to-orbit" operation and its re-usability that make Skylon such an enticing prospect and one that could substantially reduce the cost of space activity, say its proponents.
+Mature concept
+The UK Space Agency (UKSA) had commissioned Esa to evaluate the design, and the European organisation's staff reported on Tuesday that they had not seen any obvious flaws.
+"Esa has not identified any critical topics that would prevent a successful development of the engine," they write in their review.
+Skylon has been in development in the UK in various guises for nearly 30 years.
+It is an evolution of an idea first pursued by British Aerospace and Rolls Royce in the 1980s.
+From what we've seen so far, we can't identify any showstoppers
+Dr Mark Ford, Esa's head of propulsion engineering
+That concept, known as Hotol, did have technical weaknesses that eventually led the aerospace companies to end their involvement.
+But the engineers behind the project continued to refine their thinking and they are now working independently on a much-updated vehicle in a company called Reaction Engines Limited (REL).
+Realising the Sabre propulsion system is essential to the success of the project.
+The engine would burn hydrogen and oxygen to provide thrust - but in the lower atmosphere this oxygen would be taken directly from the air.
+This means the 84m-long spaceplane can fly lighter from the outset with a higher thrust-to-weight ratio, enabling it to make a single leap to orbit, rather than using and dumping propellant stages on the ascent - as is the case with current expendable rockets.
+But flying an integrated air-breathing and rocket engine brings unique challenges.
+At high speeds, Sabre would have to manage 1,000-degree gasses entering its intake. This hot air would need to be cooled prior to being compressed and burnt with hydrogen. Reaction Engines' answer is a novel precooler heat-exchanger.
+This would incorporate arrays of extremely fine piping to extract the heat and plunge the intake gases to minus 130C in just 1/100th of a second.
+Ordinarily, the moisture in the air would be expected to freeze out rapidly, covering the network of fine piping in a blanket of frost and dislocating its operation.
+Regulatory support
+But REL says it has developed an anti-frost solution that will allow the heat exchanger to run and run. Esa's technical staff have witnessed this "secret technology" on the lab bench and can confirm it works. The agency's experts say they also fully expect a scaled up version of the precooler technology to function properly this summer when it is tested in conjunction with a standard jet engine.
+"We've not looked at everything; we've focussed on the engine and the [Skylon's] structure," explained Dr Mark Ford, Esa's head of propulsion engineering. "But from what we've seen so far, we can't identify any showstoppers. It's quite an innovative technology if it works."
+Assuming, this summer's test programme does indeed achieve its goals, Reaction Engines says private investors will release Â£220m ($350m) of funds to take Skylon into the next phase of its development.
+This would include the production of a ground demonstrator that would show off Sabre's full engine cycle - its air-breathing and rocket modes and the transition between the two.
+
+Sabre's precooler technology will be put through its paces on a test rig this summer
+The price for launching a kilogram of payload into a geostationary orbit - the location for today's big telecoms satellites - is currently more than $15,000 (Â£9,000). Skylon's re-usability could bring that down to less than $1,000, claims REL.
+If the vehicle ever does go into full production, the investment required will probably be in the region of $9-12bn (Â£5.5-7.5bn), but the company will not be looking to government for that money.
+"The government hasn't got that sort of money and we want this project to be a privately financed one," said Alan Bond, the managing director of REL.
+"What government can do for us however is deal with the legislation that surrounds the eventual introduction of a spaceplane - how it is certified and how it conforms to certain aspects of international space law. And the government has already indicated its willingness to do all this in the recent budget."
+Jonathan.Amos-INTERNET@bbc.co.uk
+
+

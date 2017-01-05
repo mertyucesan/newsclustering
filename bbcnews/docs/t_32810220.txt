@@ -1,0 +1,15 @@
+
+The Chirp logo
+A few years ago I came across one of those rare inventions that make you sit up and go "wow".
+Chirp was launched in 2012. It's an application that allows you to transfer files between devices simply using an audio signal. It was instantly appealing - and best of all it was the work of a British inventor, Patrick Bergel, from University College London.
+Bergel and his team had big ambitions, seeing Chirp as a whole new platform for exchanging anything from photos and video to cash. At the time I wrote: "This may be an app that just proves a passing craze - but how inspiring to meet a British start-up with such Californian ambitions."
+Three years on they have made some modest progress, running experiments with retailers using the app to send marketing messages, but it's fair to say this is still a brilliant idea rather than a proven business. Then today another company which also has plenty of Californian ambitions moved onto the same territory.
+That business is Google, which has launched a plug-in for its Chrome browser called Google Tone. The idea is that nearby computers can share links by opening a Chrome tab, then sending out an audio signal. It's very similar to what Chirp does, although for now it has more limited applications.
+That might seem like curtains for the tiny British venture, which has just embarked on a crowdfunding drive, using the Crowdcube platform to raise the modest amount of money it needs to get to the next stage. But Patrick Bergel says the opposite is the case.
+It seems there is an appetite in the UK for me-too businesses but a reluctance to put money into original British technology
+"I've been going on about 'the internet of sound' for a while, so we definitely see this as validation. Competition is a good thing." Until now, he has struggled to get London investors to back Chirp, explaining tactfully that they are "not always as open to brand new ideas as Californian venture capitalists".
+It seems there is an appetite in the UK for me-too businesses - another social network or photo sharing app - but a reluctance to put money into original British technology. But now Bergel thinks he might get a better hearing: "If you're the only person in the marketplace it's hard to convince people that it's a good thing."
+What is more, Chirp had been on the point of releasing its own Chrome plug-in. Having heard about Google's Tone, it has rushed it out this morning, and says its version does more, allowing you to send all sorts of links, pictures even phone numbers from websites to another device.
+What happens next will tell us something about how the UK has come as a place to launch a new technology business. If Google's hunch is right, sharing files via an audio signal is an idea whose time has come. Venture capitalists should be beating a path to Patrick Bergel's door to find out about the internet of sound. But if he wants a hearing, maybe he'd be better off heading to California.
+
+

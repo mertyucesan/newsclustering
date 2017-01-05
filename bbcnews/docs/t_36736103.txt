@@ -1,0 +1,24 @@
+
+There have now been two widely-publicised crashes involving Teslas
+A second crash involving a Tesla car - which includes a self-driving feature known as Autopilot - is being investigated by the US authorities.
+The accident in Pennsylvania left the driver and his passenger injured.
+The carmaker said that there was "no evidence" that Autopilot was responsible.
+It follows an investigation into a fatal accident in Florida where the focus is on the apparent failure of Tesla's technology.
+In the incident in Pennsylvania, the Model X car hit a guard rail and veered into the eastbound lane, ending up on its roof.
+In a statement, Tesla said: "Based on the information we have now, we have no reason to believe that Autopilot had anything to do with this accident."
+It said that it had received an automated alert from the car indicating airbags had been deployed but never received logs containing details about the state of vehicle controls, which would indicate whether Autopilot was on or off.
+Autopilot is a feature which allows cars to automatically change lanes and react to traffic.
+US car safety regulators are scrutinising the Pennsylvania crash to determine whether the Autopilot system was in use at the time.
+Tesla, based in California, make electric cars
+In 2015 the Tesla Model S overtook the Nissan Leaf to become the best-selling electric vehicle in the world
+The Model S's Autopilot feature, marketed as assistance for drivers, allows the car to keep in lane,
+Tesla's founder says cars that cannot drive themselves will be "a strange anachronism" before long
+But the company says drivers must keep their hands on the wheel when using the Autopilot feature
+The car's battery lasts for up to 230 miles (370 km) before needing to be charged again
+The National Highway Traffic Safety Administration (NHTSA) published a report last week following the death of 40-year-old Joshua Brown, who was killed while driving a Tesla in Florida.
+It concluded that both the driver and the Autopilot system failed to detect a large tractor-trailer turning left in front of him.
+In response to that, Tesla reiterated the safety record for its vehicles and the fact that the Autopilot feature is an auto-assist rather than autonomous feature - which means the driver needs to keep both hands on the wheel at all times.
+The NHTSA is due to issue guidelines around the rules for autonomous car technology later this month.
+Previously NHTSA chief Mark Rosekind has said that technology such as Autopilot needed to be twice as safe as the manual systems they replace.
+
+

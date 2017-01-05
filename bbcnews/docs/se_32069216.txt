@@ -1,0 +1,52 @@
+Image copyrightMAX ALEXANDER/UKSA
+
+Airbus has produced a "copy" of SolO to test and validate the design
+They must be the two most audacious space missions currently in development.
+Solar Orbiter and Solar Probe Plus will venture inside the orbit of Mercury to study the Sun.
+The temperatures on the front surfaces of these satellites will go into the high hundreds of degrees Celsius, and beyond.
+You could say they are the missions to Hell.
+Designing the systems needed to protect the spacecraft has stretched the minds of engineers.
+They both require heatshields, of course. For the European Space Agency's Solar Orbiter (SolO), it is a titanium solution. For the American Solar Probe Plus (SP+), it will be a carbon-composite material.
+Their instruments will have to cower behind these barriers to make the measurements that scientists hope will unlock some of the Sun's enduring mysteries.
+
+Daredevil: Solar Probe Plus will be just over 6 million km from the solar surface at closest approach
+Both missions appear to be making good progress.
+The US space agency has just selected the rocket to launch Solar Probe Plus. A mighty Delta-IV Heavy - the biggest rocket in the world - will hurl this 610kg satellite towards the Sun in late 2018.
+And European industry - in the form of Airbus Defence and Space - has announced that it has now produced what it calls a structural and thermal model of Solar Orbiter.
+This is a kind of copy of the satellite, with representative instruments. It will be heated, blasted with sound, shaken and shocked to validate its design.
+If the copy survives the assault, engineers will know the flight model should also stand up to the extremes it will face in the real environment of space.
+Media captionPhilippe Kletzkine: "SolO must cope with a solar flux 13 times greater than at Earth"
+We've had quite a few solar missions in recent years. The American DSCOVR spacecraft was just the latest, launching in February.
+But most of these satellites have not ventured very far to do their work, preferring to study the Sun's inferno from the relative safety of an Earth orbit.
+SolO and SP+ intend to get in the fire, so to speak - to watch the activity up close and then directly sample the effects as particles and their accompanying magnetic fields wash over the top of them.
+"We essentially get three measurements," explained Tim Horbury, a SolO principal investigator from Imperial College London. "With Solar Orbiter, we do a remote measurement - we get to see what's happening on the Sun with our telescopes - and then we also get a second measurement when it senses what comes out.
+"The third measurement comes from Solar Probe, which whams through the field of view very quickly, every so often, to sense what's going on as well."
+
+Solar Orbiter has doors which open to allow the remote sensing instruments to picture the Sun
+SolO will go to within 43 million km of the Sun - significantly closer than Mercury, which swings around our star at a distance ranging from 46 to 70 million km.
+SP+, on the other hand, will do the real daredevil stuff when it races past the solar surface at a mere 6 million km. And "races" is the right word because it is expected to reach velocities of 200km per second in parts of its orbit.
+Different approaches require different strategies.
+By standing back somewhat, SolO can deploy telescopes. And those pictures ought to be spectacular, revealing solar features at a resolution never achieved before.
+By going in very close, SP+ can get remarkable in-situ data, but looking directly at the Sun is really out of the question.
+Media captionProf Louise Harra: "The big novelty of SolO is getting in so close"
+At little more than 6 million km, the front temperature will get up to 1,300C. SP+ cannot even afford to have peep holes in its ceramic-coated, carbon-carbon shield.
+The 1,800kg Solar Orbiter can. "We have some feedthroughs," says Dan Wild, a thermal engineer at Airbus. "These are just large cylinders made out of titanium and are coated black, mostly for light control so we don't get too many reflections.
+"And then on the front of the cylinders are doors. We can close the doors and that means we won't lose the spacecraft if something goes wrong."
+What can go wrong? For one thing - not pointing directly at the Sun at all times so that the heatshield ceases to throw a cooling shadow on the rest of the spacecraft.
+"If you lose attitude - in other words, if at some point when you are very close to the Sun, you are not directly pointing at it - then the spacecraft may become illuminated behind the heatshield, with obvious consequences.
+"So we have to have to have very robust Sun-pointing systems," explains Philippe Kletzkine, Esa's project manager on SolO.
+"The front of the Solar Orbiter heatshield will see temperatures in the order of 600 degrees, but at the back they should only be in the order of about 60 degrees."
+
+SolO will launch on an American Atlas rocket in 2018
+Interestingly, SolO's rear instrument boom, which carries some magnetic and plasma experiments, will be so shadowed, it will get cold enough - down well below minus 100C - to require active heating.
+And so what do we get for this extreme engineering? Hopefully, a chance to solve some solar riddles. By sitting directly in the Sun's outer atmosphere - its corona - Solar Probe Plus may help explain why this extensive region is so much hotter than the actual surface of the Sun. This really is a puzzle.
+Solar Orbiter should give us our best insights yet into what drives the 11-year activity cycle. Its orbit will take it high enough (30 degrees from the plane of the planets) to get a polar view of the Sun. For the first time, we will see properly what happens when the solar magnetic field flips.
+"We know when it flips but we don't know the detail because we haven't been able to peer down on the poles," says Louise Harra, from University College London's Mullard Space Science Laboratory.
+"By getting up to that 30-degree level, we'll have an excellent view, and that'll give us a much better idea of the mechanisms that drive the solar cycle, and why that cycle has started to weaken in recent years."
+All up, the two missions together are costing taxpayers in excess of $2.5bn (the US mission is nearly twice the cost of the European one). It is a lot of money. There is, though, a growing recognition that getting a better understanding of the Sun's behaviour has clear benefits here on Earth. Big solar storms have the potential to disrupt satellites, radio communications and electricity networks.
+Prof Horbury: "The fact that we're getting both Solar Orbiter and Solar Probe tells you that this community of solar and heliospheric scientists have made a compelling case, and we've persuaded both space agencies - Esa and Nasa - that going close to the Sun to see what the Sun does is very important. And it's much better to run those two missions at the same time so they can complement each other."
+There are many scientists working on both missions. And the Americans have agreed to launch SolO on Esa's behalf - again in 2018.
+
+Hot puzzle: It is possible to see the extensive solar corona during an eclipse
+
+

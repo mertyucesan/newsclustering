@@ -1,0 +1,13 @@
+
+It was launched in February 2012 with modest ambitions to give young people a small cheap programmable device - and has become Britain's most successful homegrown computer. Now Raspberry Pi is getting smaller and cheaper.
+The latest edition is the Raspberry Pi Zero. It is slower than the full-size version (though faster than the original Raspberry Pi) and has fewer ports, but its main selling point is that it is so cheap. The Zero, which like its predecessors is being manufactured in Wales, will sell for Â£4 or $5. And subscribers of the Magpi, a Raspberry Pi magazine, will find a Zero attached to the cover of the magazine - possibly the first time that a computer has been a free giveaway.
+"We still meet people for whom cost remains a barrier to entry," says Eben Upton, the man behind the whole project. He says driving down the cost of hardware has always been a key aim of the project, and he now expects more people to be able to get involved in computing.
+The hope is that the whole project can be clear about its mission
+But it looks more likely that existing users will snap them up as extra components in computing projects. Upton sees it being used in "internet of things" or robotics projects, where a smaller device may be needed, or as a media player.
+Throughout its history, Raspberry Pi has found a bigger audience amongst middle-aged hobbyists rather than the school children who were its original target. That is likely to be the case at first with the Zero, though school computing clubs may may find it a useful addition to their projects.
+With more than seven million Raspberry Pis sold so far, and 270,000 in October alone, there is no doubt that it has been a commercial success. The challenge for those behind the project is to keep on remembering that the aim is to enthuse and inspire young people about computing, not to maximise profit.
+By putting Eben Upton in charge of the commercial operation and appointing Philip Colligan as chief executive of the charitable foundation, the hope is that the whole project can be clear about its mission.
+Meanwhile however, there are rival cheap computing devices, from the Arduino to Beagle Black, which also seek to get young people interested in coding. And the Raspberry Pi Zero has raced ahead of the BBC's Microbit device, which will now be delivered to all Year 7 pupils in the UK early next year.
+The Raspberry Pi was the right device at the right time, catching a wave of enthusiasm for improving understanding of computing. Now, in an increasingly crowded field, it will have to keep on innovating - while making sure that schools, teachers and children retain their enthusiasm for all things Raspberry Pi.
+
+

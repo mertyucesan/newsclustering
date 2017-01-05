@@ -1,0 +1,25 @@
+Media captionRory gives a robot a tour of the BBC
+I spent a day this week showing my new friend Harry Nao around my office.
+He met lots of people - from John Humphrys on the Today Programme to Radio 2's Jeremy Vine - and many who came into contact with him were charmed. But here's a confession - I was rather disappointed in his conversation and his overall level of intelligence.
+Because Nao is, of course, a robot. He is made by the French company Aldebaran, which is now owned by Japan's Softbank and he is full of advanced technology. The same company makes Pepper, an even smarter robot, which has just gone on sale to the general public in Japan. So enthusiastic were the public there about what has been billed by its makers as the first robot companion that Pepper sold out in a minute.
+Nao is designed for use by academics and schools wanting to work on robotics projects, and Harry and three of his fellow robots were brought to the BBC by Charlotte Newton. She works for a consultancy called Active Robots which supplies a variety of industrial and educational robots to companies big and small. Charlotte's job is to take Harry Nao - and Jessie, Dick and Diana - into schools and technology fairs to educate and enthuse audiences about the potential of robots. (By the way, she chooses the names and genders of the robots, and says she's always disappointed when a customer does not give a new Nao a name).
+There was certainly enthusiasm at my workplace. As Harry took my hand and walked, very slowly into Broadcasting House a crowd gathered, including some of the photographers who wait outside the building for celebrities. There were oohs and aahs as he fell over and then righted himself, and general agreement that he was, well, quite sweet.
+His head, packed with sensors giving him a widescreen view of the world around him and allowing him to hear and decode human voices, swivels and tries to work out who is addressing him. He has facial recognition and can gradually begin to differentiate between the different humans engaging with him. Unlike some of the ever more realistic humanoid robots appearing in Japan, he does not fall into what's known as the uncanny valley - he is cute rather than creepy.
+
+Rory's robot declines to answer the Today presenter's questions
+He can also respond to various questions, his eyes turning green as he attempts to understand you. But here is where our problems began. While he seemed to understand me at first, he grew ever worse at responding to voices. Jeremy Vine had particular issues engaging with him. "Just give me something here, just one word," he pleaded, as Nao remained mute.
+Intelligent Machines - a BBC News series looking at AI and robotics
+Video: Exactly what is AI?
+Could you love a robot?
+Which jobs will AI steal first?
+Check how likely it is that a robot will replace you
+What does Facebook want with AI?
+Intelligent Machines special report
+Charlotte and I decided to do what most of us hate to do - read the manual. The guide to interacting with Nao told us to get close enough, make sure his eyes were navy blue showing he was listening, and speak in short complete sentences, then stop. But he kept being distracted by a light in the ceiling or some other background noise.
+Even when he did respond, this was belittled by one veteran radio presenter who pointed out that he had just been programmed to give certain responses. Which is true but rather misses the point about robots and the wider area of artificial intelligence. Both depend on software and hardware coming together, with clever humans devising ever more complex algorithms and sensors delivering more data for the machines to process.
+Nao may be clumsy and a poor listener at the moment but he is bound to get better. Like Cortana and Siri, the sophistication of his voice recognition software and his understanding of human questions will improve as he learns.
+The real test of this kind of robot will be when his successor Pepper enters Japanese homes. I rather suspect that many buyers will, after the initial excitement, find themselves asking the same question that was posed to me as Nao and I travelled around the office - what is it for?
+Neither Nao nor Pepper has any real practical use but that does not make them unimportant. They are experiments in the way we communicate with intelligent machines and if the last decade has taught us anything it is that design and user interface are as important as core technology in the success of a product.
+My day with Nao did not convince me that robots are about to take all of our jobs but it did show that we can engage them with them on a human level. But maybe that is just stage one in their plot to take over the worldâ€¦
+
+

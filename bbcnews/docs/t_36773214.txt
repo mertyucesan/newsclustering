@@ -1,0 +1,25 @@
+Media captionThe BBC's Chris Foxx took to the streets to explore some of the app's highs and lows
+The firm behind smash-hit game Pokemon Go has promised to "fix" an error that suggested it had been granted full access to users' Google accounts.
+In a statement, developer Niantic Labs said that it had only ever logged user IDs and email addresses.
+A privacy row erupted when iOS users who signed up via their Google accounts were told that the game had "full access" to their information.
+It appears Niantic may have used outdated user agreements.
+The Android version of the game did not appear to have the same problem.
+What is Pokemon Go?
+Nintendo's shares soar on Pokemon Go's success
+Pokemon Go player finds dead body
+Pokemon Go's UK launch is "paused"
+Pokemon Go is a newly-released augmented reality smartphone game that allows players to search the real world to find Pokemon creatures.
+It became the top-selling app on both iPhone's app store and Google Play just days after its release in the US, Australia and New Zealand.
+According to app monitoring firm App Annie it has already generated well over $1m (Â£760,000) of revenue for Niantic Labs.
+Full access to Google accounts could, in theory, have allowed Niantic Labs to read and send email, access, edit and delete documents in Google Drive and access browser and map histories.
+Niantic Labs sought to reassure users that it "only accesses basic Google profile information (specifically, your user ID and email address) and no other Google account information is or has been accessed or collected".
+
+Seeking monsters in the real world has appealed to many
+"We recently discovered that the Pokemon Go account creation process on iOS erroneously requests full access permission for the user's Google account," it said in a statement.
+"Once we became aware of this error, we began working on a client-side fix to request permission for only basic Google profile information, in line with the data that we actually access.
+"Google has verified that no other information has been received or accessed by PokÃ©mon Go or Niantic. Google will soon reduce PokÃ©mon Go's permission to only the basic profile data that PokÃ©mon Go needs, and users do not need to take any actions themselves."
+Google did not offer comment on the story.
+Meanwhile, security firms have warned users keen to get hold of the game in countries where it is not yet released, not to download it from third parties.
+Doing so could actually be installing an infected version of the app which contains a backdoor called DroidJack, which grants hackers access to the victim's phone, experts said.
+
+

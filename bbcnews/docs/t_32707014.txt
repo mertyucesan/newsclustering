@@ -1,0 +1,19 @@
+Where do you get your online news? For millions, the answer is Facebook, and now the social media giant is moving to make it even easier to access news articles.
+It's introducing something called Instant Articles, which will offer news organisations the chance to create interactive content that is much simpler and faster to read on Facebook via a mobile device.
+For news firms desperate to get their content in front of young audiences, that is attractive - but they will also be wary of handing even more power to the social network.
+National Geographic, the New York Times, Buzzfeed, the Guardian and the BBC are among the organisations which will now try out a system which means their articles will be hosted on Facebook's servers. That means Instant Articles will appear, well, instantly rather than the user having to wait as they follow a link.
+"We think the most important thing here is speed," Facebook's chief product officer Chris Cox told me over a video link to his Menlo Park office. "The obvious lesson we keep on learning is that on a mobile phone, the most important thing is immediacy."
+Facebook says it can take as long as eight seconds for a news article to load on a phone under the existing system.
+In a demo of Instant Articles, I was shown a National Geographic piece that filled the screen at once, and had a number of extras - photos you could "like" individually, embedded videos that autoplayed, pop-out charts and maps. Facebook says it is providing publishers with the tools to make their content more engaging.
+Some will be using those tools to make tailored content for Instant Articles, others, including the BBC, which will soon start using the service with its Newsbeat material, will decline that option. They will not want to put on Facebook's servers anything that is not available on their own sites.
+
+Many people, especially younger generations, get a lot of their news from social media
+What the news organisations will want to know is whether this all means their traffic will improve. Facebook seems confident it will, and says they will also get 100% of the revenue from any adverts that they have sold, whereas if they're sold through the social firm's own advertising network there will be a 70:30 revenue sharing deal.
+But the news firms will also embark upon this experiment with some trepidation. They know how powerful a presence Facebook already is in news - the recent Pew report on the US media found that nearly half of Americans who used the internet had got news about politics and government from the social network over the previous week.
+But these days media groups fear the mechanics behind Facebook's newsfeed in the same way that small businesses have nightmares about tweaks in the Google search algorithm. They have watched their traffic from the social network ebb and flow with every change - one day your stories can be popping up all over everybody's timelines, the next they have disappeared without trace.
+So the Instant Articles experimenters are treading carefully. An executive at one media organisation said it was difficult to resist getting involved in anything that would put your content on the phones of the social network's users - "Facebook is killing it on mobile," he said. But he was extremely cautious about handing over distribution to a third party and being subject to its decisions on how to prioritise content.
+Facebook, like Google, has always insisted that it is just a technology platform, not a media giant.
+With its newsfeed algorithm acting as an editor, that has long been a difficult argument to sustain, and now that it will be hosting news articles on its servers it is harder still.
+Facebook is already richer than any traditional media company - and with that wealth comes ever greater power over how its audience finds out about the news.
+
+

@@ -1,0 +1,34 @@
+Image copyrightAP/NETFLIX
+
+House of Cards, staring Kevin Spacey, is one of Netflix's popular original programmes
+A US appeals court ruling that password sharing is illegal is set to influence how other judges handle complaints about the activity.
+The case involved a man who had been convicted of using someone else's login to access his ex-workplace's database.
+The decision has serious legal implications for the wider sharing of passwords, one dissenting judge said.
+The US press has speculated it could even have a bearing on disputes about the sharing of Netflix passwords.
+But one of the other judges suggested the precedent that had been set had more limited consequences.
+Password sharing
+In 2004, David Nosal reportedly used an ex-colleague's password to gain access to his former recruitment firm Korn/Ferry, in order to use the information in his new firm.
+He was charged in 2008 with hacking under the Computer Fraud and Abuse Act (CFAA), and convicted in 2013.
+The case found the company issuing the password must give authorisation, rather than the individual who may choose to share it.
+While the ruling that password sharing violated federal law is limited to the specific case, it could set a precedent for future cases in the US.
+
+Sharing passwords: under threat?
+Judge Reinhardt, who disagreed with the majority ruling, said the case was "about password sharing" rather than hacking and that in his view "the CFAA does not make the millions of people who engage in this ubiquitous, useful, and generally harmless conduct into unwitting federal criminals".
+He added: "The majority does not provide, nor do I see, a workable line which separates the consensual password sharing in this case from the consensual password sharing of millions of legitimate account holders, which may also be contrary to the policies of system owners.
+"There simply is no limiting principle in the majority's world of lawful and unlawful password sharing," he added.
+He suggested that people could now be jailed as a consequence of the ruling.
+But Judge M Margaret McKeown, who wrote the majority opinion, disagreed and said the specifics of the case bore "little resemblance to asking a spouse to log in to an email account to print a boarding pass".
+A summary of the ruling said that nearly all access of a "protected computer" - effectively all computers with internet access - without authorisation could therefore be criminalised.
+This could turn millions of Americans into potential federal criminals overnight, it reasoned.
+Kuan Hon, consultant lawyer at Pinsent Masons, said that under UK law, there is no criminal offence unless the individual knows they are not authorised to access the company's program or data.
+"You have to know that the access is unauthorised. If you give your password to your child, they might not necessarily realise that the ultimate service doesn't warrant it," she said.
+"The question of what is unauthorised or unauthorised is different under the UK's Computer Misuse Act."
+Sharing families
+Image copyrightETHAN MILLER
+
+Netflix chief executive Reed Hastings has previously said he has no problem with password sharing
+In January, Netflix chief executive Reed Hastings suggested that sharing accounts within households was actually more likely to encourage others to sign up.
+"As kids move on in their life, they like to have control of their life and as they have an income, we see them separately subscribe," he said. "It really hasn't been a problem."
+However, Netflix's terms and conditions state the account owner who created the account and who pays for access "should not reveal the password associated with the account to anyone".
+
+

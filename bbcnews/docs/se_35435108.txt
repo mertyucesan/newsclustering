@@ -1,0 +1,48 @@
+Media captionAirbus Safran Launchers' promotional video for the Ariane 6
+The design for Europe's new Ariane 6 rocket has been settled and development will now move on apace, say officials.
+The launcher is due to be introduced in 2020 and long-term will replace the Ariane 5 and Soyuz vehicles that currently operate out of French Guiana.
+Airbus Safran Launchers, the company set up exactly one year ago to build the new rocket, is in the process of pulling together its subcontractors.
+CEO Alain Charmeau said rapid progress was being made on the project.
+"The basic design of Ariane 6 is now frozen to allow us to move into a more detailed design and production phase," he told BBC News.
+"We have already signed some major contracts, and more will be signed in the coming days. And for those equipments not on the critical path, we will sign contracts in the coming months after running some competitions."
+
+Work done this past year has established the key design and manufacturing principles
+The company is a joint venture between the aerospace giant Airbus and the aero and rocket manufacturer Safran. The tie-up has yet to receive full and final sign-off from the French authorities because of corporate tax arrangements, but Mr Charmeau said this delay had made no impact yet on future Ariane developments.
+"We were set up to manage Ariane 5 and 6 and we are doing that very efficiently, but it's true we can't maintain our current company configuration forever. But we will soon shift into a new configuration."
+Ariane 6 will be a modular rocket that can be tailored to a wide range of satellite and mission types.
+One version, known as Ariane 62, will loft medium-sized spacecraft into orbit - the kind of platforms that image and study the Earth.
+The second version, known as Ariane 64, will put up the heavy telecoms spacecraft, which sit 36,000km above the equator.
+Ariane 6 - A new European rocket for 2020
+Next-generation rocket will be modular in design, offering two variants
+Vehicles will lean on their Ariane 5 heritage but cost less to build
+A new upper-stage engine (Vinci), already in development, will be used
+Solid fuel boosters from the Vega rocket will provide additional power
+A62 will tend to launch medium-sized government/science missions
+A64 will launch the big commercial telecoms satellites, two at a time
+In the short term, the rocket will be a one-time, expendable vehicle
+Both variants will lean heavily on technologies already proven or under development for Ariane 5.
+They will also borrow elements from Europe's small Vega launcher. The "2" and the "4" in the version names refer to the number of strap-on solid-fuelled boosters that do the initial lifting off the pad. These boosters will be the same as Vega's first firing stage.
+The hope is that the commonalities between the different rocket types will help drive down costs.
+Airbus Safran wants further economies by employing more modern methods of production and from streamlining assembly lines.
+"We have chosen an optimised industrial organisation where we will try to maximise the rate of use of production tools. For example, there will be only one place for the machining of the big metallic structures. And we will of course be using additive layer manufacturing (3D printing) and processes like friction stir welding. We will be investing in new tools."
+
+American companies are aggressively pursuing re-useable technologies
+The question that is always asked concerning the future, is whether Ariane 6 will ever become a re-useable rocket.
+The American company SpaceX already offers its Falcon vehicle for prices that significantly undercut the Ariane 5. And although Ariane 6 is expected to be 40-50% cheaper to produce than the existing model, SpaceX is promising to move the goalposts again by recovering and re-using its Falcons.
+This same capability is also currently being demonstrated by another US company, Blue Origin, which has aspirations in the same markets as both Ariane and SpaceX.
+There is no magic formula with one global validity
+Jan Woerner, Esa director general
+For its part, Airbus Safran does not envisage making Ariane 6 recoverable, not in the short term.
+Mr Charmeau believes that different market conditions apply in Europe and the US, which means there will not be a single, winner-takes-all approach.
+He cites, for example, the restricted procurement that exists in all major political blocs, which essentially bars foreign rockets from launching home institutional and government satellites. Nowhere is this more true than in the US, but in Europe too there is an "unwritten rule" that European states should use European rockets.
+Mr Charmeau added: "And we have other specificities in Europe, such as the technology of propulsion, which is much better than the US one, both in solid and cryogenic propulsion. This allows us to launch [two satellites at once], which is another factor for competitiveness, maybe much better than re-usability - we will see in the future. And one characteristic, for example, is that we have only one (main) engine on the Ariane 64, whereas our competitor is going for re-usability because he is using much more engines. (The Falcon 9 has nine engines on its first stage.)
+Rocket recycling
+Long term it is hard to envisage Ariane shunning re-usability, and Airbus is studying a concept called Adeline that would modify the 62 and 64 variants to allow their main engine to fly back to a runway after consuming its launch propellant.
+Whether Adeline, or some other re-usability concept, ever sees the light of day - and it would not be before 2030 - will ultimately come down to the attitude of European Space Agency member states. They fund the R&D of the Ariane programme and they may feel the American competition demands a response.
+But like Mr Charmeau, Esa's director general, Jan Woerner, is not rushing to judgement.
+"There is no magic formula with one global validity," he told reporters earlier this month.
+"So, don't say 'this is the one and only solution'. We have to find a way to the best launcher for Europe; and we are doing so.
+"I could talk for two hours about the advantages or disadvantages of re-usability. Is it appropriate for the European situation? I don't say 'no'; I don't say 'yes'. I just say 'we're discussing it'; we're looking into it in detail.
+"But just look to your daily life: you are buying returnable bottles or one-way bottles, and obviously for both there is a market."
+
+

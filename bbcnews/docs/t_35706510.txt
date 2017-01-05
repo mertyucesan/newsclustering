@@ -1,0 +1,20 @@
+Media captionWatch: Blippar can recognise fruit and other objects
+We've heard a lot lately about virtual reality and the promise of a 360 degree view of the world.
+Only yesterday I got an intriguing VR demo from the Philharmonia Orchestra which placed me right in front of the conductor, able to look around and see and hear the different sections playing some Sibelius.
+But an announcement from a British technology firm on Wednesday signals that it is AR - augmented reality - rather than VR which may have more immediate commercial potential.
+Blippar, whose technology uses smartphone cameras to overlay information on the real world, has revealed that it has received Â£38.6m in new funding.
+The cash comes mainly from the Malaysian government's strategic investment fund, and brings the total investment in the company to more than Â£71.5m, making it one of the UK's best-funded tech start-ups.
+Blippar has found a lucrative use for AR by offering leading brands new ways to connect with consumers. Point its app at a Coke can, for instance, and it may play you a tune from Spotify.
+
+AR allows smartphone users to point at an object and receive information about it
+When I caught up with the co-founder and chief executive Ambarish Mitra, he told me he thought AR was likely to catch on far more quickly than VR because billions of people already used phones with cameras, whereas virtual reality headsets would not be common for a while. He quoted research predicting that the combined VR/AR market would be worth $150bn (Â£107bn) by 2020 - but that AR would account for $120bn (Â£86bn) of that.
+But Mitra has far greater ambitions for his technology than employing it as a gimmicky advertising technique. He wants to create what he calls a visual search engine for the world and he's going to put some of the new funds into Blippar's artificial intelligence teams which are already at work in Silicon Valley and London on this project.
+
+Blippar chief executive Ambarish Mitra
+So far, he says, they've developed something with "the visual brain of a six-year-old - and six-year-olds can recognise most things in the world". Show it a fruit and it can say that's an apple or an orange, point it at St Paul's Cathedral and it will know that it's a church.
+But within a year he hopes that it will have grown into an 18-year-old: "It will go into far more narrow definitions, it will tell you when St Paul's was built, who got married there, everything associated with it." And eventually, he says, the Blippar AI/AR technology will be smarter at seeing the world and understanding it than any human.
+Make no mistake - this is a really ambitious venture. Getting computers to index the world is one thing, but cognition - getting them to understand it - is quite another. But will this visual search engine be both useful and commercially valuable?
+Mitra believes that millions of phone users around the world - particularly those with poor language skills - are ready to use the cameras on their phones to search for information. He says his free app has seen huge growth in usage in the last six months, and is ready to hit the mainstream.
+Predicting the way consumers will adopt any new technology is hard - just look at Google Glass, which seemed to show that augmented reality was far from ready for mainstream use. But Blippar now has backers with deep pockets in both Asia and the United States, and that gives it time to turn its ambitious vision into reality.
+
+

@@ -1,0 +1,46 @@
+
+Tesla cars use radar and other sensors to detect other vehicles and road markings
+Tesla has admitted that its autopilot feature was activated when one of its cars crashed on Sunday.
+However, the electric carmaker has suggested that the function was not being used correctly at the time.
+The motorist survived the accident, but another Tesla owner died in an earlier crash that occurred when the driver-assist function failed to detect another vehicle in its path.
+Chief executive Elon Musk said Tesla had no plans to disable autopilot.
+However, he told the Wall Street Journal that his company would publish a blog highlighting how drivers should make use of the technology.
+He also tweeted that it was right that Tesla should be "taking the heat for customer safety".
+The California-based carmaker has previously blogged that "customers using autopilot are statistically safer than those not using it at all".
+Tesla's deployment of the technology is being investigated by the US road safety watchdog.
+'Ignored alerts'
+The latest crash, near Cardwell, Montana, saw a Model X car swerve to hit wooden rails next to a two-lane road.
+"This vehicle was being driven along an undivided mountain road shortly after midnight with autosteer enabled," a spokeswoman told the BBC, referring to autopilot's steering function.
+"The data suggests that the driver's hands were not on the steering wheel, as no force was detected on the steering wheel for over two minutes after autosteer was engaged - even a very small amount of force, such as one hand resting on the wheel, will be detected.
+
+The crash in Montana involved a Model X car
+"This is contrary to the terms of use that are agreed to when enabling the feature and the notification presented in the instrument cluster each time it is activated.
+"As road conditions became increasingly uncertain, the vehicle again alerted the driver to put his hands on the wheel.
+"He did not do so, and shortly thereafter the vehicle collided with a post on the edge of the roadway.
+"Autosteer... is best suited for highways with a centre divider.
+"We specifically advise against its use at high speeds on undivided roads."
+CNN reported that the car had lost one of its wheels in the crash, but neither the driver nor his passenger had been injured.
+It said the man - who had identified himself only as Pang - had told a police officer the alerts given by the car had been in English but he spoke Mandarin.
+Multiple probes
+Tesla released details of the incident more quickly than it had done for the earlier crash in Florida.
+The US Securities and Exchange Commission said on Monday that it was investigating why the company took until 30 June to publicly disclose the fatality - 54 days after it happened and nine days after it first informed the National Highway Traffic Safety Administration.
+
+Joshua Brown died after his Tesla S crashed while using autopilot
+Tesla had raised funds from investors in the interim.
+"I didn't know there had been an autopilot incident at the time of the fundraising," Mr Musk has said. "What we told NHTSA was just that somebody died - it wasn't that there was an autopilot incident."
+On Tuesday, the traffic safety body released a letter it had sent to Tesla detailing its own investigation into the accident.
+It has asked for details about all updates made to autopilot since it was enabled last year, as well as information about forthcoming changes.
+The watchdog is also considering whether autopilot was in use during a third collision involving a Tesla car that occurred on 1 July.
+ProPilot unveiled
+Although Tesla says motorists should remain "engaged and aware" while using autopilot, critics have suggested that it was "inevitable" that users would become distracted.
+
+Nissan is introducing a self-steering facility in minivans that go on sale in July
+Nevertheless, other car makers are pursuing a similar strategy.
+Nissan has unveiled ProPilot - lane-detecting technology that allows a car to follow the vehicle ahead, braking and accelerating as necessary without human direction.
+Japan will be the first market to get the innovation when it is included in a minivan released next month and Nissan planned to offer ProPilot in European models next year.
+As a safety measure, the company has designed the facility to turn itself off if the driver removed his or her hands from the wheel for more than a brief period.
+
+Land Rover is testing a technology that can detect different off-road driving conditions
+In another related development, Jaguar Land Rover has announced plans to test more than 100 self-driving research vehicles on roads near Coventry, England before the end of 2020.
+
+

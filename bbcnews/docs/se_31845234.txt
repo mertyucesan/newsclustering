@@ -1,0 +1,54 @@
+
+
+A forged aluminium "cheese" goes into one of Castle's machines to be cut to a very precise shape
+The process of machining the fastest wheels in automotive history has begun.
+The aluminium discs will be fitted to the Bloodhound Supersonic Car, which will endeavour to break the world land speed record (763mph) later this year.
+Castle Engineering near Glasgow is leading the industrial consortium that is preparing the wheels.
+These 90cm discs are a crucial element of the Bloodhound concept, and will have to endure huge loads as they spin at over 170 revolutions per second.
+Calculations indicate that at peak speed, the wheels will be generating 50,000 radial g at their rim. That's 50,000 times the pull of gravity.
+Media captionConor La Grue: "None of us realised how difficult wheel development would be"
+"What does that mean? It means that a bag of sugar sitting on the wheel when it's stationary would weigh more than an articulated lorry when the wheel is turning at full speed," explained Conor La Grue, the components chief on the Bloodhound project.
+"There are parts of this car where if we have a problem, the driver Andy Green can simply shut them off and bring the vehicle to a stop. But if we have a problem with a wheel, Andy is going to crash. So the design and performance of the discs are absolutely mission-critical," he told BBC News.
+
+There will come a point when the car is moving faster than the wheels can turn
+Bloodhound SSC will use a Eurofighter jet engine bolted to a rocket to take it through the sound barrier. The ultimate aim is to push the land speed record beyond 1,000mph (1,610km/h) in 2016. The attempts will be made on a specially prepared lake bed in South Africa.
+In revolutions per minute (rpm), the wheels will reach a staggering 10,500. An F1 car would "only" do about 2,500rpm. Exactly how fast Bloodhound's wheels will actually turn, however, is something of an unknown.
+There will come a point when the vehicle is going so quickly that the discs will not be able to keep up. They will slide. "Rudders" might be a good description of them at that stage.
+Finding a wheel that can cope with the stress of running at 1,000mph "was my first and hardest piece of homework on Bloodhound," says La Grue.
+Not only do the 91kg discs have to maintain their integrity during rapid rotation, they must do so while being blasted by small pieces of grit.
+The "race track" at Hakskeen Pan in the Northern Cape has been cleared of all stone debris larger than a pea, but, even so, the top dirt layer on the lake bed will kick up.
+Particles lifted by the front wheels will hit the back ones with the velocity of a bullet. If there are any imperfections, any cracks, in the discs - then this assault could trigger a catastrophic failure.
+Lockheed Martin UK and Innoval Technology led the early research and design work on the wheels.
+
+Early design work tried to understand how aluminium would cope with dirt kicked up at 1,000mph
+All sorts of material ideas were considered, including titanium and various carbon composites. But it was an aluminium alloy that was eventually given the task â€“ albeit a very special grade.
+It is called 7037, and contains small amounts of zinc, copper and manganese. This metallurgical mix is reserved for very specialist aerospace applications.
+Bloodhound went to Germany for the metal â€“ to Trimet for the six tonnes of raw aluminium melt, and to Otto Fuchs to do the casting and forging.
+
+Checking the first cut on a Bloodhound wheel with Castle MD Yan Tiefenbrun
+You should take a look at this video to see how the forging is done. The cast billets are repeatedly squished and squashed to give the metal a uniform density throughout, and to align the grain in directions that will maximise strength. The skill of the forge operators is remarkable â€“ a 200kg lump of alloy, tossed around as if it is a pizza dough ball.
+The forged "cheeses" are now at Castle, where they are being machined to shape. The Scottish company uses the tag line "precision engineering" in its name â€“ and for good reason.
+The tolerances they work with are measured to within a few microns (thousandths of a millimetre).
+"If you didn't cut a wheel absolutely true, you'd get an imbalance as it was spun on its axis," said Castle graduate apprentice Roy Yuile.
+"That would manifest itself as a vibration - a force on the axle, on the bearing. And that could prematurely wear out or even destroy the bearing or any of the components attached to it. To mitigate this, we're clocking the wheels true at every stage of the machining process.â€�
+Once machined, the wheels have an entrancing, mirror-like sheen, but this is far from the end of the process.
+From Castle, the discs will go to WDB for balancing. Unlike with a standard car wheel, this does not involve adding lead weights to the rim. Instead, further precision measurements will identify any unevenness and a sliver of metal will be removed to hone what is already a state of near-perfection.
+Then, the discs go to Amfin and MIC for some surface finishing. The wheels are checked for cracks before being subjected to "shot peening", which involves firing tiny steel balls at the surface to give it a toughened "skin". The discs are then dipped in sulphuric acid and anodised to protect them from corrosion.
+Only after that, as well as one final balancing check, can the wheels be considered ready.
+
+The forge operators toss the cast billets like they are a pizza dough ball
+This week I had the privilege of cutting one of the wheels that will be used to try to break the land speed record (donâ€™t worry - all I did was push a button on some pre-programmed tooling). In 2015, Bloodhound will use two full sets of â€œbootsâ€�, with the prototype disc acting as a spare.
+Media captionYan Tiefenbrun: "Bloodhound is an inspiration project for engineering"
+Four further, uncut cheeses are being held back for any design modifications requested for the 1,000mph runs planned for 2016.
+The market value of these wheels is probably about a quarter of a million pounds, each. And yet, Castle and its consortium are doing all this work for free.
+For Yan Tiefenbrun, the MD of Castle, the arrangement is a no-brainer. The British Bloodhound project is a showcase for engineering, and it is helping him recruit the type of individual on whom the future of Castle and the other companies in the consortium depend.
+Tiefenbrun recalls: "Five years ago, we had an opening for eight (apprentice) positions in the business, and for the eight positions we had 50 applications. And we said to ourselves, 'this is not good enough; weâ€™re not getting enough volume to guarantee the skill levels and talent levels we need for the future'.
+"Five years later â€“ and as a deliverable of this programme â€“ we had six places for apprentices in 2014, and we had 600 applications. A transformational difference."
+It should be obvious why Bloodhound has to use solid wheels to make its record runs. A rubber tyre would be ripped to shreds instantly.
+That said, the car still needs some "ordinary wheels" for use during its shipment from the factory to the racetrack. And these wheels will also be used in the "shakedown" running planned to take place at Newquay aerodrome in Cornwall, most probably in August.
+The tyres for this task have been sourced from old Lightning fighter jets. Safety-checked by Dunlop, they are now being mounted on brand new discs, the aluminium plate for which was supplied by Metalweb.
+Again, Castle is doing the integration. The Newquay runs should see Bloodhound reach about 200mph (320km/h).
+
+As the car runs over the dry lake bed, it will push down into the top dirt layer
+
+

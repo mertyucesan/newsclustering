@@ -1,0 +1,42 @@
+
+
+Mr Smith demonstrated examples of the "dynamic" adverts at an event in London
+Amazon has revealed it is experimenting with personalised video adverts.
+The clips feature images and text about products the US retailer has detected the user has shown interest in.
+Amazon regularly displays customised static ads on third-party sites, but the videos have the potential to be more eye-catching and appear in more places.
+One expert said the idea had potential but Amazon would have to be careful that its ads did not seem creepy.
+"This is something we've only experimented with at very small scales," Graeme Smith, managing director Amazon's software development centre in Edinburgh, told the BBC.
+"They have been out there in the wild.
+"I'm not able to share any more details of where, but potentially anywhere you can see a video is potentially somewhere you could consider running personalised video ads, right across the internet.
+"It's still very early days for this technology, but it's something we are really excited about with a lot of applications."
+
+Amazon already uses cookies to target static image ads at internet users
+Mr Smith showed off one of the ad designs at a press conference in London.
+But the company declined the BBC's request to show the footage, saying it was still in a testing phase, so too early to share widely.
+Dynamic advertising
+Video ads have long been targeted at users on services such as YouTube and Facebook via cookies and other means that track their identities.
+But rather than just directing pre-made clips at targeted audiences, Amazon aims to make its adverts more effective by creating them on the fly, tailored to each user's interests.
+It is able to do this by using graphics templates, whose elements are superimposed with images and text selected by the company's algorithms.
+It is not uncommon for commercials to be created using such motion graphics templates.
+But they normally require a human to arrange and edit their parts using specialised software - a time-consuming and potentially expensive activity.
+
+Several design companies sell motion graphics templates that need to be adapted by a human
+"Video has always been an incredibly effective way of advertising," said Maisie McCabe, acting UK editor of Campaign.
+"Technology is now enabling brands such as Amazon to combine the power of video with the precision of targeted online ads.
+"However, this must be done sensitively and openly.
+"Brands must be careful not to scare off potential customers by abusing the trust people place on them when they allow companies to track their data.
+"Moreover, there's a big difference between what people expect from a static display ad and online video.
+"Amazon will need to make sure its personalised videos are more engaging than the functional shopping ones they serve at the moment."
+Unique messages
+Although the idea of dynamic video ads is new to Amazon, other brands have teamed up with digital marketing companies to explore the idea.
+
+The Cadbury Glow campaign included a video that featured personalised elements
+For example:
+Israel's Idomoo created a video ad for Cadbury's that could be customised by its viewers to feature their own names
+Cofactor built web videos for Toys R Us stores that were targeted at people living nearby, which automatically determined the products to highlight by taking into account both the shops' inventory levels and local demand
+Impossible Software created a campaign for Nike that made personalised videos for every runner in a Paris race, featuring their own finish times and course photos alongside graphics showing the sportswear company's logo
+
+The We Run Paris dynamic video ad was created last year
+Perhaps most prominently of all, Facebook has created a variety of personalised videos based on images and posts its members' have uploaded to its service, which it shows from time to time to help keep users loyal.
+
+

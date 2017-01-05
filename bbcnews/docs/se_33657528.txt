@@ -1,0 +1,53 @@
+Media captionWATCH: BBC Click heads behind the scenes to see the James Webb Space Telescope
+"Up to this point, for as long as we've been working on Webb, you've only ever really seen a cartoon of the telescope. Towards the end of this year, you will actually be able to see the James Webb Space Telescope realised in hardware."
+It's been a long time coming but we are now at the business end of building Hubble's successor.
+The spectacular new observatory that has been designed to find the "first light" to shine in the Universe is getting real.
+And Eric Smith, the programme director and programme scientist on this $10bn venture, is understandably quite excited by what is about to unfold in the next few months.
+Whereas in the past, the talk has all been about the development and manufacture of individual components, such as Webb's instruments or its beryllium and gold mirrors - these have all now been produced (bar one or two items).
+
+For years, the James Webb Space Telescope has been just an artist's impression. The coming year will see it really take shape
+The time has come to put everything together in preparation for the big launch into orbit on an Ariane rocket in 2018.
+The US aerospace giant Northrop Grumman is the industrial prime contractor and it has just completed the main telescope structure at its facility in Los Angeles.
+This includes the "backplane" - the part of Webb that will hold the 18 mirror segments in its primary reflecting surface.
+Shortly, the telescope structure will ship to Nasa's Goddard centre outside Washington DC for this integration task to begin.
+Media captionNasa's Eric Smith: "This is the year of the telescope"
+It will be an iconic milestone because, as Eric Smith says, it's the moment when everyone will go: "So, this is JWST!" At last, we will have something that starts to resemble all those artist impressions.
+And while this is happening, the telescope's instruments reach a critical juncture of their own at Goddard.
+Slowly but surely
+James Webb has four sophisticated tools to study the sky - the American NIRCam, NIRSpec and Miri from Europe, and the Canadian FGS/NIRISS.
+This quartet has now been mounted inside a composite support frame, known as the Integrated Scientific Instrument Module or ISIM.
+In the next few weeks, this entire edifice will be checked for any electronic interference issues, and also shaken and blasted with sound to simulate the thunderous environment of flying on an Ariane.
+
+All four of James Webb's instruments are in the ISIM and ready for their third and final test in the Goddard cryo-chamber
+The ISIM structure will then go inside a vast chamber at Goddard for three months to experience the deep cold and vacuum of space.
+"Because James Webb is such a large and complex observatory, and also because it's a cryogenic one - you can't just put everything together at once and then test it," explains project scientist Mark Clampin, as we stand next to the big cryo-vac facility.
+"As you put stuff together, it gets sealed in thermally isolated packages. So you have to start by testing the smallest piece first, adding it to the next item and then testing them, and so on.
+"And as you get to the largest items, it's then very difficult to go back if you have a problem with, say, a detector. As a consequence James Webb has been a long and deliberate process."
+This autumn's cryo campaign will be the third and final one for ISIM and its passengers at Goddard.
+When the instruments are inside, they will be exposed to a light source - a fake star, if you will. It will give the instrument teams an opportunity to gather the calibration data they will need to fine-tune Webb when it goes into orbit.
+Replacing components
+"We have another complex piece called the Optical Telescope Simulator, and it takes the place of the telescope, producing a light that simulates a star for each of the instruments," explains BegoÃ±a Vila, an engineer with particular responsibility for the Fine Guidance Sensor.
+"We can then all check things related to that star, like its brightness or the dispersion the instruments get with either a slit or a prism. It confirms that everything works as if there is a real star."
+Media captionBegoÃ±a Vila: "The cryo-vac test simulates the activities you plan to do in orbit"
+Europe will be heavily involved in the cryo campaign, confirms Marco Sirianni from the European Space Agency.
+"We are putting together a large team that will come to Goddard and work 24/7 to support the test.
+"We already have seven people here, but more are coming from the NIRSpec and Miri groups. And this test is very important because it will be a final verification of the modifications that were made at the component level."
+Those modifications refer to the underperforming parts of NIRSpec and Miri that were present in the European instruments when they were delivered to Goddard from Germany and the UK.
+Media captionMarco Sirianni explains the European Space Agency's role in the project
+These included degraded detectors and electronics, and, in the case of NIRSpec, a troublesome micro-shutter array intended to tease apart the colours of stars.
+Some of its shutters had the annoying habit of sticking open or closed. All this suspect componentry has now been exchanged.
+When ISIM and the instruments emerge from the cryo-vac, they will be joined to the finished telescope structure complete with mirrors.
+Months in reserve
+By then, there really will be no mistaking James Webb. But yes, you've guessed it, these joined items then have to be tested again as a single unit. And for that task, they will be shipped in 2016 to Nasa's Johnson centre. It has a giant vacuum chamber that was built originally to run the rule over the Apollo spaceships before they launched.
+Of course, the fear is always that some big problem emerges - that perhaps something breaks or simply does not meet the specifications demanded of it.
+Recently, the part of James Webb that has been in the "dog house" is the so-called cryo-cooler for Miri. The instrument will work at just a few degrees above absolute zero and must be actively chilled even in space to get down to the right temperature.
+The cooler unit is late but it has now been delivered from the American manufacturer to begin its testing programme. Assuming the cryo-cooler passes, Webb stays on track.
+Eric Smith told me: "Right now, we are carrying nine months of funded, scheduled reserve. So, we have nine months of slack in our schedule that can be consumed, or used, before we would think of changing the launch date.
+"This nine months is about what we had planned five years ago when we re-structured the programme."
+
+One of the last elements to be integrated will be the telescope's giant sunshield
+
+Hubble has amazed us for 25 years, but it will soon be time to hand the baton to a new space observatory
+BBC Click will have a special report on the James Webb Space Telescope. Find out more at BBC.com/Click and @BBCClick
+
+

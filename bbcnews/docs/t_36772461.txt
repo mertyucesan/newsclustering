@@ -1,0 +1,18 @@
+Media captionWhat is ransomware?
+Scientists at the University of Florida (UF) say they have developed software that can stop the growing problem of ransomware in its tracks.
+Ransomware encrypts computer files and is used by hackers who then demand money in exchange for freeing the content.
+It is becoming a huge problem globally.
+The solution - dubbed CryptoDrop - detected the malware and stopped it after it had encrypted just a handful of files, said its developers.
+Patrick Traynor, an associate professor in UF's department of computer and information science, worked with PhD student Nolen Scaife and Henry Carter, from Villanova University, on the software.
+"Our system is more of an early-warning system," Mr Scaife said.
+"It doesn't prevent the ransomware from starting... it prevents the ransomware from completing its taskâ€¦ so you lose only a couple of pictures or a couple of documents rather than everything that's on your hard drive, and it relieves you of the burden of having to pay the ransom."
+In tests, CryptoDrop had spotted 100% of malware samples and stopped it after an average of 10 files had been encrypted, researchers said.
+In May, the FBI issued a warning saying that the number of ransomware attacks had doubled in the past year and was expected to grow even more rapidly this year.
+It said that it had received more than 2,400 complaints last year and estimated losses from such attacks at $24m (Â£18m) for individuals and businesses.
+Governments, large companies, banks, hospitals and educational institutions are all among the victims of such attacks.
+Richard Cassidy, an expert at security firm Alert Logic said of CryptoDrop: "Whilst the step taken by researchers at the University of Florida are indeed a novel way in which to detect and contain ransomware, it doesn't serve as the 'silver bullet' for ransomware as a whole."
+"There are new variants being written all the time and ransomware writers will indeed take the time to dissect and understand how this new technology operates, creating versions that will attempt to either bypass detection, or at the very least search more effectively for likely sensitive files, before encrypting them, with the hope of having the biggest impact of securing a ransom payment."
+The team at UF currently has a prototype that works with Windows-based systems.
+It is seeking a commercial partner for the software, having recently presented its paper on the technology at a conference in Japan.
+
+

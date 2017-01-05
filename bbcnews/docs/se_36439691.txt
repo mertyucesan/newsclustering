@@ -1,0 +1,31 @@
+Image copyrightSCIENCE/AAAS
+
+A VLA radio map of the complex upwellings of ammonia in the region around the Great Red Spot (top), next to a visible image of the spot's cloud tops acquired by Hubble
+US astronomers have managed to peer deep into the atmosphere of Jupiter using a radio telescope on Earth.
+The Very Large Array (VLA) traced the presence of ammonia in the gas giant to study the circulation systems below the visible cloud tops.
+For features such as the planet's Great Red Spot - a huge storm that has raged for at least 400 years - the scientists can see something of its roots.
+The observations go many tens of kilometres into the atmosphere.
+"What really excites me is just the level of detail we see," said team-member Michael Wong from the University of California, Berkeley.
+"In our maps you can see different zones, turbulent features, vortices - even the Great Red Spot.
+"This has all been made possible by an upgrade to the VLA and a new technique developed by one of our co-workers," he told BBC News.
+The Karl G Jansky Very Large Array is based in the desert of New Mexico, close to the town of Socorro.
+As its name suggests, it is multi-antenna telescope.
+The upgrade Dr Wong is referring to has made the facility a far more sensitive tool for studying the radio emissions coming from objects in space.
+And the new technique he mentions counters the smearing effect you would ordinarily expect to get if you took a long exposure of a rapidly rotating body (Jupiter's "day" lasts just 10 hours).
+The result is a wonderfully detailed impression of what is happening under the immediate surface of the many-banded weather systems that race across the top of planet's atmosphere.
+
+In this VLA radio image of Jupiter, data has been averaged over 10 hours, smearing out a lot detail
+The team looks at the glow of ammonia because it is a tracer for the dynamical flow in the planet's gases, which are dominated by hydrogen and helium. At Earth, you might do something similar by using water as the tracer.
+"We see the actual glow of the ammonia itself, and the variation in depth is correlated with brightness," explained Dr Wong.
+"The deepest we can see in this dataset is about 12 Bar - 12 times the Earth's atmospheric pressure."
+Imminent visit
+Plumes of ammonia are observed to rise up in waves. The team writes in the journal Science that the ammonia in these plumes will eventually condense out at higher altitudes, and could explain the ammonia ice clouds detected by the Galileo spacecraft in the 1990s.
+"All told, there is a wealth of information about the structure of Jupiter's atmosphere in these new VLA images," said Imke de Pater, the lead author on the Science paper.
+"We hope to resolve a number of outstanding questions with these and future studies using similar techniques." Prof de Pater wants to try similar observations at the gas giants Saturn and Uranus.
+The research is a nice prelude to the next probe set to visit Jupiter: the US space agency satellite Juno arrives at the enormous planet on 4 July.
+Its remote sensing instruments aim to characterise the full internal structure of the planet, right down to its rocky core - if indeed it has one.
+
+The Juno probe arrives on 4 July
+Jonathan.Amos-INTERNET@bbc.co.uk and follow me on Twitter: @BBCAmos
+
+

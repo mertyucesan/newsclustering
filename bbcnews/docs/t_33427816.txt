@@ -1,0 +1,23 @@
+
+Inside the BBC Radio Theatre this morning, the enthusiasm was palpable.
+From the BBC's director general to senior executives from technology companies, from Dara O'Briain to teenage techies, everyone at the unveiling of the Micro Bit seemed convinced that this was an idea whose time had come.
+But in the outside world, the reaction to the computing device which will be given away to a million school children in October was a little more mixed. As I live-streamed the event from my mobile phone, some excited messages popped up ,but others had questions and doubts. More arrived on social media, as teachers learned about the Micro Bit.
+Media captionYoung coders explain what the Micro Bit can do
+Why was the BBC funding this expensive project? Why not simply back the existing Raspberry Pi computer? Were teachers going to be helped to get to grips with the challenge of using this device in lessons? And could anybody get hold of one? So I've set about trying to answer at least some of those questions.
+How much is the BBC spending on this and why is it coming out of the licence fee?
+The BBC won't give exact figures on the costs - it says they're commercially sensitive - but says the vast majority is being covered by the partners in the project. So, for instance ARM has done much of the work on the design of the device, while it's Microsoft which has developed the software.
+The BBC's director general, Lord Hall, said at the launch that this project was rooted in the corporation's mission to educate as well as to entertain. It's seen as being an echo of the very successful BBC Micro which gave many people an introduction to computers in the 1980s, and the hope is that it will inspire the next generation of tech pioneers.
+
+Lord Hall at the launch of the Micro Bit
+Why not simply back the Raspberry Pi?
+The Raspberry Pi has been an amazing success since it was launched in 2012, with the aim of getting young people coding - though it sometimes seems more popular with nostalgic 40-somethings than with teenagers. But the BBC says the much simpler Micro Bit is aimed at helping younger children to start learning how computers work, and will then be a springboard for more advanced devices like the Raspberry Pi and Arduino.
+The founders of the Raspberry Pi project did have ambitions to make it the next BBC Micro - but they are now supportive of the Micro Bit and see opportunities for collaboration.
+What support will teachers get to make this work?
+There is already a quick start guide for teachers, partly written by a brilliant coding teenager Ross Lowe, who I met at the launch. The BBC says it will be working closely with teachers over the summer and the autumn, and the Micro Bit website will go live a few weeks from now with lots of tips and coding projects. There will also be workshops and training events - more on this here.
+But it strikes me that getting teachers on board is the key to the success of the whole project. Many are still struggling to get to grips with the arrival of coding in the curriculum - now there is a danger they may see the Micro Bit as a problem rather than a solution.
+How do the Micro Bits get into schools?
+ScienceScope, one of the companies involved in the development of the device, will be in charge of getting it into schools. The IT-in-education firm already has experience delivering coding kits. Once the Micro Bit is in the hands of a child, however, it is theirs to keep. It will be interesting to see how quickly they are lost or broken, though I suspect in the early days they will be highly prized.
+Can individuals buy one?
+Which brings us to a final question - is this just for kids? At first, yes, the priority will be to put them in the hands of a million Year 7 children. But by the end of 2015 they will go on sale to the general public through a not-for-profit company. Its aim will be to continue to make sure the Micro Bit develops into something which can deliver a lasting educational legacy for the UK.
+
+

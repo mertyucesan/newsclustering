@@ -1,0 +1,22 @@
+Scientists have designed a robotic stingray that could help our understanding of the human heart.
+The miniature robot, one-tenth the scale of the actual fish, moves using heart cells taken from a rat.
+Researchers hope the robotic ray will give new insight into the heart's ability to pump blood and its potential implications in heart disease.
+The research is published in the journal, Science.
+"It turns out the musculature in the stingray has to do the same thing as the heart does: it has to move fluids," said lead researcher, Prof Kevin Kit Parker of Harvard University, US.
+The scientists reverse-engineered the marine animal to understand how it glides in liquid environments.
+They then built a robotic prototype, which contains a gold skeleton and a single layer of 200,000 cardiac cells wrapped in a gel-like material similar to the gel used for breast implants.
+The final tiny synthetic ray weighs 10g and is 16mm long.
+The cardiac cells had their DNA modified to be responsive to light.
+Chasing the light
+"When we have a light in the front [of the ray], we activate an electrical signal in the tissue and it propagates like a wave through the musculature," explained Prof Parker.
+"You get this undulatory motion of the fins, and it looks as if it is chasing the light."
+Each half of the robot is composed of different cardiac cells sensitive to specific light wavelengths.
+When picking one wavelength over the other, the scientists were able to steer the robot in a chosen direction.
+Using this guidance system, the robotic ray was able to negotiate a simple obstacle course.
+Researchers hope the robotic ray will help in the understanding of cardiac physiology.
+"We are making assumptions from our physiology textbooks that a heart beats the same way from every beat," Prof Parker told the BBC World Service - Science in Action programme.
+"But if you talk to cardiovascular surgeons, they would tell no, it always beats differently."
+As a robot with a soft body, the ray is one of the first of its kind compared with other technologies that use rigid frames based on the gait of insects or mammals.
+Another such robot is a jellyfish, developed by the same laboratory at the Wyss Institute in Boston.
+
+
